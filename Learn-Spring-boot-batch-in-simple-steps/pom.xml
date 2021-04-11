@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>2.4.2</version>
+		<relativePath /> <!-- lookup parent from repository -->
+	</parent>
+
+	<groupId>com.sid.tutorials.springboot.batch</groupId>
+	<artifactId>Learn-Spring-boot-batch-in-simple-steps</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<name>Learn-Spring-boot-batch-in-simple-steps</name>
+	<description>Learn-Spring-boot-batch-in-simple-steps</description>
+
+	<build>
+		<resources>
+			<resource>
+				<directory>src/main/resources</directory>
+			</resource>
+		</resources>
+		<pluginManagement>
+			<plugins>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-compiler-plugin</artifactId>
+					<version>3.2</version>
+					<configuration>
+						<source>1.8</source>
+						<target>1.8</target>
+					</configuration>
+				</plugin>
+			</plugins>
+		</pluginManagement>
+	</build>
+
+	<properties>
+		<springframework.version>4.3.6.RELEASE</springframework.version>
+		<junit.version>4.13</junit.version>
+		<javax.annotation-api.version>1.3.2</javax.annotation-api.version>
+		<mysql-connector-java.version>8.0.21</mysql-connector-java.version>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>${junit.version}</version>
+			<scope>test</scope>
+			<exclusions>
+				<exclusion>
+					<groupId>org.hamcrest</groupId>
+					<artifactId>hamcrest-core</artifactId>
+				</exclusion>
+			</exclusions>
+		</dependency>
+	</dependencies>
+
+	<modules>
+		<module>Section01Welcome</module>
+		<module>Section02SpringbootBatchWithDBRepository</module>
+		<module>Section03LearnAboutSpringBatchFlows</module>
+		<module>Section04LearnAboutSpringBatchDecisions</module>
+		<module>Section05LearnAboutSpringBatchNestedJobs</module>
+		<module>Section06LearnAboutSpringBatchListeners</module>
+		<module>Section07LearnAboutSpringBatchJobParameters</module>
+		<module>Section08IntroductionToReaderWriter</module>
+		<module>Section09LearnHowtoReadFromaDatabase</module>
+		<module>Section10LearnHowtoReadFlatFiles</module>
+		<module>Section11LearnHowtoReadFromXML</module>
+		<module>Section12LearnHowtoReadFromMultipleSources</module>
+		<module>Section15LearnAboutItemStreamInterface</module>
+		<module>Section16LearnHowToHandleRetry</module>
+		<module>Section17LearnHowToHandleErrorsRetry</module>
+		<module>Section18LearnHowToHandleErrorsSkip</module>
+		<module>Section19LearnHowToHandleErrorsListeners</module>
+		<module>
+			Section20LearnAboutMultiThreadedStepAsyncItemProcessor
+		</module>
+		<module>Section21LearnAboutAsyncItemProcessor</module>
+		<module>Section22LearnAboutLocalPartitioning</module>
+		<module>Section23LearnHowToStopaJob</module>
+		<module>Section24LearnHowToStopaJobFromCommend</module>
+		<module>
+			Section25LearnHowToScheduleaJobUsingSpringSchedule
+		</module>
+	</modules>
+</project>
