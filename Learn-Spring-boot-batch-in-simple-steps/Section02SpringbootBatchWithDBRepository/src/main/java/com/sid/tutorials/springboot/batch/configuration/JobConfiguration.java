@@ -68,7 +68,7 @@ public class JobConfiguration {
 				.build();
 	}
 	*/
-	
+
 	/*
 	@Bean
 	public Job job() {
@@ -79,7 +79,7 @@ public class JobConfiguration {
 				.build();
 	}
 	*/
-	
+
 	/*
 	@Bean
 	public Job job() {
@@ -90,15 +90,11 @@ public class JobConfiguration {
 				.build();
 	}
 	*/
-	
-	
+
 	@Bean
 	public Job job() {
-		return jobBuilderFactory.get("FifthSpringBatchProject")
-				.start(step1()).on("COMPLETED").to(step2())
-				.from(step2()).on("COMPLETED").stopAndRestart(step3())
-				.from(step3()).end()
-				.build();
+		return jobBuilderFactory.get("FifthSpringBatchProject").start(step1()).on("COMPLETED").to(step2()).from(step2())
+				.on("COMPLETED").stopAndRestart(step3()).from(step3()).end().build();
 	}
-	
+
 }
