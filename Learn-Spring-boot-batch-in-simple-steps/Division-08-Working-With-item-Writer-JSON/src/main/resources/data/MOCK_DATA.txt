@@ -1,0 +1,52 @@
+ID        	MAKE        	MODEL        	COLOR        	YEAR        PRICE
+1        	Ford        	F250        	Yank        	1998        7203
+2        	Nissan        	350Z        	Ella        	2007        5163
+3        	Toyota        	Camry        	Edouard        	1994        6541
+4        	BMW        		530        		Aarika        	2003        234
+5        	Ford        	Escape        	Alfonse        	2011        2913
+6        	Acura        	RL        		Loella        	2012        8423
+7        	Pontiac        	Grand Prix      Rosanna        	1963        1693
+8        	Suzuki        	X-90        	Gannie        	1998        8938
+9        	Plymouth       	Grand Voyager   Ashlan        	1992        7137
+10        	Jaguar        	XJ Series       Benedicto       1995        8711
+11        	Pontiac       	Bonneville      Chryste        	1998        4926
+12        	Dodge        	Ram 1500        Bank        	1994        8328
+13        	Ford        	E250        	Rasla        	2004        6277
+14        	Chevrolet     	Suburban 1500   Xylia        	2008        9607
+15        	Ford        	F350        	Roscoe        	2003        4861
+16        	Ford        	Ranger        	Jeanette        1986        6234
+17        	BMW        		X5 M        	Ninnetta        2012        6458
+18        	Ford        	Fiesta        	Cecilio        	2012        5022
+19        	Chevrolet     	Silverado 3500  Ginnie        	2002        5081
+20        	Nissan        	370Z        	Audi        	2010        3987
+21        	Bentley       	Continental     Harmonie        2007        728
+22        	Ford        	Explorer        Wake        	2008        8567
+23        	GMC        		Safari        	Rozanna        	1999        8870
+24        	Dodge        	Ram 2500        Chiquita        1997        9332
+25        	Alfa Romeo    	164        		Derick        	1993        6983
+26        	Dodge        	Intrepid        Ruttger        	2000        9502
+27        	Aston Martin  	V12 Vantage     Anya        	2011        787
+28        	Audi        	V8        		Emmi        	1992        2727
+29        	Ford        	F-Series        Rhys        	2010        7184
+30        	Honda        	Insight        	Gabie        	2003        7544
+31        	Kia        		Sedona        	Elyn        	2010        4952
+32        	Hyundai       	Sonata        	Jodee        	2012        2302
+33        	Oldsmobile    	Cutlass Cruiser Julissa        	1993        9701
+34        	Ford        	Laser        	Adelbert        1986        4301
+35        	Pontiac       	Firefly        	Avrom        	1995        3020
+36        	Audi        	100        		Jason        	1993        5264
+37        	GMC        		Sonoma        	Charlene        1996        8704
+38        	Toyota        	T100 Xtra       Lisbeth        	1995        5691
+39        	Volvo        	940        		Selby        	1995        1233
+40        	Mitsubishi    	Endeavor        Emlynn        	2010        1195
+41        	Chrysler      	LHS        		Emily        	2001        5370
+42        	Hyundai       	Sonata        	Corabella      	2010        6750
+43        	Mercedes-Benz 	E-Class        	Kiah        	2001        9897
+44        	Volkswagen    	Jetta        	Lowrance        1987        9297
+45        	Lexus        	LS        		Latashia        1991        8965
+46        	Mercedes-Benz 	E-Class        	Ashley        	2002        6441
+47        	Volkswagen      Jetta        	Britt        	1997        5139
+48        	Chevrolet       Caprice        	Janey        	1983        4165
+49        	Suzuki        	Grand Vitara    Vidovic        	2008        2717
+50        	Jaguar        	XK Series       Prudence        2004        7006
+51          Chevrolet       Express        	Willetta        2008        4964

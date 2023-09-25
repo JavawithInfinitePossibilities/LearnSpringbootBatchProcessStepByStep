@@ -1,0 +1,2 @@
+Car [id=589, make=Ford, model=Ranger, color=Purple, year=1993, price=59603.27] | Sun Sep 24 04:16:10 IST 2023
+Car [id=600, make=Mazda, model=Protege, color=Violet, year=2000, price=49743.28] | Sun Sep 24 04:16:11 IST 2023

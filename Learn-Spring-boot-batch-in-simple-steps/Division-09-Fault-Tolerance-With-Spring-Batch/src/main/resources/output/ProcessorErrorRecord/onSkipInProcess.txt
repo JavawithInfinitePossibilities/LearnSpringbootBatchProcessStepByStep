@@ -1,0 +1,3 @@
+Car [id=147, make=Lincoln, model=Town Car, color=Orange, year=1988, price=47330.81] | Sun Sep 24 04:16:10 IST 2023
+Car [id=257, make=Kia, model=Optima, color=Aquamarine, year=2012, price=81358.15] | Sun Sep 24 04:16:10 IST 2023
+Car [id=700, make=Mitsubishi, model=Pajero, color=Teal, year=1987, price=34628.05] | Sun Sep 24 04:16:11 IST 2023
