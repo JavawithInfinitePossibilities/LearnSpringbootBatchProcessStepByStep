@@ -24,7 +24,7 @@ import org.springframework.context.annotation.Configuration;
 public class JobConfiguration {
 	@Autowired
 	private JobBuilderFactory jobBuilderFactory;
-	
+
 	@Autowired
 	private StepBuilderFactory stepBuilderFactory;
 

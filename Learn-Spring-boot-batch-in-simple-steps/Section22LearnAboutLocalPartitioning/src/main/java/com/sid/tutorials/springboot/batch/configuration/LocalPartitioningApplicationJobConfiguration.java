@@ -49,18 +49,19 @@ public class LocalPartitioningApplicationJobConfiguration {
 
 	@Bean
 	@StepScope
-	public JdbcPagingItemReader<Customer> pagingItemReader(@Value("#{stepExecutionContext['minValue']}")Long minValue,
-			@Value("#{stepExecutionContext['maxValue']}")Long maxValue) {
+	public JdbcPagingItemReader<Customer> pagingItemReader(@Value("#{stepExecutionContext['minValue']}") Long minValue,
+			@Value("#{stepExecutionContext['maxValue']}") Long maxValue) {
 		JdbcPagingItemReader<Customer> reader = new JdbcPagingItemReader<>();
 		reader.setDataSource(this.dataSource);
 		reader.setFetchSize(10);
 		reader.setRowMapper((ResultSet resultSet, int i) -> {
-			return new Customer(resultSet.getLong("id"), resultSet.getString("firstName"), 
+			return new Customer(resultSet.getLong("id"), resultSet.getString("firstName"),
 					resultSet.getString("lastName"), resultSet.getDate("birthdate"));
 		});
 		MySqlPagingQueryProvider queryProvider = new MySqlPagingQueryProvider();
 		queryProvider.setSelectClause("id, firstName, lastName, birthdate");
 		queryProvider.setFromClause("from customer");
+		queryProvider.setWhereClause("id>=" + minValue + " and id<=" + maxValue);
 		Map<String, Order> sortKeys = new HashMap<>(1);
 		sortKeys.put("id", Order.ASCENDING);
 		queryProvider.setSortKeys(sortKeys);
@@ -88,18 +89,18 @@ public class LocalPartitioningApplicationJobConfiguration {
 		itemWriter.afterPropertiesSet();
 		return itemWriter;
 	}
-	
+
 	@Bean
 	@StepScope
 	public ItemProcessor<Customer, Customer> itemProcesser() {
 		ItemProcessor<Customer, Customer> processor = (Customer item) -> {
 			Thread.sleep(new Random().nextInt(10));
-			return new Customer(item.getId(), item.getFirstName().toUpperCase(), 
-					item.getLastName().toUpperCase(), item.getBirthdate());
+			return new Customer(item.getId(), item.getFirstName().toUpperCase(), item.getLastName().toUpperCase(),
+					item.getBirthdate());
 		};
 		return processor;
 	}
-	
+
 	@Bean
 	public ColumnRangePartitioner partitioner() {
 		ColumnRangePartitioner columnRangePartitioner = new ColumnRangePartitioner();
@@ -108,26 +109,18 @@ public class LocalPartitioningApplicationJobConfiguration {
 		columnRangePartitioner.setTable("customer");
 		return columnRangePartitioner;
 	}
-	
+
 	@Bean
 	public Step slaveStep() {
-		return stepBuilderFactory.get("slaveStep")
-				.<Customer, Customer>chunk(1000)
-				.reader(pagingItemReader(null, null))
-				.processor(itemProcesser())
-				.writer(customerJDBCItemWriter())
-				.build();
+		return stepBuilderFactory.get("slaveStep").<Customer, Customer>chunk(1000).reader(pagingItemReader(null, null))
+				.processor(itemProcesser()).writer(customerJDBCItemWriter()).build();
 	}
-	
+
 	@Bean
 	public Step step1() throws Exception {
-		return stepBuilderFactory
-				.get("LocalPartitioningApplication1Start")
-				.partitioner(slaveStep().getName(), partitioner())
-				.step(slaveStep())
-				.gridSize(4)
-				.taskExecutor(new SimpleAsyncTaskExecutor())
-				.build();
+		return stepBuilderFactory.get("LocalPartitioningApplication1Start")
+				.partitioner(slaveStep().getName(), partitioner()).step(slaveStep()).gridSize(4)
+				.taskExecutor(new SimpleAsyncTaskExecutor()).build();
 	}
 
 	@Bean

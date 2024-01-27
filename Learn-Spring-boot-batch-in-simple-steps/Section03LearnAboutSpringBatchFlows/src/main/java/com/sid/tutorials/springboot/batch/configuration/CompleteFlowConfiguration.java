@@ -19,7 +19,6 @@ import org.springframework.context.annotation.Configuration;
  *
  */
 @Configuration
-@EnableBatchProcessing
 public class CompleteFlowConfiguration {
 
 	@Autowired
@@ -32,9 +31,6 @@ public class CompleteFlowConfiguration {
 	@Bean
 	public Job executeCompleteFlowJob(@Qualifier("firstFlow") Flow firstFlow, @Qualifier("lastFlow") Flow lastFlow) {
 		return jobBuilderFactory.get("SixthCompleteSpringBatchProject").incrementer(new RunIdIncrementer())
-				.start(firstFlow)
-				.next(step4).on("COMPLETED").to(lastFlow)
-				.end()
-				.build();
+				.start(firstFlow).next(step4).on("COMPLETED").to(lastFlow).end().build();
 	}
 }

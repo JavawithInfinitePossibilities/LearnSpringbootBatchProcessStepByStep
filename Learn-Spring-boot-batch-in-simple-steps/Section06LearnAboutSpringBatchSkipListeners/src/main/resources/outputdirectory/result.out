@@ -1,0 +1,1677 @@
+{"id":1,"make":"Toyota","model":"Highlander","color":"Mauv","year":2008,"price":23736.62}
+{"id":2,"make":"Toyota","model":"Solara","color":"Fuscia","year":2002,"price":66403.47}
+{"id":3,"make":"Ford","model":"Expedition EL","color":"Pink","year":2010,"price":68973.04}
+{"id":5,"make":"Lexus","model":"SC","color":"Pink","year":2010,"price":20900.33}
+{"id":6,"make":"Acura","model":"MDX","color":"Blue","year":2005,"price":87249.54}
+{"id":7,"make":"Ford","model":"Econoline E250","color":"Pink","year":2002,"price":33679.71}
+{"id":8,"make":"Lincoln","model":"Navigator L","color":"Yellow","year":2009,"price":37768.38}
+{"id":10,"make":"Ford","model":"Mustang","color":"Blue","year":2011,"price":65528.11}
+{"id":11,"make":"Toyota","model":"RAV4","color":"Pink","year":2006,"price":36050.89}
+{"id":14,"make":"Volvo","model":"S60","color":"Maroon","year":2012,"price":98783.12}
+{"id":15,"make":"Mitsubishi","model":"Mirage","color":"Mauv","year":2001,"price":92560.44}
+{"id":20,"make":"Subaru","model":"Forester","color":"Turquoise","year":2010,"price":90576.85}
+{"id":21,"make":"Lexus","model":"GS","color":"Violet","year":2002,"price":90959.01}
+{"id":22,"make":"Land Rover","model":"Range Rover","color":"Green","year":2005,"price":33492.54}
+{"id":24,"make":"Audi","model":"Allroad","color":"Goldenrod","year":2001,"price":52583.0}
+{"id":27,"make":"Ford","model":"Ranger","color":"Maroon","year":2008,"price":25641.58}
+{"id":29,"make":"Saturn","model":"VUE","color":"Teal","year":2002,"price":71422.42}
+{"id":34,"make":"Chevrolet","model":"SSR","color":"Khaki","year":2003,"price":6861.85}
+{"id":35,"make":"Toyota","model":"Venza","color":"Fuscia","year":2009,"price":69925.27}
+{"id":37,"make":"Hummer","model":"H2","color":"Puce","year":2003,"price":43882.36}
+{"id":38,"make":"Infiniti","model":"QX","color":"Teal","year":2010,"price":74691.26}
+{"id":39,"make":"Maserati","model":"GranTurismo","color":"Fuscia","year":2011,"price":64608.82}
+{"id":41,"make":"Mitsubishi","model":"Endeavor","color":"Crimson","year":2005,"price":88526.65}
+{"id":42,"make":"Mercedes-Benz","model":"E-Class","color":"Violet","year":2001,"price":99129.26}
+{"id":44,"make":"Volkswagen","model":"Golf","color":"Red","year":2010,"price":89434.21}
+{"id":46,"make":"BMW","model":"X5 M","color":"Blue","year":2013,"price":14194.46}
+{"id":48,"make":"Hyundai","model":"Tiburon","color":"Blue","year":2009,"price":98896.61}
+{"id":50,"make":"Chevrolet","model":"Express 3500","color":"Indigo","year":2009,"price":34007.45}
+{"id":54,"make":"Ford","model":"E150","color":"Orange","year":2012,"price":24739.83}
+{"id":55,"make":"Smart","model":"Fortwo","color":"Yellow","year":2010,"price":31964.39}
+{"id":56,"make":"Ferrari","model":"California","color":"Goldenrod","year":2010,"price":56259.83}
+{"id":57,"make":"Chevrolet","model":"TrailBlazer","color":"Mauv","year":2004,"price":87497.23}
+{"id":58,"make":"Suzuki","model":"SX4","color":"Khaki","year":2007,"price":12202.32}
+{"id":59,"make":"Cadillac","model":"CTS","color":"Mauv","year":2011,"price":10281.25}
+{"id":60,"make":"Cadillac","model":"Escalade ESV","color":"Blue","year":2010,"price":71568.58}
+{"id":61,"make":"Mercedes-Benz","model":"SL-Class","color":"Blue","year":2008,"price":22999.95}
+{"id":62,"make":"Lexus","model":"LS","color":"Maroon","year":2006,"price":70192.44}
+{"id":63,"make":"Pontiac","model":"Daewoo Kalos","color":"Teal","year":2006,"price":29684.26}
+{"id":65,"make":"Porsche","model":"Panamera","color":"Aquamarine","year":2010,"price":7486.86}
+{"id":67,"make":"Mazda","model":"RX-8","color":"Maroon","year":2005,"price":95614.14}
+{"id":68,"make":"Toyota","model":"Prius Plug-in","color":"Purple","year":2012,"price":92507.06}
+{"id":71,"make":"Jeep","model":"Wrangler","color":"Violet","year":2001,"price":32151.98}
+{"id":73,"make":"Jeep","model":"Grand Cherokee","color":"Blue","year":2012,"price":90199.32}
+{"id":77,"make":"Buick","model":"LaCrosse","color":"Blue","year":2010,"price":93295.81}
+{"id":78,"make":"Nissan","model":"GT-R","color":"Violet","year":2013,"price":74700.05}
+{"id":79,"make":"BMW","model":"3 Series","color":"Aquamarine","year":2007,"price":74583.95}
+{"id":80,"make":"BMW","model":"745","color":"Turquoise","year":2004,"price":84013.53}
+{"id":82,"make":"Kia","model":"Sedona","color":"Maroon","year":2003,"price":13145.96}
+{"id":83,"make":"Mitsubishi","model":"Lancer","color":"Blue","year":2011,"price":19133.51}
+{"id":84,"make":"Toyota","model":"Land Cruiser","color":"Green","year":2010,"price":55450.54}
+{"id":85,"make":"Volkswagen","model":"Routan","color":"Aquamarine","year":2009,"price":43511.97}
+{"id":87,"make":"Chevrolet","model":"Silverado 2500","color":"Purple","year":2012,"price":74400.88}
+{"id":88,"make":"Ford","model":"Expedition","color":"Yellow","year":2009,"price":84361.9}
+{"id":90,"make":"Jeep","model":"Grand Cherokee","color":"Orange","year":2007,"price":47686.03}
+{"id":93,"make":"Chevrolet","model":"Corvette","color":"Green","year":2012,"price":28794.8}
+{"id":98,"make":"Nissan","model":"Quest","color":"Yellow","year":2004,"price":26792.5}
+{"id":99,"make":"Chevrolet","model":"Silverado 3500","color":"Turquoise","year":2008,"price":53421.99}
+{"id":100,"make":"Toyota","model":"Sequoia","color":"Turquoise","year":2010,"price":35504.68}
+{"id":101,"make":"Bentley","model":"Continental","color":"Fuscia","year":2005,"price":14564.21}
+{"id":103,"make":"Maserati","model":"Quattroporte","color":"Pink","year":2011,"price":70709.42}
+{"id":104,"make":"Porsche","model":"Boxster","color":"Red","year":2008,"price":87540.59}
+{"id":106,"make":"Chevrolet","model":"Avalanche 2500","color":"Yellow","year":2006,"price":35418.67}
+{"id":109,"make":"Saab","model":"9-7X","color":"Mauv","year":2005,"price":56902.39}
+{"id":112,"make":"GMC","model":"Sierra 3500HD","color":"Mauv","year":2006,"price":37317.31}
+{"id":113,"make":"Ford","model":"Crown Victoria","color":"Puce","year":2005,"price":84192.03}
+{"id":114,"make":"Dodge","model":"Durango","color":"Mauv","year":2001,"price":6513.16}
+{"id":115,"make":"Audi","model":"A5","color":"Turquoise","year":2010,"price":29206.41}
+{"id":116,"make":"Mercedes-Benz","model":"S-Class","color":"Red","year":2009,"price":90776.79}
+{"id":117,"make":"Lotus","model":"Esprit","color":"Green","year":2004,"price":16362.61}
+{"id":121,"make":"Saab","model":"9-5","color":"Red","year":2011,"price":78348.52}
+{"id":123,"make":"Chevrolet","model":"Malibu","color":"Green","year":2005,"price":66977.87}
+{"id":127,"make":"Toyota","model":"Sienna","color":"Fuscia","year":2009,"price":39798.17}
+{"id":129,"make":"Aston Martin","model":"V8 Vantage","color":"Green","year":2006,"price":42854.27}
+{"id":131,"make":"Volvo","model":"S40","color":"Teal","year":2003,"price":85454.46}
+{"id":132,"make":"Audi","model":"Q7","color":"Teal","year":2011,"price":33333.43}
+{"id":134,"make":"Dodge","model":"Durango","color":"Fuscia","year":2004,"price":67115.92}
+{"id":137,"make":"Buick","model":"Lucerne","color":"Indigo","year":2007,"price":94804.57}
+{"id":138,"make":"Cadillac","model":"DeVille","color":"Blue","year":2003,"price":61239.78}
+{"id":140,"make":"Dodge","model":"Dakota","color":"Pink","year":2005,"price":96945.89}
+{"id":141,"make":"Honda","model":"Fit","color":"Aquamarine","year":2011,"price":47582.12}
+{"id":142,"make":"Toyota","model":"Camry","color":"Red","year":2003,"price":70692.76}
+{"id":144,"make":"BMW","model":"X6","color":"Yellow","year":2013,"price":35471.17}
+{"id":146,"make":"Ford","model":"E250","color":"Pink","year":2009,"price":57926.05}
+{"id":153,"make":"Subaru","model":"Forester","color":"Teal","year":2008,"price":81298.69}
+{"id":156,"make":"Lincoln","model":"LS","color":"Yellow","year":2004,"price":7219.42}
+{"id":157,"make":"Bentley","model":"Continental GTC","color":"Goldenrod","year":2010,"price":52788.47}
+{"id":158,"make":"Aston Martin","model":"V12 Vantage","color":"Blue","year":2011,"price":56608.19}
+{"id":159,"make":"Lincoln","model":"Continental","color":"Green","year":2002,"price":8725.35}
+{"id":161,"make":"MINI","model":"Cooper Clubman","color":"Crimson","year":2012,"price":17738.41}
+{"id":162,"make":"Lincoln","model":"MKX","color":"Puce","year":2011,"price":17969.72}
+{"id":165,"make":"Ford","model":"F350","color":"Pink","year":2009,"price":25126.94}
+{"id":167,"make":"Ford","model":"F-350 Super Duty","color":"Puce","year":2006,"price":82842.61}
+{"id":168,"make":"Audi","model":"RS4","color":"Yellow","year":2008,"price":82221.47}
+{"id":169,"make":"Ford","model":"C-MAX Hybrid","color":"Puce","year":2013,"price":6698.72}
+{"id":170,"make":"Lincoln","model":"MKZ","color":"Green","year":2008,"price":84991.44}
+{"id":171,"make":"Audi","model":"S6","color":"Blue","year":2011,"price":22583.31}
+{"id":173,"make":"Cadillac","model":"Seville","color":"Yellow","year":2003,"price":46119.78}
+{"id":175,"make":"Land Rover","model":"Range Rover","color":"Fuscia","year":2008,"price":98751.62}
+{"id":176,"make":"Mazda","model":"Mazda6","color":"Turquoise","year":2004,"price":42698.36}
+{"id":179,"make":"Dodge","model":"Dakota Club","color":"Teal","year":2007,"price":90456.29}
+{"id":183,"make":"Jaguar","model":"X-Type","color":"Pink","year":2007,"price":39039.91}
+{"id":184,"make":"Ford","model":"E250","color":"Orange","year":2009,"price":15087.05}
+{"id":185,"make":"Acura","model":"RL","color":"Purple","year":2012,"price":47734.2}
+{"id":187,"make":"Lexus","model":"ES","color":"Indigo","year":2003,"price":61354.49}
+{"id":188,"make":"Honda","model":"Civic","color":"Yellow","year":2010,"price":86422.09}
+{"id":189,"make":"Saab","model":"9-3","color":"Green","year":2012,"price":9639.26}
+{"id":191,"make":"Aston Martin","model":"DB9","color":"Turquoise","year":2012,"price":55423.55}
+{"id":192,"make":"Kia","model":"Optima","color":"Khaki","year":2004,"price":59049.97}
+{"id":194,"make":"Dodge","model":"Grand Caravan","color":"Mauv","year":2005,"price":82001.35}
+{"id":196,"make":"Jaguar","model":"XK Series","color":"Maroon","year":2013,"price":57805.28}
+{"id":198,"make":"Chevrolet","model":"Silverado","color":"Red","year":2007,"price":77001.58}
+{"id":199,"make":"GMC","model":"Envoy XUV","color":"Yellow","year":2005,"price":39778.72}
+{"id":200,"make":"Mazda","model":"Mazda6","color":"Violet","year":2008,"price":85012.54}
+{"id":201,"make":"Scion","model":"tC","color":"Maroon","year":2012,"price":11670.86}
+{"id":202,"make":"Audi","model":"A4","color":"Green","year":2006,"price":82976.69}
+{"id":204,"make":"Porsche","model":"911","color":"Violet","year":2006,"price":10195.39}
+{"id":205,"make":"GMC","model":"Savana 3500","color":"Turquoise","year":2005,"price":18907.26}
+{"id":207,"make":"GMC","model":"Savana 2500","color":"Violet","year":2012,"price":6096.19}
+{"id":208,"make":"BMW","model":"X3","color":"Crimson","year":2012,"price":81875.73}
+{"id":212,"make":"Audi","model":"Q7","color":"Red","year":2010,"price":59565.76}
+{"id":213,"make":"Jeep","model":"Liberty","color":"Turquoise","year":2008,"price":40593.54}
+{"id":214,"make":"Buick","model":"LaCrosse","color":"Pink","year":2009,"price":32524.02}
+{"id":215,"make":"Chrysler","model":"Town & Country","color":"Pink","year":2006,"price":74633.12}
+{"id":219,"make":"BMW","model":"750","color":"Green","year":2006,"price":74629.36}
+{"id":221,"make":"Dodge","model":"Grand Caravan","color":"Indigo","year":2002,"price":86703.0}
+{"id":222,"make":"Dodge","model":"Dakota Club","color":"Aquamarine","year":2003,"price":95062.15}
+{"id":223,"make":"Mazda","model":"Mazdaspeed 3","color":"Orange","year":2010,"price":57883.74}
+{"id":225,"make":"Cadillac","model":"Escalade ESV","color":"Maroon","year":2010,"price":55587.61}
+{"id":226,"make":"Audi","model":"A3","color":"Khaki","year":2011,"price":97544.29}
+{"id":227,"make":"Land Rover","model":"Freelander","color":"Turquoise","year":2002,"price":59566.73}
+{"id":228,"make":"GMC","model":"Sierra 3500","color":"Puce","year":2003,"price":95310.6}
+{"id":230,"make":"Mercedes-Benz","model":"CL-Class","color":"Pink","year":2008,"price":18369.18}
+{"id":231,"make":"Subaru","model":"B9 Tribeca","color":"Khaki","year":2007,"price":64694.19}
+{"id":241,"make":"Lamborghini","model":"Murciélago","color":"Puce","year":2005,"price":92985.68}
+{"id":245,"make":"Dodge","model":"Caravan","color":"Puce","year":2008,"price":79627.31}
+{"id":247,"make":"Oldsmobile","model":"Bravada","color":"Fuscia","year":2002,"price":22195.47}
+{"id":248,"make":"Toyota","model":"Tundra","color":"Goldenrod","year":2008,"price":64392.74}
+{"id":250,"make":"Ford","model":"Focus ST","color":"Yellow","year":2013,"price":18896.55}
+{"id":251,"make":"BMW","model":"1 Series","color":"Indigo","year":2010,"price":23316.89}
+{"id":253,"make":"Ford","model":"Crown Victoria","color":"Indigo","year":2008,"price":52804.21}
+{"id":254,"make":"Lexus","model":"LX","color":"Turquoise","year":2009,"price":63987.21}
+{"id":255,"make":"Toyota","model":"Tundra","color":"Teal","year":2009,"price":98534.61}
+{"id":256,"make":"BMW","model":"M5","color":"Purple","year":2002,"price":29205.64}
+{"id":257,"make":"Kia","model":"Optima","color":"Aquamarine","year":2012,"price":81358.15}
+{"id":258,"make":"Lexus","model":"LS","color":"Orange","year":2009,"price":74653.03}
+{"id":259,"make":"Audi","model":"S4","color":"Maroon","year":2012,"price":25297.53}
+{"id":262,"make":"Scion","model":"xB","color":"Goldenrod","year":2012,"price":55778.37}
+{"id":263,"make":"Chevrolet","model":"Express 2500","color":"Puce","year":2007,"price":99892.59}
+{"id":264,"make":"Lamborghini","model":"Gallardo","color":"Puce","year":2005,"price":27074.24}
+{"id":266,"make":"Porsche","model":"Boxster","color":"Pink","year":2001,"price":40897.28}
+{"id":268,"make":"Chevrolet","model":"Metro","color":"Crimson","year":2001,"price":74147.7}
+{"id":269,"make":"Hyundai","model":"Santa Fe","color":"Turquoise","year":2008,"price":66370.13}
+{"id":271,"make":"BMW","model":"M3","color":"Indigo","year":2005,"price":47580.18}
+{"id":273,"make":"Toyota","model":"Venza","color":"Green","year":2012,"price":12640.92}
+{"id":278,"make":"Ford","model":"Escape","color":"Orange","year":2003,"price":42300.24}
+{"id":279,"make":"Kia","model":"Rondo","color":"Mauv","year":2009,"price":98421.77}
+{"id":283,"make":"Ford","model":"ZX2","color":"Puce","year":2001,"price":81209.57}
+{"id":285,"make":"Nissan","model":"GT-R","color":"Orange","year":2009,"price":33429.1}
+{"id":286,"make":"Toyota","model":"Prius","color":"Red","year":2002,"price":26495.26}
+{"id":287,"make":"Chevrolet","model":"Express 3500","color":"Teal","year":2010,"price":82550.76}
+{"id":289,"make":"Ford","model":"F350","color":"Yellow","year":2003,"price":47074.46}
+{"id":293,"make":"Chevrolet","model":"Silverado 3500HD","color":"Aquamarine","year":2006,"price":91912.35}
+{"id":294,"make":"BMW","model":"6 Series","color":"Aquamarine","year":2009,"price":97394.82}
+{"id":295,"make":"Jeep","model":"Grand Cherokee","color":"Maroon","year":2009,"price":65553.9}
+{"id":299,"make":"Mercury","model":"Mariner","color":"Goldenrod","year":2005,"price":8780.77}
+{"id":301,"make":"Chrysler","model":"Sebring","color":"Puce","year":2009,"price":82262.27}
+{"id":302,"make":"Hyundai","model":"Elantra","color":"Mauv","year":2010,"price":29756.5}
+{"id":303,"make":"Land Rover","model":"LR3","color":"Goldenrod","year":2008,"price":29427.14}
+{"id":304,"make":"Jaguar","model":"XJ Series","color":"Yellow","year":2004,"price":38600.22}
+{"id":307,"make":"Kia","model":"Sedona","color":"Green","year":2007,"price":62196.62}
+{"id":311,"make":"Oldsmobile","model":"Aurora","color":"Violet","year":2002,"price":53487.21}
+{"id":315,"make":"Isuzu","model":"i-290","color":"Maroon","year":2008,"price":82154.49}
+{"id":316,"make":"Mercedes-Benz","model":"SL-Class","color":"Maroon","year":2011,"price":20337.01}
+{"id":318,"make":"Volkswagen","model":"Touareg","color":"Orange","year":2011,"price":8533.68}
+{"id":322,"make":"Mercedes-Benz","model":"S-Class","color":"Teal","year":2004,"price":21696.71}
+{"id":324,"make":"GMC","model":"Sierra 3500","color":"Turquoise","year":2001,"price":52759.42}
+{"id":327,"make":"MINI","model":"Clubman","color":"Maroon","year":2010,"price":70428.2}
+{"id":328,"make":"Chevrolet","model":"HHR","color":"Maroon","year":2007,"price":72497.09}
+{"id":331,"make":"Dodge","model":"Dakota Club","color":"Crimson","year":2007,"price":13916.21}
+{"id":332,"make":"Ford","model":"Taurus","color":"Puce","year":2010,"price":20747.98}
+{"id":333,"make":"Toyota","model":"Land Cruiser","color":"Khaki","year":2009,"price":39068.14}
+{"id":335,"make":"Suzuki","model":"Daewoo Lacetti","color":"Orange","year":2004,"price":42783.27}
+{"id":339,"make":"Mitsubishi","model":"Lancer","color":"Fuscia","year":2007,"price":97776.89}
+{"id":341,"make":"Lamborghini","model":"Gallardo","color":"Turquoise","year":2007,"price":51333.72}
+{"id":342,"make":"Toyota","model":"Tacoma","color":"Blue","year":2003,"price":29863.77}
+{"id":343,"make":"Volkswagen","model":"CC","color":"Orange","year":2011,"price":9504.36}
+{"id":344,"make":"BMW","model":"545","color":"Mauv","year":2005,"price":51536.52}
+{"id":347,"make":"Toyota","model":"Prius","color":"Indigo","year":2012,"price":22459.16}
+{"id":348,"make":"Volkswagen","model":"Phaeton","color":"Red","year":2006,"price":21363.54}
+{"id":349,"make":"Scion","model":"xB","color":"Purple","year":2004,"price":41040.76}
+{"id":350,"make":"Chevrolet","model":"Cobalt","color":"Mauv","year":2010,"price":54959.68}
+{"id":352,"make":"Volkswagen","model":"Routan","color":"Yellow","year":2009,"price":14806.68}
+{"id":353,"make":"GMC","model":"Yukon","color":"Blue","year":2013,"price":70829.15}
+{"id":355,"make":"Jeep","model":"Wrangler","color":"Orange","year":2002,"price":34278.35}
+{"id":356,"make":"Toyota","model":"4Runner","color":"Yellow","year":2009,"price":23821.45}
+{"id":358,"make":"Mitsubishi","model":"Eclipse","color":"Red","year":2008,"price":86483.03}
+{"id":359,"make":"Volvo","model":"S40","color":"Mauv","year":2004,"price":71986.8}
+{"id":360,"make":"Chrysler","model":"Sebring","color":"Aquamarine","year":2005,"price":69164.66}
+{"id":362,"make":"Land Rover","model":"Freelander","color":"Teal","year":2004,"price":9851.44}
+{"id":366,"make":"Cadillac","model":"CTS-V","color":"Indigo","year":2006,"price":58574.66}
+{"id":369,"make":"Nissan","model":"Xterra","color":"Purple","year":2001,"price":94833.56}
+{"id":370,"make":"Saab","model":"9-5","color":"Aquamarine","year":2003,"price":28013.62}
+{"id":371,"make":"Jeep","model":"Grand Cherokee","color":"Puce","year":2011,"price":80921.33}
+{"id":373,"make":"Audi","model":"A8","color":"Indigo","year":2011,"price":88402.5}
+{"id":375,"make":"Audi","model":"A8","color":"Goldenrod","year":2005,"price":66679.79}
+{"id":376,"make":"Ford","model":"Crown Victoria","color":"Puce","year":2005,"price":82921.28}
+{"id":377,"make":"Saturn","model":"Outlook","color":"Green","year":2008,"price":46944.87}
+{"id":378,"make":"Ferrari","model":"599 GTB Fiorano","color":"Fuscia","year":2007,"price":55842.99}
+{"id":379,"make":"Ford","model":"Expedition","color":"Violet","year":2007,"price":70301.89}
+{"id":380,"make":"Ford","model":"GT500","color":"Red","year":2007,"price":90832.97}
+{"id":382,"make":"Lincoln","model":"Navigator L","color":"Blue","year":2011,"price":57438.33}
+{"id":383,"make":"BMW","model":"X6 M","color":"Green","year":2011,"price":58072.97}
+{"id":384,"make":"Buick","model":"Century","color":"Fuscia","year":2002,"price":82300.09}
+{"id":385,"make":"Toyota","model":"Sienna","color":"Fuscia","year":2004,"price":8112.94}
+{"id":386,"make":"Mitsubishi","model":"Galant","color":"Maroon","year":2007,"price":39998.33}
+{"id":388,"make":"Buick","model":"Rendezvous","color":"Red","year":2002,"price":80687.69}
+{"id":391,"make":"Nissan","model":"Armada","color":"Maroon","year":2012,"price":64294.75}
+{"id":396,"make":"Lamborghini","model":"Murciélago","color":"Puce","year":2010,"price":65122.74}
+{"id":398,"make":"Chrysler","model":"Town & Country","color":"Fuscia","year":2005,"price":73238.31}
+{"id":399,"make":"Chevrolet","model":"Camaro","color":"Orange","year":2011,"price":75327.15}
+{"id":401,"make":"Pontiac","model":"G6","color":"Indigo","year":2006,"price":25930.66}
+{"id":402,"make":"Lotus","model":"Elise","color":"Indigo","year":2007,"price":36632.59}
+{"id":403,"make":"Chrysler","model":"Crossfire","color":"Green","year":2008,"price":38718.34}
+{"id":404,"make":"GMC","model":"Yukon XL 2500","color":"Aquamarine","year":2008,"price":65850.4}
+{"id":405,"make":"Volkswagen","model":"Jetta","color":"Green","year":2001,"price":78199.8}
+{"id":406,"make":"Nissan","model":"Armada","color":"Teal","year":2007,"price":39297.77}
+{"id":408,"make":"Honda","model":"Accord","color":"Fuscia","year":2010,"price":12807.27}
+{"id":410,"make":"Daewoo","model":"Lanos","color":"Maroon","year":2002,"price":83106.04}
+{"id":411,"make":"Nissan","model":"Maxima","color":"Goldenrod","year":2005,"price":67349.69}
+{"id":412,"make":"Suzuki","model":"Grand Vitara","color":"Goldenrod","year":2010,"price":70858.5}
+{"id":413,"make":"Ram","model":"2500","color":"Indigo","year":2012,"price":84066.51}
+{"id":414,"make":"Ford","model":"Ranger","color":"Khaki","year":2007,"price":93029.15}
+{"id":415,"make":"Bentley","model":"Continental GTC","color":"Pink","year":2008,"price":64346.22}
+{"id":417,"make":"Audi","model":"S8","color":"Aquamarine","year":2003,"price":11515.81}
+{"id":420,"make":"Volvo","model":"V70","color":"Indigo","year":2005,"price":74165.99}
+{"id":421,"make":"Honda","model":"Civic","color":"Red","year":2010,"price":19624.75}
+{"id":422,"make":"Jeep","model":"Grand Cherokee","color":"Green","year":2011,"price":79852.87}
+{"id":423,"make":"Maserati","model":"GranTurismo","color":"Teal","year":2009,"price":42113.33}
+{"id":424,"make":"Ford","model":"E150","color":"Purple","year":2009,"price":85559.45}
+{"id":425,"make":"Audi","model":"A4","color":"Turquoise","year":2010,"price":53784.67}
+{"id":426,"make":"Volkswagen","model":"GTI","color":"Mauv","year":2003,"price":86030.55}
+{"id":428,"make":"Audi","model":"A6","color":"Orange","year":2011,"price":38178.0}
+{"id":429,"make":"Volkswagen","model":"Cabriolet","color":"Pink","year":2002,"price":26515.02}
+{"id":431,"make":"Buick","model":"Verano","color":"Maroon","year":2012,"price":89113.09}
+{"id":432,"make":"Toyota","model":"FJ Cruiser","color":"Mauv","year":2008,"price":95420.5}
+{"id":434,"make":"Honda","model":"Ridgeline","color":"Teal","year":2010,"price":13709.7}
+{"id":439,"make":"Chevrolet","model":"Express 2500","color":"Teal","year":2002,"price":13784.53}
+{"id":442,"make":"Mazda","model":"CX-7","color":"Puce","year":2011,"price":48767.29}
+{"id":443,"make":"Subaru","model":"Forester","color":"Teal","year":2003,"price":36028.97}
+{"id":444,"make":"Chevrolet","model":"Silverado 1500","color":"Purple","year":2003,"price":20536.23}
+{"id":445,"make":"Ford","model":"F250","color":"Red","year":2012,"price":20214.11}
+{"id":447,"make":"Honda","model":"Accord","color":"Teal","year":2001,"price":97415.29}
+{"id":448,"make":"Chevrolet","model":"Astro","color":"Maroon","year":2002,"price":9639.9}
+{"id":449,"make":"Nissan","model":"Armada","color":"Fuscia","year":2009,"price":20608.78}
+{"id":452,"make":"Subaru","model":"Impreza","color":"Red","year":2008,"price":55757.18}
+{"id":453,"make":"GMC","model":"Savana","color":"Orange","year":2006,"price":53155.0}
+{"id":456,"make":"Dodge","model":"Ram 2500","color":"Maroon","year":2004,"price":54835.27}
+{"id":457,"make":"Mitsubishi","model":"Lancer Evolution","color":"Maroon","year":2002,"price":58560.37}
+{"id":458,"make":"Ford","model":"Ranger","color":"Blue","year":2003,"price":69252.18}
+{"id":464,"make":"Toyota","model":"RAV4","color":"Yellow","year":2002,"price":86030.33}
+{"id":465,"make":"BMW","model":"Z3","color":"Red","year":2001,"price":56522.43}
+{"id":466,"make":"Kia","model":"Rondo","color":"Indigo","year":2008,"price":55495.82}
+{"id":467,"make":"Ford","model":"F-250 Super Duty","color":"Khaki","year":2006,"price":9233.17}
+{"id":468,"make":"Honda","model":"Civic","color":"Pink","year":2003,"price":9382.75}
+{"id":470,"make":"BMW","model":"7 Series","color":"Puce","year":2008,"price":21461.89}
+{"id":472,"make":"Ford","model":"Escort","color":"Yellow","year":2004,"price":8061.36}
+{"id":479,"make":"Chevrolet","model":"Express 3500","color":"Mauv","year":2001,"price":51030.7}
+{"id":482,"make":"Mazda","model":"B-Series","color":"Turquoise","year":2007,"price":73768.89}
+{"id":483,"make":"Lamborghini","model":"Diablo","color":"Goldenrod","year":2001,"price":75429.83}
+{"id":486,"make":"Hyundai","model":"Elantra","color":"Aquamarine","year":2008,"price":14910.17}
+{"id":487,"make":"Ford","model":"Excursion","color":"Aquamarine","year":2003,"price":37113.38}
+{"id":488,"make":"Mercedes-Benz","model":"G-Class","color":"Goldenrod","year":2003,"price":24527.18}
+{"id":490,"make":"GMC","model":"Sierra 1500","color":"Fuscia","year":2011,"price":24708.99}
+{"id":492,"make":"Chevrolet","model":"Impala","color":"Turquoise","year":2008,"price":40854.0}
+{"id":494,"make":"Ford","model":"F350","color":"Green","year":2004,"price":59993.86}
+{"id":495,"make":"Ford","model":"F350","color":"Green","year":2008,"price":81337.53}
+{"id":496,"make":"Nissan","model":"370Z","color":"Blue","year":2010,"price":52530.49}
+{"id":497,"make":"Lincoln","model":"Navigator","color":"Goldenrod","year":2003,"price":8312.4}
+{"id":502,"make":"Suzuki","model":"Esteem","color":"Yellow","year":2001,"price":51044.44}
+{"id":506,"make":"Toyota","model":"Tundra","color":"Purple","year":2004,"price":20111.97}
+{"id":509,"make":"Kia","model":"Optima","color":"Pink","year":2012,"price":14515.75}
+{"id":510,"make":"Subaru","model":"Outback","color":"Puce","year":2009,"price":10977.94}
+{"id":511,"make":"Chevrolet","model":"Corvette","color":"Yellow","year":2008,"price":99677.14}
+{"id":512,"make":"Mitsubishi","model":"Lancer Evolution","color":"Crimson","year":2011,"price":5028.24}
+{"id":513,"make":"Volkswagen","model":"Touareg","color":"Orange","year":2006,"price":72281.88}
+{"id":514,"make":"Honda","model":"Insight","color":"Indigo","year":2002,"price":46599.39}
+{"id":516,"make":"BMW","model":"7 Series","color":"Maroon","year":2011,"price":44633.64}
+{"id":517,"make":"BMW","model":"M5","color":"Green","year":2008,"price":33615.09}
+{"id":520,"make":"Honda","model":"Accord","color":"Indigo","year":2011,"price":78300.58}
+{"id":521,"make":"Dodge","model":"Caliber","color":"Green","year":2012,"price":52889.23}
+{"id":525,"make":"Toyota","model":"Sequoia","color":"Aquamarine","year":2002,"price":79092.98}
+{"id":527,"make":"Kia","model":"Spectra","color":"Puce","year":2005,"price":42254.37}
+{"id":528,"make":"Infiniti","model":"QX56","color":"Indigo","year":2007,"price":79692.48}
+{"id":529,"make":"Mercedes-Benz","model":"CL65 AMG","color":"Yellow","year":2009,"price":89146.0}
+{"id":530,"make":"Mitsubishi","model":"Pajero","color":"Fuscia","year":2002,"price":43095.15}
+{"id":532,"make":"Chrysler","model":"Town & Country","color":"Orange","year":2011,"price":77697.04}
+{"id":533,"make":"Honda","model":"Insight","color":"Indigo","year":2003,"price":9710.86}
+{"id":535,"make":"Chevrolet","model":"Cavalier","color":"Pink","year":2004,"price":44209.3}
+{"id":536,"make":"Lotus","model":"Exige","color":"Red","year":2005,"price":70409.04}
+{"id":537,"make":"Toyota","model":"Land Cruiser","color":"Crimson","year":2004,"price":53848.73}
+{"id":538,"make":"Toyota","model":"Prius","color":"Turquoise","year":2006,"price":83106.52}
+{"id":540,"make":"Mercedes-Benz","model":"S-Class","color":"Yellow","year":2011,"price":75056.84}
+{"id":542,"make":"Cadillac","model":"Escalade ESV","color":"Red","year":2005,"price":25016.62}
+{"id":548,"make":"Suzuki","model":"Vitara","color":"Blue","year":2003,"price":22935.72}
+{"id":549,"make":"Porsche","model":"Cayman","color":"Red","year":2009,"price":18527.63}
+{"id":551,"make":"Mazda","model":"MPV","color":"Indigo","year":2006,"price":44051.16}
+{"id":554,"make":"BMW","model":"M6","color":"Aquamarine","year":2008,"price":62888.71}
+{"id":557,"make":"Chevrolet","model":"Camaro","color":"Maroon","year":2011,"price":15493.74}
+{"id":558,"make":"Mercedes-Benz","model":"S-Class","color":"Mauv","year":2002,"price":68773.9}
+{"id":559,"make":"Kia","model":"Sportage","color":"Red","year":2011,"price":28348.86}
+{"id":561,"make":"Lexus","model":"LS","color":"Blue","year":2002,"price":94837.79}
+{"id":563,"make":"Maybach","model":"62","color":"Maroon","year":2003,"price":82989.27}
+{"id":566,"make":"Toyota","model":"Tundra","color":"Turquoise","year":2008,"price":79459.59}
+{"id":569,"make":"Chevrolet","model":"Corvette","color":"Pink","year":2012,"price":60214.8}
+{"id":573,"make":"Ford","model":"E150","color":"Green","year":2008,"price":11945.7}
+{"id":574,"make":"Jeep","model":"Grand Cherokee","color":"Fuscia","year":2012,"price":44338.78}
+{"id":575,"make":"MINI","model":"Cooper Countryman","color":"Khaki","year":2012,"price":11942.61}
+{"id":576,"make":"Volkswagen","model":"Golf","color":"Turquoise","year":2011,"price":48839.58}
+{"id":579,"make":"Subaru","model":"Outback","color":"Mauv","year":2009,"price":77535.57}
+{"id":580,"make":"Ford","model":"Focus","color":"Puce","year":2012,"price":87188.85}
+{"id":581,"make":"Nissan","model":"Titan","color":"Blue","year":2011,"price":26402.17}
+{"id":582,"make":"Toyota","model":"Matrix","color":"Aquamarine","year":2012,"price":42827.72}
+{"id":587,"make":"Pontiac","model":"Torrent","color":"Indigo","year":2008,"price":63373.55}
+{"id":588,"make":"Acura","model":"MDX","color":"Red","year":2011,"price":31196.46}
+{"id":590,"make":"Subaru","model":"Outback","color":"Orange","year":2001,"price":11594.89}
+{"id":593,"make":"Nissan","model":"Sentra","color":"Orange","year":2007,"price":70162.22}
+{"id":594,"make":"Subaru","model":"Impreza","color":"Blue","year":2002,"price":77991.14}
+{"id":595,"make":"Ford","model":"Focus","color":"Red","year":2012,"price":9354.62}
+{"id":598,"make":"Ford","model":"E-Series","color":"Crimson","year":2003,"price":8261.35}
+{"id":601,"make":"Buick","model":"Century","color":"Maroon","year":2005,"price":21074.31}
+{"id":602,"make":"Audi","model":"A4","color":"Aquamarine","year":2012,"price":97607.28}
+{"id":603,"make":"Toyota","model":"Camry Hybrid","color":"Yellow","year":2012,"price":42427.4}
+{"id":606,"make":"Hyundai","model":"Sonata","color":"Yellow","year":2009,"price":69969.8}
+{"id":607,"make":"Land Rover","model":"LR4","color":"Indigo","year":2011,"price":33597.15}
+{"id":609,"make":"Toyota","model":"RAV4","color":"Indigo","year":2003,"price":48973.2}
+{"id":611,"make":"Nissan","model":"350Z","color":"Turquoise","year":2007,"price":97667.88}
+{"id":612,"make":"Cadillac","model":"Catera","color":"Blue","year":2001,"price":50046.38}
+{"id":613,"make":"Chevrolet","model":"Corvette","color":"Maroon","year":2012,"price":69653.96}
+{"id":617,"make":"GMC","model":"Safari","color":"Crimson","year":2001,"price":41522.43}
+{"id":619,"make":"Volvo","model":"XC90","color":"Red","year":2009,"price":55857.41}
+{"id":621,"make":"Chrysler","model":"Sebring","color":"Maroon","year":2002,"price":86160.13}
+{"id":623,"make":"Maserati","model":"GranTurismo","color":"Indigo","year":2009,"price":59215.79}
+{"id":625,"make":"Ford","model":"Thunderbird","color":"Aquamarine","year":2005,"price":51854.3}
+{"id":628,"make":"GMC","model":"Envoy","color":"Pink","year":2004,"price":49081.09}
+{"id":632,"make":"Chrysler","model":"Town & Country","color":"Indigo","year":2003,"price":99555.94}
+{"id":633,"make":"Kia","model":"Rio","color":"Purple","year":2002,"price":94055.15}
+{"id":635,"make":"BMW","model":"5 Series","color":"Goldenrod","year":2010,"price":91978.16}
+{"id":636,"make":"Toyota","model":"Avalon","color":"Red","year":2010,"price":5005.16}
+{"id":640,"make":"Maybach","model":"57","color":"Fuscia","year":2012,"price":68163.33}
+{"id":645,"make":"Volvo","model":"XC70","color":"Purple","year":2012,"price":77593.97}
+{"id":646,"make":"Nissan","model":"Maxima","color":"Pink","year":2010,"price":86113.05}
+{"id":649,"make":"Suzuki","model":"Reno","color":"Puce","year":2006,"price":17283.38}
+{"id":652,"make":"Nissan","model":"Altima","color":"Mauv","year":2004,"price":78924.37}
+{"id":653,"make":"Chrysler","model":"300M","color":"Maroon","year":2003,"price":89075.19}
+{"id":654,"make":"Ford","model":"Ranger","color":"Crimson","year":2002,"price":36751.0}
+{"id":655,"make":"Ford","model":"Freestyle","color":"Goldenrod","year":2007,"price":63147.43}
+{"id":657,"make":"Nissan","model":"Sentra","color":"Fuscia","year":2004,"price":25187.24}
+{"id":658,"make":"Chevrolet","model":"Suburban 2500","color":"Violet","year":2011,"price":77148.51}
+{"id":660,"make":"Audi","model":"A8","color":"Orange","year":2012,"price":46966.8}
+{"id":662,"make":"Suzuki","model":"XL-7","color":"Maroon","year":2005,"price":78711.99}
+{"id":663,"make":"Maserati","model":"Coupe","color":"Purple","year":2005,"price":99140.57}
+{"id":665,"make":"Nissan","model":"JUKE","color":"Fuscia","year":2011,"price":84927.01}
+{"id":666,"make":"Land Rover","model":"Range Rover Evoque","color":"Maroon","year":2012,"price":72732.73}
+{"id":675,"make":"Buick","model":"Lucerne","color":"Crimson","year":2010,"price":80931.32}
+{"id":676,"make":"Kia","model":"Optima","color":"Purple","year":2009,"price":31105.26}
+{"id":678,"make":"Acura","model":"TL","color":"Goldenrod","year":2002,"price":63922.42}
+{"id":679,"make":"Audi","model":"A4","color":"Mauv","year":2008,"price":81419.93}
+{"id":680,"make":"Nissan","model":"Murano","color":"Orange","year":2012,"price":37064.56}
+{"id":685,"make":"Cadillac","model":"XLR","color":"Indigo","year":2007,"price":61307.95}
+{"id":686,"make":"Cadillac","model":"Escalade","color":"Red","year":2003,"price":14178.69}
+{"id":687,"make":"Mazda","model":"MX-5","color":"Violet","year":2001,"price":30330.88}
+{"id":688,"make":"Kia","model":"Rio","color":"Violet","year":2006,"price":29527.93}
+{"id":689,"make":"Dodge","model":"Magnum","color":"Violet","year":2006,"price":82570.25}
+{"id":695,"make":"Volvo","model":"XC90","color":"Crimson","year":2005,"price":19595.11}
+{"id":698,"make":"Jaguar","model":"XK","color":"Mauv","year":2011,"price":14675.36}
+{"id":702,"make":"Infiniti","model":"G","color":"Purple","year":2003,"price":90892.7}
+{"id":703,"make":"Mercury","model":"Grand Marquis","color":"Purple","year":2005,"price":28980.81}
+{"id":705,"make":"Chevrolet","model":"Avalanche","color":"Fuscia","year":2011,"price":42554.65}
+{"id":706,"make":"Hummer","model":"H3","color":"Teal","year":2010,"price":44425.99}
+{"id":710,"make":"Jeep","model":"Grand Cherokee","color":"Turquoise","year":2009,"price":87558.87}
+{"id":712,"make":"Mercedes-Benz","model":"M-Class","color":"Green","year":2006,"price":21104.19}
+{"id":713,"make":"Suzuki","model":"Daewoo Lacetti","color":"Teal","year":2005,"price":52033.49}
+{"id":714,"make":"Chevrolet","model":"Express 3500","color":"Turquoise","year":2008,"price":67964.96}
+{"id":715,"make":"Mitsubishi","model":"Lancer Evolution","color":"Puce","year":2002,"price":81096.37}
+{"id":717,"make":"Porsche","model":"Panamera","color":"Aquamarine","year":2013,"price":48719.76}
+{"id":719,"make":"Audi","model":"A6","color":"Green","year":2004,"price":38083.03}
+{"id":720,"make":"Mercedes-Benz","model":"S-Class","color":"Puce","year":2003,"price":81648.63}
+{"id":722,"make":"Mazda","model":"B-Series","color":"Purple","year":2006,"price":23044.52}
+{"id":723,"make":"Mazda","model":"Mazdaspeed 3","color":"Green","year":2012,"price":44280.12}
+{"id":724,"make":"Nissan","model":"Armada","color":"Teal","year":2008,"price":72693.15}
+{"id":725,"make":"Hyundai","model":"Tiburon","color":"Puce","year":2006,"price":43384.04}
+{"id":726,"make":"Suzuki","model":"Grand Vitara","color":"Violet","year":2002,"price":45438.97}
+{"id":727,"make":"Ford","model":"F-Series","color":"Mauv","year":2004,"price":78218.71}
+{"id":728,"make":"Dodge","model":"Challenger","color":"Indigo","year":2009,"price":48427.04}
+{"id":730,"make":"Mercedes-Benz","model":"SLK-Class","color":"Puce","year":2010,"price":69894.8}
+{"id":733,"make":"Bentley","model":"Azure","color":"Khaki","year":2007,"price":86402.64}
+{"id":734,"make":"Toyota","model":"Avalon","color":"Green","year":2002,"price":92468.47}
+{"id":735,"make":"Audi","model":"A6","color":"Purple","year":2002,"price":88232.05}
+{"id":737,"make":"Lexus","model":"IS F","color":"Teal","year":2010,"price":58127.39}
+{"id":738,"make":"Toyota","model":"Matrix","color":"Orange","year":2009,"price":8523.07}
+{"id":741,"make":"Infiniti","model":"M","color":"Green","year":2010,"price":99505.64}
+{"id":743,"make":"Toyota","model":"Matrix","color":"Mauv","year":2007,"price":21120.89}
+{"id":744,"make":"BMW","model":"Z4","color":"Purple","year":2012,"price":17664.92}
+{"id":745,"make":"Lexus","model":"ES","color":"Aquamarine","year":2008,"price":94757.08}
+{"id":746,"make":"Toyota","model":"Avalon","color":"Mauv","year":2005,"price":12839.88}
+{"id":747,"make":"GMC","model":"Yukon XL 1500","color":"Aquamarine","year":2004,"price":78504.48}
+{"id":750,"make":"Chevrolet","model":"Colorado","color":"Crimson","year":2008,"price":13688.9}
+{"id":754,"make":"Dodge","model":"Ram Van 3500","color":"Yellow","year":2002,"price":23233.43}
+{"id":755,"make":"Volvo","model":"S80","color":"Orange","year":2012,"price":49997.38}
+{"id":756,"make":"Kia","model":"Sedona","color":"Crimson","year":2004,"price":26637.33}
+{"id":758,"make":"Lamborghini","model":"Gallardo","color":"Purple","year":2005,"price":78645.64}
+{"id":762,"make":"Chevrolet","model":"Cavalier","color":"Turquoise","year":2002,"price":42684.61}
+{"id":766,"make":"Porsche","model":"Cayenne","color":"Aquamarine","year":2010,"price":57933.92}
+{"id":768,"make":"Mazda","model":"RX-8","color":"Aquamarine","year":2009,"price":97167.26}
+{"id":771,"make":"Subaru","model":"BRZ","color":"Puce","year":2013,"price":96583.25}
+{"id":773,"make":"Mitsubishi","model":"Outlander","color":"Puce","year":2007,"price":45140.65}
+{"id":774,"make":"Lexus","model":"GS","color":"Yellow","year":2013,"price":46223.39}
+{"id":775,"make":"Nissan","model":"Murano","color":"Indigo","year":2006,"price":7581.22}
+{"id":776,"make":"Subaru","model":"Impreza","color":"Mauv","year":2009,"price":13280.97}
+{"id":779,"make":"Jeep","model":"Liberty","color":"Indigo","year":2012,"price":47002.19}
+{"id":780,"make":"Suzuki","model":"Equator","color":"Aquamarine","year":2011,"price":90728.4}
+{"id":781,"make":"Kia","model":"Optima","color":"Puce","year":2002,"price":20567.67}
+{"id":783,"make":"Toyota","model":"Camry","color":"Aquamarine","year":2009,"price":74469.11}
+{"id":784,"make":"Buick","model":"Rainier","color":"Green","year":2006,"price":50782.35}
+{"id":786,"make":"Dodge","model":"Charger","color":"Yellow","year":2008,"price":71786.14}
+{"id":787,"make":"Infiniti","model":"QX","color":"Khaki","year":2012,"price":20428.57}
+{"id":789,"make":"Toyota","model":"4Runner","color":"Orange","year":2002,"price":25111.51}
+{"id":790,"make":"Chevrolet","model":"Monte Carlo","color":"Green","year":2005,"price":12008.5}
+{"id":793,"make":"Infiniti","model":"G","color":"Orange","year":2010,"price":61910.38}
+{"id":798,"make":"Mercedes-Benz","model":"CLK-Class","color":"Crimson","year":2002,"price":85660.4}
+{"id":799,"make":"Nissan","model":"Maxima","color":"Blue","year":2007,"price":61934.82}
+{"id":803,"make":"Audi","model":"TT","color":"Violet","year":2001,"price":42520.95}
+{"id":805,"make":"Chevrolet","model":"Suburban 1500","color":"Green","year":2012,"price":64958.47}
+{"id":806,"make":"Infiniti","model":"EX","color":"Crimson","year":2009,"price":32564.96}
+{"id":807,"make":"Ford","model":"Ranger","color":"Khaki","year":2008,"price":54343.98}
+{"id":808,"make":"Mercedes-Benz","model":"GL-Class","color":"Indigo","year":2011,"price":52619.02}
+{"id":810,"make":"Chevrolet","model":"Astro","color":"Khaki","year":2002,"price":67067.11}
+{"id":811,"make":"GMC","model":"Jimmy","color":"Pink","year":2001,"price":61966.95}
+{"id":812,"make":"Honda","model":"Pilot","color":"Crimson","year":2012,"price":50037.63}
+{"id":813,"make":"GMC","model":"Sonoma","color":"Orange","year":2002,"price":67317.29}
+{"id":816,"make":"Buick","model":"Regal","color":"Orange","year":2002,"price":58618.47}
+{"id":817,"make":"BMW","model":"330","color":"Teal","year":2005,"price":60079.62}
+{"id":818,"make":"Lexus","model":"GS","color":"Red","year":2007,"price":17569.59}
+{"id":819,"make":"Chevrolet","model":"Colorado","color":"Goldenrod","year":2011,"price":80337.5}
+{"id":823,"make":"Nissan","model":"Versa","color":"Blue","year":2011,"price":28964.43}
+{"id":824,"make":"Porsche","model":"Cayenne","color":"Red","year":2012,"price":40588.67}
+{"id":825,"make":"Volkswagen","model":"Eos","color":"Purple","year":2011,"price":62390.04}
+{"id":828,"make":"Dodge","model":"Ram 2500","color":"Indigo","year":2009,"price":40532.28}
+{"id":832,"make":"Ram","model":"C/V","color":"Crimson","year":2012,"price":35102.11}
+{"id":833,"make":"Chevrolet","model":"Silverado 2500","color":"Red","year":2010,"price":69852.03}
+{"id":835,"make":"Maybach","model":"62","color":"Violet","year":2008,"price":87652.66}
+{"id":837,"make":"Ferrari","model":"458 Italia","color":"Yellow","year":2010,"price":21984.68}
+{"id":838,"make":"Dodge","model":"Stratus","color":"Fuscia","year":2002,"price":37163.42}
+{"id":839,"make":"BMW","model":"7 Series","color":"Mauv","year":2009,"price":99502.62}
+{"id":840,"make":"Ford","model":"E150","color":"Violet","year":2004,"price":82622.22}
+{"id":843,"make":"Cadillac","model":"CTS-V","color":"Red","year":2006,"price":13481.41}
+{"id":844,"make":"Volvo","model":"V70","color":"Puce","year":2003,"price":37050.13}
+{"id":846,"make":"Ford","model":"Fusion","color":"Khaki","year":2011,"price":79300.56}
+{"id":848,"make":"Pontiac","model":"Vibe","color":"Maroon","year":2009,"price":65884.7}
+{"id":849,"make":"Toyota","model":"Sienna","color":"Goldenrod","year":2002,"price":95247.3}
+{"id":852,"make":"Saab","model":"9-5","color":"Blue","year":2001,"price":59919.2}
+{"id":853,"make":"Ford","model":"F250","color":"Blue","year":2010,"price":30657.45}
+{"id":854,"make":"Ford","model":"F250","color":"Indigo","year":2007,"price":20928.21}
+{"id":857,"make":"Ford","model":"Focus","color":"Red","year":2001,"price":18906.8}
+{"id":858,"make":"Ford","model":"E250","color":"Maroon","year":2010,"price":87529.39}
+{"id":859,"make":"Mercury","model":"Grand Marquis","color":"Fuscia","year":2005,"price":66100.78}
+{"id":860,"make":"McLaren","model":"MP4-12C","color":"Yellow","year":2012,"price":80518.96}
+{"id":861,"make":"Oldsmobile","model":"Silhouette","color":"Red","year":2003,"price":26781.93}
+{"id":862,"make":"Volkswagen","model":"CC","color":"Blue","year":2011,"price":85153.35}
+{"id":863,"make":"Volvo","model":"XC70","color":"Khaki","year":2007,"price":59631.06}
+{"id":864,"make":"Nissan","model":"Xterra","color":"Orange","year":2004,"price":70971.95}
+{"id":868,"make":"Land Rover","model":"LR3","color":"Mauv","year":2008,"price":29020.09}
+{"id":869,"make":"Volkswagen","model":"New Beetle","color":"Aquamarine","year":2007,"price":97747.57}
+{"id":870,"make":"Lexus","model":"LX","color":"Maroon","year":2007,"price":63842.94}
+{"id":872,"make":"Hyundai","model":"XG350","color":"Teal","year":2003,"price":70259.65}
+{"id":873,"make":"Chevrolet","model":"Suburban 1500","color":"Khaki","year":2011,"price":9477.43}
+{"id":876,"make":"Ford","model":"Expedition","color":"Aquamarine","year":2001,"price":64803.19}
+{"id":877,"make":"Infiniti","model":"G25","color":"Aquamarine","year":2012,"price":41978.2}
+{"id":878,"make":"Mercedes-Benz","model":"Sprinter 3500","color":"Puce","year":2012,"price":86411.96}
+{"id":879,"make":"GMC","model":"Sierra 2500","color":"Violet","year":2006,"price":5580.17}
+{"id":880,"make":"Toyota","model":"Prius v","color":"Violet","year":2012,"price":73742.42}
+{"id":882,"make":"Audi","model":"Allroad","color":"Yellow","year":2003,"price":49615.15}
+{"id":883,"make":"Subaru","model":"Impreza","color":"Pink","year":2011,"price":8498.41}
+{"id":884,"make":"Acura","model":"RDX","color":"Yellow","year":2007,"price":39347.41}
+{"id":885,"make":"Lexus","model":"ES","color":"Pink","year":2010,"price":44199.79}
+{"id":887,"make":"Mercedes-Benz","model":"SL-Class","color":"Red","year":2012,"price":34452.09}
+{"id":888,"make":"Subaru","model":"Impreza","color":"Aquamarine","year":2012,"price":25929.18}
+{"id":890,"make":"Infiniti","model":"FX","color":"Fuscia","year":2003,"price":32756.64}
+{"id":891,"make":"Chevrolet","model":"Sonic","color":"Indigo","year":2012,"price":69579.85}
+{"id":893,"make":"Porsche","model":"911","color":"Mauv","year":2003,"price":13712.61}
+{"id":894,"make":"BMW","model":"7 Series","color":"Teal","year":2002,"price":10602.0}
+{"id":895,"make":"Ford","model":"Fusion","color":"Aquamarine","year":2012,"price":47209.84}
+{"id":896,"make":"GMC","model":"Yukon","color":"Red","year":2013,"price":16618.2}
+{"id":897,"make":"Saturn","model":"Outlook","color":"Red","year":2010,"price":97787.05}
+{"id":898,"make":"Mercedes-Benz","model":"CL-Class","color":"Puce","year":2009,"price":37580.29}
+{"id":901,"make":"GMC","model":"Yukon","color":"Turquoise","year":2011,"price":40493.36}
+{"id":902,"make":"Mazda","model":"Protege5","color":"Yellow","year":2002,"price":6600.59}
+{"id":905,"make":"Land Rover","model":"LR2","color":"Blue","year":2011,"price":96183.04}
+{"id":907,"make":"Buick","model":"Rendezvous","color":"Purple","year":2003,"price":38811.69}
+{"id":909,"make":"Toyota","model":"Yaris","color":"Crimson","year":2007,"price":83678.09}
+{"id":910,"make":"Chevrolet","model":"Tahoe","color":"Teal","year":2001,"price":46411.14}
+{"id":911,"make":"Nissan","model":"Pathfinder","color":"Mauv","year":2005,"price":36348.99}
+{"id":912,"make":"Mitsubishi","model":"Eclipse","color":"Puce","year":2005,"price":31367.86}
+{"id":913,"make":"Pontiac","model":"Firebird","color":"Orange","year":2001,"price":11689.81}
+{"id":914,"make":"Ford","model":"E350","color":"Blue","year":2009,"price":26317.11}
+{"id":916,"make":"Land Rover","model":"Range Rover","color":"Indigo","year":2008,"price":19769.04}
+{"id":917,"make":"Kia","model":"Sportage","color":"Pink","year":2006,"price":98778.5}
+{"id":918,"make":"Buick","model":"Rainier","color":"Red","year":2006,"price":25335.14}
+{"id":920,"make":"Ferrari","model":"612 Scaglietti","color":"Red","year":2009,"price":83843.82}
+{"id":922,"make":"Kia","model":"Sedona","color":"Fuscia","year":2006,"price":90575.62}
+{"id":923,"make":"GMC","model":"Sierra 3500","color":"Mauv","year":2010,"price":14316.32}
+{"id":924,"make":"Mercury","model":"Sable","color":"Goldenrod","year":2003,"price":16890.22}
+{"id":925,"make":"Toyota","model":"RAV4","color":"Puce","year":2002,"price":12168.77}
+{"id":926,"make":"Smart","model":"Fortwo","color":"Indigo","year":2008,"price":64719.6}
+{"id":930,"make":"Rolls-Royce","model":"Phantom","color":"Red","year":2007,"price":54925.77}
+{"id":931,"make":"Lincoln","model":"Blackwood","color":"Red","year":2002,"price":44047.48}
+{"id":933,"make":"Lotus","model":"Elise","color":"Crimson","year":2010,"price":95170.0}
+{"id":934,"make":"BMW","model":"7 Series","color":"Puce","year":2006,"price":61315.87}
+{"id":935,"make":"Nissan","model":"NV1500","color":"Puce","year":2012,"price":83603.48}
+{"id":936,"make":"Ford","model":"E250","color":"Goldenrod","year":2006,"price":7882.22}
+{"id":937,"make":"Ford","model":"Explorer","color":"Pink","year":2011,"price":10179.97}
+{"id":938,"make":"Ford","model":"Freestar","color":"Yellow","year":2003,"price":20766.9}
+{"id":940,"make":"Mitsubishi","model":"Pajero","color":"Puce","year":2003,"price":44670.51}
+{"id":941,"make":"Ford","model":"F-350 Super Duty","color":"Purple","year":2006,"price":92845.28}
+{"id":945,"make":"Hyundai","model":"Accent","color":"Violet","year":2002,"price":27986.16}
+{"id":946,"make":"Mercedes-Benz","model":"SLK-Class","color":"Puce","year":2003,"price":98172.42}
+{"id":948,"make":"Buick","model":"Lucerne","color":"Puce","year":2011,"price":79852.81}
+{"id":949,"make":"Hyundai","model":"Accent","color":"Fuscia","year":2011,"price":81264.22}
+{"id":950,"make":"Buick","model":"Rendezvous","color":"Pink","year":2007,"price":41916.85}
+{"id":953,"make":"Ford","model":"Econoline E350","color":"Aquamarine","year":2001,"price":20788.87}
+{"id":954,"make":"BMW","model":"X5 M","color":"Puce","year":2012,"price":43318.17}
+{"id":955,"make":"Volkswagen","model":"rio","color":"Mauv","year":2001,"price":56852.32}
+{"id":956,"make":"Maserati","model":"Spyder","color":"Teal","year":2004,"price":63466.64}
+{"id":957,"make":"Chevrolet","model":"Tahoe","color":"Goldenrod","year":2006,"price":79259.54}
+{"id":961,"make":"BMW","model":"X3","color":"Yellow","year":2005,"price":13006.7}
+{"id":962,"make":"Porsche","model":"911","color":"Purple","year":2011,"price":60987.25}
+{"id":963,"make":"Nissan","model":"Versa","color":"Turquoise","year":2007,"price":50911.38}
+{"id":964,"make":"Volvo","model":"XC90","color":"Crimson","year":2011,"price":12247.49}
+{"id":965,"make":"Chevrolet","model":"Colorado","color":"Purple","year":2007,"price":13075.95}
+{"id":968,"make":"Mitsubishi","model":"Eclipse","color":"Pink","year":2005,"price":98630.35}
+{"id":969,"make":"Land Rover","model":"Range Rover","color":"Violet","year":2009,"price":70585.05}
+{"id":971,"make":"Mitsubishi","model":"Montero Sport","color":"Pink","year":2003,"price":86961.96}
+{"id":972,"make":"Rolls-Royce","model":"Phantom","color":"Violet","year":2010,"price":30804.2}
+{"id":975,"make":"Mercury","model":"Sable","color":"Indigo","year":2002,"price":6460.81}
+{"id":976,"make":"Land Rover","model":"LR2","color":"Red","year":2010,"price":75188.56}
+{"id":977,"make":"Chevrolet","model":"Camaro","color":"Pink","year":2002,"price":21085.81}
+{"id":978,"make":"Kia","model":"Rio","color":"Indigo","year":2006,"price":43059.32}
+{"id":980,"make":"Pontiac","model":"Firebird","color":"Green","year":2002,"price":27575.8}
+{"id":982,"make":"Nissan","model":"Frontier","color":"Green","year":2005,"price":55374.38}
+{"id":986,"make":"Subaru","model":"Impreza WRX","color":"Maroon","year":2011,"price":20506.93}
+{"id":989,"make":"Chevrolet","model":"Aveo","color":"Mauv","year":2006,"price":56011.19}
+{"id":991,"make":"Audi","model":"S5","color":"Indigo","year":2011,"price":61422.15}
+{"id":992,"make":"Cadillac","model":"STS","color":"Maroon","year":2011,"price":54520.97}
+{"id":993,"make":"Audi","model":"A6","color":"Khaki","year":2012,"price":50820.08}
+{"id":994,"make":"Audi","model":"Q7","color":"Turquoise","year":2007,"price":12315.68}
+{"id":995,"make":"Maserati","model":"Quattroporte","color":"Purple","year":2006,"price":8715.14}
+{"id":996,"make":"Ferrari","model":"599 GTB Fiorano","color":"Turquoise","year":2009,"price":47623.59}
+{"id":999,"make":"Toyota","model":"Matrix","color":"Pink","year":2008,"price":94239.0}
+{"id":1000,"make":"Chevrolet","model":"Silverado","color":"Puce","year":2006,"price":63299.65}
+{"id":1,"make":"Toyota","model":"Highlander","color":"Mauv","year":2008,"price":23736.62}
+{"id":2,"make":"Toyota","model":"Solara","color":"Fuscia","year":2002,"price":66403.47}
+{"id":3,"make":"Ford","model":"Expedition EL","color":"Pink","year":2010,"price":68973.04}
+{"id":5,"make":"Lexus","model":"SC","color":"Pink","year":2010,"price":20900.33}
+{"id":6,"make":"Acura","model":"MDX","color":"Blue","year":2005,"price":87249.54}
+{"id":7,"make":"Ford","model":"Econoline E250","color":"Pink","year":2002,"price":33679.71}
+{"id":8,"make":"Lincoln","model":"Navigator L","color":"Yellow","year":2009,"price":37768.38}
+{"id":10,"make":"Ford","model":"Mustang","color":"Blue","year":2011,"price":65528.11}
+{"id":11,"make":"Toyota","model":"RAV4","color":"Pink","year":2006,"price":36050.89}
+{"id":14,"make":"Volvo","model":"S60","color":"Maroon","year":2012,"price":98783.12}
+{"id":15,"make":"Mitsubishi","model":"Mirage","color":"Mauv","year":2001,"price":92560.44}
+{"id":20,"make":"Subaru","model":"Forester","color":"Turquoise","year":2010,"price":90576.85}
+{"id":21,"make":"Lexus","model":"GS","color":"Violet","year":2002,"price":90959.01}
+{"id":22,"make":"Land Rover","model":"Range Rover","color":"Green","year":2005,"price":33492.54}
+{"id":24,"make":"Audi","model":"Allroad","color":"Goldenrod","year":2001,"price":52583.0}
+{"id":27,"make":"Ford","model":"Ranger","color":"Maroon","year":2008,"price":25641.58}
+{"id":29,"make":"Saturn","model":"VUE","color":"Teal","year":2002,"price":71422.42}
+{"id":34,"make":"Chevrolet","model":"SSR","color":"Khaki","year":2003,"price":6861.85}
+{"id":35,"make":"Toyota","model":"Venza","color":"Fuscia","year":2009,"price":69925.27}
+{"id":37,"make":"Hummer","model":"H2","color":"Puce","year":2003,"price":43882.36}
+{"id":38,"make":"Infiniti","model":"QX","color":"Teal","year":2010,"price":74691.26}
+{"id":39,"make":"Maserati","model":"GranTurismo","color":"Fuscia","year":2011,"price":64608.82}
+{"id":41,"make":"Mitsubishi","model":"Endeavor","color":"Crimson","year":2005,"price":88526.65}
+{"id":42,"make":"Mercedes-Benz","model":"E-Class","color":"Violet","year":2001,"price":99129.26}
+{"id":44,"make":"Volkswagen","model":"Golf","color":"Red","year":2010,"price":89434.21}
+{"id":46,"make":"BMW","model":"X5 M","color":"Blue","year":2013,"price":14194.46}
+{"id":48,"make":"Hyundai","model":"Tiburon","color":"Blue","year":2009,"price":98896.61}
+{"id":50,"make":"Chevrolet","model":"Express 3500","color":"Indigo","year":2009,"price":34007.45}
+{"id":54,"make":"Ford","model":"E150","color":"Orange","year":2012,"price":24739.83}
+{"id":55,"make":"Smart","model":"Fortwo","color":"Yellow","year":2010,"price":31964.39}
+{"id":56,"make":"Ferrari","model":"California","color":"Goldenrod","year":2010,"price":56259.83}
+{"id":57,"make":"Chevrolet","model":"TrailBlazer","color":"Mauv","year":2004,"price":87497.23}
+{"id":58,"make":"Suzuki","model":"SX4","color":"Khaki","year":2007,"price":12202.32}
+{"id":59,"make":"Cadillac","model":"CTS","color":"Mauv","year":2011,"price":10281.25}
+{"id":60,"make":"Cadillac","model":"Escalade ESV","color":"Blue","year":2010,"price":71568.58}
+{"id":61,"make":"Mercedes-Benz","model":"SL-Class","color":"Blue","year":2008,"price":22999.95}
+{"id":62,"make":"Lexus","model":"LS","color":"Maroon","year":2006,"price":70192.44}
+{"id":63,"make":"Pontiac","model":"Daewoo Kalos","color":"Teal","year":2006,"price":29684.26}
+{"id":65,"make":"Porsche","model":"Panamera","color":"Aquamarine","year":2010,"price":7486.86}
+{"id":67,"make":"Mazda","model":"RX-8","color":"Maroon","year":2005,"price":95614.14}
+{"id":68,"make":"Toyota","model":"Prius Plug-in","color":"Purple","year":2012,"price":92507.06}
+{"id":71,"make":"Jeep","model":"Wrangler","color":"Violet","year":2001,"price":32151.98}
+{"id":73,"make":"Jeep","model":"Grand Cherokee","color":"Blue","year":2012,"price":90199.32}
+{"id":77,"make":"Buick","model":"LaCrosse","color":"Blue","year":2010,"price":93295.81}
+{"id":78,"make":"Nissan","model":"GT-R","color":"Violet","year":2013,"price":74700.05}
+{"id":79,"make":"BMW","model":"3 Series","color":"Aquamarine","year":2007,"price":74583.95}
+{"id":80,"make":"BMW","model":"745","color":"Turquoise","year":2004,"price":84013.53}
+{"id":82,"make":"Kia","model":"Sedona","color":"Maroon","year":2003,"price":13145.96}
+{"id":83,"make":"Mitsubishi","model":"Lancer","color":"Blue","year":2011,"price":19133.51}
+{"id":84,"make":"Toyota","model":"Land Cruiser","color":"Green","year":2010,"price":55450.54}
+{"id":85,"make":"Volkswagen","model":"Routan","color":"Aquamarine","year":2009,"price":43511.97}
+{"id":87,"make":"Chevrolet","model":"Silverado 2500","color":"Purple","year":2012,"price":74400.88}
+{"id":88,"make":"Ford","model":"Expedition","color":"Yellow","year":2009,"price":84361.9}
+{"id":90,"make":"Jeep","model":"Grand Cherokee","color":"Orange","year":2007,"price":47686.03}
+{"id":93,"make":"Chevrolet","model":"Corvette","color":"Green","year":2012,"price":28794.8}
+{"id":98,"make":"Nissan","model":"Quest","color":"Yellow","year":2004,"price":26792.5}
+{"id":99,"make":"Chevrolet","model":"Silverado 3500","color":"Turquoise","year":2008,"price":53421.99}
+{"id":100,"make":"Toyota","model":"Sequoia","color":"Turquoise","year":2010,"price":35504.68}
+{"id":101,"make":"Bentley","model":"Continental","color":"Fuscia","year":2005,"price":14564.21}
+{"id":103,"make":"Maserati","model":"Quattroporte","color":"Pink","year":2011,"price":70709.42}
+{"id":104,"make":"Porsche","model":"Boxster","color":"Red","year":2008,"price":87540.59}
+{"id":106,"make":"Chevrolet","model":"Avalanche 2500","color":"Yellow","year":2006,"price":35418.67}
+{"id":109,"make":"Saab","model":"9-7X","color":"Mauv","year":2005,"price":56902.39}
+{"id":112,"make":"GMC","model":"Sierra 3500HD","color":"Mauv","year":2006,"price":37317.31}
+{"id":113,"make":"Ford","model":"Crown Victoria","color":"Puce","year":2005,"price":84192.03}
+{"id":114,"make":"Dodge","model":"Durango","color":"Mauv","year":2001,"price":6513.16}
+{"id":115,"make":"Audi","model":"A5","color":"Turquoise","year":2010,"price":29206.41}
+{"id":116,"make":"Mercedes-Benz","model":"S-Class","color":"Red","year":2009,"price":90776.79}
+{"id":117,"make":"Lotus","model":"Esprit","color":"Green","year":2004,"price":16362.61}
+{"id":121,"make":"Saab","model":"9-5","color":"Red","year":2011,"price":78348.52}
+{"id":123,"make":"Chevrolet","model":"Malibu","color":"Green","year":2005,"price":66977.87}
+{"id":127,"make":"Toyota","model":"Sienna","color":"Fuscia","year":2009,"price":39798.17}
+{"id":129,"make":"Aston Martin","model":"V8 Vantage","color":"Green","year":2006,"price":42854.27}
+{"id":131,"make":"Volvo","model":"S40","color":"Teal","year":2003,"price":85454.46}
+{"id":132,"make":"Audi","model":"Q7","color":"Teal","year":2011,"price":33333.43}
+{"id":134,"make":"Dodge","model":"Durango","color":"Fuscia","year":2004,"price":67115.92}
+{"id":137,"make":"Buick","model":"Lucerne","color":"Indigo","year":2007,"price":94804.57}
+{"id":138,"make":"Cadillac","model":"DeVille","color":"Blue","year":2003,"price":61239.78}
+{"id":140,"make":"Dodge","model":"Dakota","color":"Pink","year":2005,"price":96945.89}
+{"id":141,"make":"Honda","model":"Fit","color":"Aquamarine","year":2011,"price":47582.12}
+{"id":142,"make":"Toyota","model":"Camry","color":"Red","year":2003,"price":70692.76}
+{"id":144,"make":"BMW","model":"X6","color":"Yellow","year":2013,"price":35471.17}
+{"id":146,"make":"Ford","model":"E250","color":"Pink","year":2009,"price":57926.05}
+{"id":153,"make":"Subaru","model":"Forester","color":"Teal","year":2008,"price":81298.69}
+{"id":156,"make":"Lincoln","model":"LS","color":"Yellow","year":2004,"price":7219.42}
+{"id":157,"make":"Bentley","model":"Continental GTC","color":"Goldenrod","year":2010,"price":52788.47}
+{"id":158,"make":"Aston Martin","model":"V12 Vantage","color":"Blue","year":2011,"price":56608.19}
+{"id":159,"make":"Lincoln","model":"Continental","color":"Green","year":2002,"price":8725.35}
+{"id":161,"make":"MINI","model":"Cooper Clubman","color":"Crimson","year":2012,"price":17738.41}
+{"id":162,"make":"Lincoln","model":"MKX","color":"Puce","year":2011,"price":17969.72}
+{"id":165,"make":"Ford","model":"F350","color":"Pink","year":2009,"price":25126.94}
+{"id":167,"make":"Ford","model":"F-350 Super Duty","color":"Puce","year":2006,"price":82842.61}
+{"id":168,"make":"Audi","model":"RS4","color":"Yellow","year":2008,"price":82221.47}
+{"id":169,"make":"Ford","model":"C-MAX Hybrid","color":"Puce","year":2013,"price":6698.72}
+{"id":170,"make":"Lincoln","model":"MKZ","color":"Green","year":2008,"price":84991.44}
+{"id":171,"make":"Audi","model":"S6","color":"Blue","year":2011,"price":22583.31}
+{"id":173,"make":"Cadillac","model":"Seville","color":"Yellow","year":2003,"price":46119.78}
+{"id":175,"make":"Land Rover","model":"Range Rover","color":"Fuscia","year":2008,"price":98751.62}
+{"id":176,"make":"Mazda","model":"Mazda6","color":"Turquoise","year":2004,"price":42698.36}
+{"id":179,"make":"Dodge","model":"Dakota Club","color":"Teal","year":2007,"price":90456.29}
+{"id":183,"make":"Jaguar","model":"X-Type","color":"Pink","year":2007,"price":39039.91}
+{"id":184,"make":"Ford","model":"E250","color":"Orange","year":2009,"price":15087.05}
+{"id":185,"make":"Acura","model":"RL","color":"Purple","year":2012,"price":47734.2}
+{"id":187,"make":"Lexus","model":"ES","color":"Indigo","year":2003,"price":61354.49}
+{"id":188,"make":"Honda","model":"Civic","color":"Yellow","year":2010,"price":86422.09}
+{"id":189,"make":"Saab","model":"9-3","color":"Green","year":2012,"price":9639.26}
+{"id":191,"make":"Aston Martin","model":"DB9","color":"Turquoise","year":2012,"price":55423.55}
+{"id":192,"make":"Kia","model":"Optima","color":"Khaki","year":2004,"price":59049.97}
+{"id":194,"make":"Dodge","model":"Grand Caravan","color":"Mauv","year":2005,"price":82001.35}
+{"id":196,"make":"Jaguar","model":"XK Series","color":"Maroon","year":2013,"price":57805.28}
+{"id":198,"make":"Chevrolet","model":"Silverado","color":"Red","year":2007,"price":77001.58}
+{"id":199,"make":"GMC","model":"Envoy XUV","color":"Yellow","year":2005,"price":39778.72}
+{"id":200,"make":"Mazda","model":"Mazda6","color":"Violet","year":2008,"price":85012.54}
+{"id":201,"make":"Scion","model":"tC","color":"Maroon","year":2012,"price":11670.86}
+{"id":202,"make":"Audi","model":"A4","color":"Green","year":2006,"price":82976.69}
+{"id":204,"make":"Porsche","model":"911","color":"Violet","year":2006,"price":10195.39}
+{"id":205,"make":"GMC","model":"Savana 3500","color":"Turquoise","year":2005,"price":18907.26}
+{"id":207,"make":"GMC","model":"Savana 2500","color":"Violet","year":2012,"price":6096.19}
+{"id":208,"make":"BMW","model":"X3","color":"Crimson","year":2012,"price":81875.73}
+{"id":212,"make":"Audi","model":"Q7","color":"Red","year":2010,"price":59565.76}
+{"id":213,"make":"Jeep","model":"Liberty","color":"Turquoise","year":2008,"price":40593.54}
+{"id":214,"make":"Buick","model":"LaCrosse","color":"Pink","year":2009,"price":32524.02}
+{"id":215,"make":"Chrysler","model":"Town & Country","color":"Pink","year":2006,"price":74633.12}
+{"id":219,"make":"BMW","model":"750","color":"Green","year":2006,"price":74629.36}
+{"id":221,"make":"Dodge","model":"Grand Caravan","color":"Indigo","year":2002,"price":86703.0}
+{"id":222,"make":"Dodge","model":"Dakota Club","color":"Aquamarine","year":2003,"price":95062.15}
+{"id":223,"make":"Mazda","model":"Mazdaspeed 3","color":"Orange","year":2010,"price":57883.74}
+{"id":225,"make":"Cadillac","model":"Escalade ESV","color":"Maroon","year":2010,"price":55587.61}
+{"id":226,"make":"Audi","model":"A3","color":"Khaki","year":2011,"price":97544.29}
+{"id":227,"make":"Land Rover","model":"Freelander","color":"Turquoise","year":2002,"price":59566.73}
+{"id":228,"make":"GMC","model":"Sierra 3500","color":"Puce","year":2003,"price":95310.6}
+{"id":230,"make":"Mercedes-Benz","model":"CL-Class","color":"Pink","year":2008,"price":18369.18}
+{"id":231,"make":"Subaru","model":"B9 Tribeca","color":"Khaki","year":2007,"price":64694.19}
+{"id":241,"make":"Lamborghini","model":"Murciélago","color":"Puce","year":2005,"price":92985.68}
+{"id":245,"make":"Dodge","model":"Caravan","color":"Puce","year":2008,"price":79627.31}
+{"id":247,"make":"Oldsmobile","model":"Bravada","color":"Fuscia","year":2002,"price":22195.47}
+{"id":248,"make":"Toyota","model":"Tundra","color":"Goldenrod","year":2008,"price":64392.74}
+{"id":250,"make":"Ford","model":"Focus ST","color":"Yellow","year":2013,"price":18896.55}
+{"id":251,"make":"BMW","model":"1 Series","color":"Indigo","year":2010,"price":23316.89}
+{"id":253,"make":"Ford","model":"Crown Victoria","color":"Indigo","year":2008,"price":52804.21}
+{"id":254,"make":"Lexus","model":"LX","color":"Turquoise","year":2009,"price":63987.21}
+{"id":255,"make":"Toyota","model":"Tundra","color":"Teal","year":2009,"price":98534.61}
+{"id":256,"make":"BMW","model":"M5","color":"Purple","year":2002,"price":29205.64}
+{"id":257,"make":"Kia","model":"Optima","color":"Aquamarine","year":2012,"price":81358.15}
+{"id":258,"make":"Lexus","model":"LS","color":"Orange","year":2009,"price":74653.03}
+{"id":259,"make":"Audi","model":"S4","color":"Maroon","year":2012,"price":25297.53}
+{"id":262,"make":"Scion","model":"xB","color":"Goldenrod","year":2012,"price":55778.37}
+{"id":263,"make":"Chevrolet","model":"Express 2500","color":"Puce","year":2007,"price":99892.59}
+{"id":264,"make":"Lamborghini","model":"Gallardo","color":"Puce","year":2005,"price":27074.24}
+{"id":266,"make":"Porsche","model":"Boxster","color":"Pink","year":2001,"price":40897.28}
+{"id":268,"make":"Chevrolet","model":"Metro","color":"Crimson","year":2001,"price":74147.7}
+{"id":269,"make":"Hyundai","model":"Santa Fe","color":"Turquoise","year":2008,"price":66370.13}
+{"id":271,"make":"BMW","model":"M3","color":"Indigo","year":2005,"price":47580.18}
+{"id":273,"make":"Toyota","model":"Venza","color":"Green","year":2012,"price":12640.92}
+{"id":278,"make":"Ford","model":"Escape","color":"Orange","year":2003,"price":42300.24}
+{"id":279,"make":"Kia","model":"Rondo","color":"Mauv","year":2009,"price":98421.77}
+{"id":283,"make":"Ford","model":"ZX2","color":"Puce","year":2001,"price":81209.57}
+{"id":285,"make":"Nissan","model":"GT-R","color":"Orange","year":2009,"price":33429.1}
+{"id":286,"make":"Toyota","model":"Prius","color":"Red","year":2002,"price":26495.26}
+{"id":287,"make":"Chevrolet","model":"Express 3500","color":"Teal","year":2010,"price":82550.76}
+{"id":289,"make":"Ford","model":"F350","color":"Yellow","year":2003,"price":47074.46}
+{"id":293,"make":"Chevrolet","model":"Silverado 3500HD","color":"Aquamarine","year":2006,"price":91912.35}
+{"id":294,"make":"BMW","model":"6 Series","color":"Aquamarine","year":2009,"price":97394.82}
+{"id":295,"make":"Jeep","model":"Grand Cherokee","color":"Maroon","year":2009,"price":65553.9}
+{"id":299,"make":"Mercury","model":"Mariner","color":"Goldenrod","year":2005,"price":8780.77}
+{"id":301,"make":"Chrysler","model":"Sebring","color":"Puce","year":2009,"price":82262.27}
+{"id":302,"make":"Hyundai","model":"Elantra","color":"Mauv","year":2010,"price":29756.5}
+{"id":303,"make":"Land Rover","model":"LR3","color":"Goldenrod","year":2008,"price":29427.14}
+{"id":304,"make":"Jaguar","model":"XJ Series","color":"Yellow","year":2004,"price":38600.22}
+{"id":307,"make":"Kia","model":"Sedona","color":"Green","year":2007,"price":62196.62}
+{"id":311,"make":"Oldsmobile","model":"Aurora","color":"Violet","year":2002,"price":53487.21}
+{"id":315,"make":"Isuzu","model":"i-290","color":"Maroon","year":2008,"price":82154.49}
+{"id":316,"make":"Mercedes-Benz","model":"SL-Class","color":"Maroon","year":2011,"price":20337.01}
+{"id":318,"make":"Volkswagen","model":"Touareg","color":"Orange","year":2011,"price":8533.68}
+{"id":322,"make":"Mercedes-Benz","model":"S-Class","color":"Teal","year":2004,"price":21696.71}
+{"id":324,"make":"GMC","model":"Sierra 3500","color":"Turquoise","year":2001,"price":52759.42}
+{"id":327,"make":"MINI","model":"Clubman","color":"Maroon","year":2010,"price":70428.2}
+{"id":328,"make":"Chevrolet","model":"HHR","color":"Maroon","year":2007,"price":72497.09}
+{"id":331,"make":"Dodge","model":"Dakota Club","color":"Crimson","year":2007,"price":13916.21}
+{"id":332,"make":"Ford","model":"Taurus","color":"Puce","year":2010,"price":20747.98}
+{"id":333,"make":"Toyota","model":"Land Cruiser","color":"Khaki","year":2009,"price":39068.14}
+{"id":335,"make":"Suzuki","model":"Daewoo Lacetti","color":"Orange","year":2004,"price":42783.27}
+{"id":339,"make":"Mitsubishi","model":"Lancer","color":"Fuscia","year":2007,"price":97776.89}
+{"id":341,"make":"Lamborghini","model":"Gallardo","color":"Turquoise","year":2007,"price":51333.72}
+{"id":342,"make":"Toyota","model":"Tacoma","color":"Blue","year":2003,"price":29863.77}
+{"id":343,"make":"Volkswagen","model":"CC","color":"Orange","year":2011,"price":9504.36}
+{"id":344,"make":"BMW","model":"545","color":"Mauv","year":2005,"price":51536.52}
+{"id":347,"make":"Toyota","model":"Prius","color":"Indigo","year":2012,"price":22459.16}
+{"id":348,"make":"Volkswagen","model":"Phaeton","color":"Red","year":2006,"price":21363.54}
+{"id":349,"make":"Scion","model":"xB","color":"Purple","year":2004,"price":41040.76}
+{"id":350,"make":"Chevrolet","model":"Cobalt","color":"Mauv","year":2010,"price":54959.68}
+{"id":352,"make":"Volkswagen","model":"Routan","color":"Yellow","year":2009,"price":14806.68}
+{"id":353,"make":"GMC","model":"Yukon","color":"Blue","year":2013,"price":70829.15}
+{"id":355,"make":"Jeep","model":"Wrangler","color":"Orange","year":2002,"price":34278.35}
+{"id":356,"make":"Toyota","model":"4Runner","color":"Yellow","year":2009,"price":23821.45}
+{"id":358,"make":"Mitsubishi","model":"Eclipse","color":"Red","year":2008,"price":86483.03}
+{"id":359,"make":"Volvo","model":"S40","color":"Mauv","year":2004,"price":71986.8}
+{"id":360,"make":"Chrysler","model":"Sebring","color":"Aquamarine","year":2005,"price":69164.66}
+{"id":362,"make":"Land Rover","model":"Freelander","color":"Teal","year":2004,"price":9851.44}
+{"id":366,"make":"Cadillac","model":"CTS-V","color":"Indigo","year":2006,"price":58574.66}
+{"id":369,"make":"Nissan","model":"Xterra","color":"Purple","year":2001,"price":94833.56}
+{"id":370,"make":"Saab","model":"9-5","color":"Aquamarine","year":2003,"price":28013.62}
+{"id":371,"make":"Jeep","model":"Grand Cherokee","color":"Puce","year":2011,"price":80921.33}
+{"id":373,"make":"Audi","model":"A8","color":"Indigo","year":2011,"price":88402.5}
+{"id":375,"make":"Audi","model":"A8","color":"Goldenrod","year":2005,"price":66679.79}
+{"id":376,"make":"Ford","model":"Crown Victoria","color":"Puce","year":2005,"price":82921.28}
+{"id":377,"make":"Saturn","model":"Outlook","color":"Green","year":2008,"price":46944.87}
+{"id":378,"make":"Ferrari","model":"599 GTB Fiorano","color":"Fuscia","year":2007,"price":55842.99}
+{"id":379,"make":"Ford","model":"Expedition","color":"Violet","year":2007,"price":70301.89}
+{"id":380,"make":"Ford","model":"GT500","color":"Red","year":2007,"price":90832.97}
+{"id":382,"make":"Lincoln","model":"Navigator L","color":"Blue","year":2011,"price":57438.33}
+{"id":383,"make":"BMW","model":"X6 M","color":"Green","year":2011,"price":58072.97}
+{"id":384,"make":"Buick","model":"Century","color":"Fuscia","year":2002,"price":82300.09}
+{"id":385,"make":"Toyota","model":"Sienna","color":"Fuscia","year":2004,"price":8112.94}
+{"id":386,"make":"Mitsubishi","model":"Galant","color":"Maroon","year":2007,"price":39998.33}
+{"id":388,"make":"Buick","model":"Rendezvous","color":"Red","year":2002,"price":80687.69}
+{"id":391,"make":"Nissan","model":"Armada","color":"Maroon","year":2012,"price":64294.75}
+{"id":396,"make":"Lamborghini","model":"Murciélago","color":"Puce","year":2010,"price":65122.74}
+{"id":398,"make":"Chrysler","model":"Town & Country","color":"Fuscia","year":2005,"price":73238.31}
+{"id":399,"make":"Chevrolet","model":"Camaro","color":"Orange","year":2011,"price":75327.15}
+{"id":401,"make":"Pontiac","model":"G6","color":"Indigo","year":2006,"price":25930.66}
+{"id":402,"make":"Lotus","model":"Elise","color":"Indigo","year":2007,"price":36632.59}
+{"id":403,"make":"Chrysler","model":"Crossfire","color":"Green","year":2008,"price":38718.34}
+{"id":404,"make":"GMC","model":"Yukon XL 2500","color":"Aquamarine","year":2008,"price":65850.4}
+{"id":405,"make":"Volkswagen","model":"Jetta","color":"Green","year":2001,"price":78199.8}
+{"id":406,"make":"Nissan","model":"Armada","color":"Teal","year":2007,"price":39297.77}
+{"id":408,"make":"Honda","model":"Accord","color":"Fuscia","year":2010,"price":12807.27}
+{"id":410,"make":"Daewoo","model":"Lanos","color":"Maroon","year":2002,"price":83106.04}
+{"id":411,"make":"Nissan","model":"Maxima","color":"Goldenrod","year":2005,"price":67349.69}
+{"id":412,"make":"Suzuki","model":"Grand Vitara","color":"Goldenrod","year":2010,"price":70858.5}
+{"id":413,"make":"Ram","model":"2500","color":"Indigo","year":2012,"price":84066.51}
+{"id":414,"make":"Ford","model":"Ranger","color":"Khaki","year":2007,"price":93029.15}
+{"id":415,"make":"Bentley","model":"Continental GTC","color":"Pink","year":2008,"price":64346.22}
+{"id":417,"make":"Audi","model":"S8","color":"Aquamarine","year":2003,"price":11515.81}
+{"id":420,"make":"Volvo","model":"V70","color":"Indigo","year":2005,"price":74165.99}
+{"id":421,"make":"Honda","model":"Civic","color":"Red","year":2010,"price":19624.75}
+{"id":422,"make":"Jeep","model":"Grand Cherokee","color":"Green","year":2011,"price":79852.87}
+{"id":423,"make":"Maserati","model":"GranTurismo","color":"Teal","year":2009,"price":42113.33}
+{"id":424,"make":"Ford","model":"E150","color":"Purple","year":2009,"price":85559.45}
+{"id":425,"make":"Audi","model":"A4","color":"Turquoise","year":2010,"price":53784.67}
+{"id":426,"make":"Volkswagen","model":"GTI","color":"Mauv","year":2003,"price":86030.55}
+{"id":428,"make":"Audi","model":"A6","color":"Orange","year":2011,"price":38178.0}
+{"id":429,"make":"Volkswagen","model":"Cabriolet","color":"Pink","year":2002,"price":26515.02}
+{"id":431,"make":"Buick","model":"Verano","color":"Maroon","year":2012,"price":89113.09}
+{"id":432,"make":"Toyota","model":"FJ Cruiser","color":"Mauv","year":2008,"price":95420.5}
+{"id":434,"make":"Honda","model":"Ridgeline","color":"Teal","year":2010,"price":13709.7}
+{"id":439,"make":"Chevrolet","model":"Express 2500","color":"Teal","year":2002,"price":13784.53}
+{"id":442,"make":"Mazda","model":"CX-7","color":"Puce","year":2011,"price":48767.29}
+{"id":443,"make":"Subaru","model":"Forester","color":"Teal","year":2003,"price":36028.97}
+{"id":444,"make":"Chevrolet","model":"Silverado 1500","color":"Purple","year":2003,"price":20536.23}
+{"id":445,"make":"Ford","model":"F250","color":"Red","year":2012,"price":20214.11}
+{"id":447,"make":"Honda","model":"Accord","color":"Teal","year":2001,"price":97415.29}
+{"id":448,"make":"Chevrolet","model":"Astro","color":"Maroon","year":2002,"price":9639.9}
+{"id":449,"make":"Nissan","model":"Armada","color":"Fuscia","year":2009,"price":20608.78}
+{"id":452,"make":"Subaru","model":"Impreza","color":"Red","year":2008,"price":55757.18}
+{"id":453,"make":"GMC","model":"Savana","color":"Orange","year":2006,"price":53155.0}
+{"id":456,"make":"Dodge","model":"Ram 2500","color":"Maroon","year":2004,"price":54835.27}
+{"id":457,"make":"Mitsubishi","model":"Lancer Evolution","color":"Maroon","year":2002,"price":58560.37}
+{"id":458,"make":"Ford","model":"Ranger","color":"Blue","year":2003,"price":69252.18}
+{"id":464,"make":"Toyota","model":"RAV4","color":"Yellow","year":2002,"price":86030.33}
+{"id":465,"make":"BMW","model":"Z3","color":"Red","year":2001,"price":56522.43}
+{"id":466,"make":"Kia","model":"Rondo","color":"Indigo","year":2008,"price":55495.82}
+{"id":467,"make":"Ford","model":"F-250 Super Duty","color":"Khaki","year":2006,"price":9233.17}
+{"id":468,"make":"Honda","model":"Civic","color":"Pink","year":2003,"price":9382.75}
+{"id":470,"make":"BMW","model":"7 Series","color":"Puce","year":2008,"price":21461.89}
+{"id":472,"make":"Ford","model":"Escort","color":"Yellow","year":2004,"price":8061.36}
+{"id":479,"make":"Chevrolet","model":"Express 3500","color":"Mauv","year":2001,"price":51030.7}
+{"id":482,"make":"Mazda","model":"B-Series","color":"Turquoise","year":2007,"price":73768.89}
+{"id":483,"make":"Lamborghini","model":"Diablo","color":"Goldenrod","year":2001,"price":75429.83}
+{"id":486,"make":"Hyundai","model":"Elantra","color":"Aquamarine","year":2008,"price":14910.17}
+{"id":487,"make":"Ford","model":"Excursion","color":"Aquamarine","year":2003,"price":37113.38}
+{"id":488,"make":"Mercedes-Benz","model":"G-Class","color":"Goldenrod","year":2003,"price":24527.18}
+{"id":490,"make":"GMC","model":"Sierra 1500","color":"Fuscia","year":2011,"price":24708.99}
+{"id":492,"make":"Chevrolet","model":"Impala","color":"Turquoise","year":2008,"price":40854.0}
+{"id":494,"make":"Ford","model":"F350","color":"Green","year":2004,"price":59993.86}
+{"id":495,"make":"Ford","model":"F350","color":"Green","year":2008,"price":81337.53}
+{"id":496,"make":"Nissan","model":"370Z","color":"Blue","year":2010,"price":52530.49}
+{"id":497,"make":"Lincoln","model":"Navigator","color":"Goldenrod","year":2003,"price":8312.4}
+{"id":502,"make":"Suzuki","model":"Esteem","color":"Yellow","year":2001,"price":51044.44}
+{"id":506,"make":"Toyota","model":"Tundra","color":"Purple","year":2004,"price":20111.97}
+{"id":509,"make":"Kia","model":"Optima","color":"Pink","year":2012,"price":14515.75}
+{"id":510,"make":"Subaru","model":"Outback","color":"Puce","year":2009,"price":10977.94}
+{"id":511,"make":"Chevrolet","model":"Corvette","color":"Yellow","year":2008,"price":99677.14}
+{"id":512,"make":"Mitsubishi","model":"Lancer Evolution","color":"Crimson","year":2011,"price":5028.24}
+{"id":513,"make":"Volkswagen","model":"Touareg","color":"Orange","year":2006,"price":72281.88}
+{"id":514,"make":"Honda","model":"Insight","color":"Indigo","year":2002,"price":46599.39}
+{"id":516,"make":"BMW","model":"7 Series","color":"Maroon","year":2011,"price":44633.64}
+{"id":517,"make":"BMW","model":"M5","color":"Green","year":2008,"price":33615.09}
+{"id":520,"make":"Honda","model":"Accord","color":"Indigo","year":2011,"price":78300.58}
+{"id":521,"make":"Dodge","model":"Caliber","color":"Green","year":2012,"price":52889.23}
+{"id":525,"make":"Toyota","model":"Sequoia","color":"Aquamarine","year":2002,"price":79092.98}
+{"id":527,"make":"Kia","model":"Spectra","color":"Puce","year":2005,"price":42254.37}
+{"id":528,"make":"Infiniti","model":"QX56","color":"Indigo","year":2007,"price":79692.48}
+{"id":529,"make":"Mercedes-Benz","model":"CL65 AMG","color":"Yellow","year":2009,"price":89146.0}
+{"id":530,"make":"Mitsubishi","model":"Pajero","color":"Fuscia","year":2002,"price":43095.15}
+{"id":532,"make":"Chrysler","model":"Town & Country","color":"Orange","year":2011,"price":77697.04}
+{"id":533,"make":"Honda","model":"Insight","color":"Indigo","year":2003,"price":9710.86}
+{"id":535,"make":"Chevrolet","model":"Cavalier","color":"Pink","year":2004,"price":44209.3}
+{"id":536,"make":"Lotus","model":"Exige","color":"Red","year":2005,"price":70409.04}
+{"id":537,"make":"Toyota","model":"Land Cruiser","color":"Crimson","year":2004,"price":53848.73}
+{"id":538,"make":"Toyota","model":"Prius","color":"Turquoise","year":2006,"price":83106.52}
+{"id":540,"make":"Mercedes-Benz","model":"S-Class","color":"Yellow","year":2011,"price":75056.84}
+{"id":542,"make":"Cadillac","model":"Escalade ESV","color":"Red","year":2005,"price":25016.62}
+{"id":548,"make":"Suzuki","model":"Vitara","color":"Blue","year":2003,"price":22935.72}
+{"id":549,"make":"Porsche","model":"Cayman","color":"Red","year":2009,"price":18527.63}
+{"id":551,"make":"Mazda","model":"MPV","color":"Indigo","year":2006,"price":44051.16}
+{"id":554,"make":"BMW","model":"M6","color":"Aquamarine","year":2008,"price":62888.71}
+{"id":557,"make":"Chevrolet","model":"Camaro","color":"Maroon","year":2011,"price":15493.74}
+{"id":558,"make":"Mercedes-Benz","model":"S-Class","color":"Mauv","year":2002,"price":68773.9}
+{"id":559,"make":"Kia","model":"Sportage","color":"Red","year":2011,"price":28348.86}
+{"id":561,"make":"Lexus","model":"LS","color":"Blue","year":2002,"price":94837.79}
+{"id":563,"make":"Maybach","model":"62","color":"Maroon","year":2003,"price":82989.27}
+{"id":566,"make":"Toyota","model":"Tundra","color":"Turquoise","year":2008,"price":79459.59}
+{"id":569,"make":"Chevrolet","model":"Corvette","color":"Pink","year":2012,"price":60214.8}
+{"id":573,"make":"Ford","model":"E150","color":"Green","year":2008,"price":11945.7}
+{"id":574,"make":"Jeep","model":"Grand Cherokee","color":"Fuscia","year":2012,"price":44338.78}
+{"id":575,"make":"MINI","model":"Cooper Countryman","color":"Khaki","year":2012,"price":11942.61}
+{"id":576,"make":"Volkswagen","model":"Golf","color":"Turquoise","year":2011,"price":48839.58}
+{"id":579,"make":"Subaru","model":"Outback","color":"Mauv","year":2009,"price":77535.57}
+{"id":580,"make":"Ford","model":"Focus","color":"Puce","year":2012,"price":87188.85}
+{"id":581,"make":"Nissan","model":"Titan","color":"Blue","year":2011,"price":26402.17}
+{"id":582,"make":"Toyota","model":"Matrix","color":"Aquamarine","year":2012,"price":42827.72}
+{"id":587,"make":"Pontiac","model":"Torrent","color":"Indigo","year":2008,"price":63373.55}
+{"id":588,"make":"Acura","model":"MDX","color":"Red","year":2011,"price":31196.46}
+{"id":590,"make":"Subaru","model":"Outback","color":"Orange","year":2001,"price":11594.89}
+{"id":593,"make":"Nissan","model":"Sentra","color":"Orange","year":2007,"price":70162.22}
+{"id":594,"make":"Subaru","model":"Impreza","color":"Blue","year":2002,"price":77991.14}
+{"id":595,"make":"Ford","model":"Focus","color":"Red","year":2012,"price":9354.62}
+{"id":598,"make":"Ford","model":"E-Series","color":"Crimson","year":2003,"price":8261.35}
+{"id":601,"make":"Buick","model":"Century","color":"Maroon","year":2005,"price":21074.31}
+{"id":602,"make":"Audi","model":"A4","color":"Aquamarine","year":2012,"price":97607.28}
+{"id":603,"make":"Toyota","model":"Camry Hybrid","color":"Yellow","year":2012,"price":42427.4}
+{"id":606,"make":"Hyundai","model":"Sonata","color":"Yellow","year":2009,"price":69969.8}
+{"id":607,"make":"Land Rover","model":"LR4","color":"Indigo","year":2011,"price":33597.15}
+{"id":609,"make":"Toyota","model":"RAV4","color":"Indigo","year":2003,"price":48973.2}
+{"id":611,"make":"Nissan","model":"350Z","color":"Turquoise","year":2007,"price":97667.88}
+{"id":612,"make":"Cadillac","model":"Catera","color":"Blue","year":2001,"price":50046.38}
+{"id":613,"make":"Chevrolet","model":"Corvette","color":"Maroon","year":2012,"price":69653.96}
+{"id":617,"make":"GMC","model":"Safari","color":"Crimson","year":2001,"price":41522.43}
+{"id":619,"make":"Volvo","model":"XC90","color":"Red","year":2009,"price":55857.41}
+{"id":621,"make":"Chrysler","model":"Sebring","color":"Maroon","year":2002,"price":86160.13}
+{"id":623,"make":"Maserati","model":"GranTurismo","color":"Indigo","year":2009,"price":59215.79}
+{"id":625,"make":"Ford","model":"Thunderbird","color":"Aquamarine","year":2005,"price":51854.3}
+{"id":628,"make":"GMC","model":"Envoy","color":"Pink","year":2004,"price":49081.09}
+{"id":632,"make":"Chrysler","model":"Town & Country","color":"Indigo","year":2003,"price":99555.94}
+{"id":633,"make":"Kia","model":"Rio","color":"Purple","year":2002,"price":94055.15}
+{"id":635,"make":"BMW","model":"5 Series","color":"Goldenrod","year":2010,"price":91978.16}
+{"id":636,"make":"Toyota","model":"Avalon","color":"Red","year":2010,"price":5005.16}
+{"id":640,"make":"Maybach","model":"57","color":"Fuscia","year":2012,"price":68163.33}
+{"id":645,"make":"Volvo","model":"XC70","color":"Purple","year":2012,"price":77593.97}
+{"id":646,"make":"Nissan","model":"Maxima","color":"Pink","year":2010,"price":86113.05}
+{"id":649,"make":"Suzuki","model":"Reno","color":"Puce","year":2006,"price":17283.38}
+{"id":652,"make":"Nissan","model":"Altima","color":"Mauv","year":2004,"price":78924.37}
+{"id":653,"make":"Chrysler","model":"300M","color":"Maroon","year":2003,"price":89075.19}
+{"id":654,"make":"Ford","model":"Ranger","color":"Crimson","year":2002,"price":36751.0}
+{"id":655,"make":"Ford","model":"Freestyle","color":"Goldenrod","year":2007,"price":63147.43}
+{"id":657,"make":"Nissan","model":"Sentra","color":"Fuscia","year":2004,"price":25187.24}
+{"id":658,"make":"Chevrolet","model":"Suburban 2500","color":"Violet","year":2011,"price":77148.51}
+{"id":660,"make":"Audi","model":"A8","color":"Orange","year":2012,"price":46966.8}
+{"id":662,"make":"Suzuki","model":"XL-7","color":"Maroon","year":2005,"price":78711.99}
+{"id":663,"make":"Maserati","model":"Coupe","color":"Purple","year":2005,"price":99140.57}
+{"id":665,"make":"Nissan","model":"JUKE","color":"Fuscia","year":2011,"price":84927.01}
+{"id":666,"make":"Land Rover","model":"Range Rover Evoque","color":"Maroon","year":2012,"price":72732.73}
+{"id":675,"make":"Buick","model":"Lucerne","color":"Crimson","year":2010,"price":80931.32}
+{"id":676,"make":"Kia","model":"Optima","color":"Purple","year":2009,"price":31105.26}
+{"id":678,"make":"Acura","model":"TL","color":"Goldenrod","year":2002,"price":63922.42}
+{"id":679,"make":"Audi","model":"A4","color":"Mauv","year":2008,"price":81419.93}
+{"id":680,"make":"Nissan","model":"Murano","color":"Orange","year":2012,"price":37064.56}
+{"id":685,"make":"Cadillac","model":"XLR","color":"Indigo","year":2007,"price":61307.95}
+{"id":686,"make":"Cadillac","model":"Escalade","color":"Red","year":2003,"price":14178.69}
+{"id":687,"make":"Mazda","model":"MX-5","color":"Violet","year":2001,"price":30330.88}
+{"id":688,"make":"Kia","model":"Rio","color":"Violet","year":2006,"price":29527.93}
+{"id":689,"make":"Dodge","model":"Magnum","color":"Violet","year":2006,"price":82570.25}
+{"id":695,"make":"Volvo","model":"XC90","color":"Crimson","year":2005,"price":19595.11}
+{"id":698,"make":"Jaguar","model":"XK","color":"Mauv","year":2011,"price":14675.36}
+{"id":702,"make":"Infiniti","model":"G","color":"Purple","year":2003,"price":90892.7}
+{"id":703,"make":"Mercury","model":"Grand Marquis","color":"Purple","year":2005,"price":28980.81}
+{"id":705,"make":"Chevrolet","model":"Avalanche","color":"Fuscia","year":2011,"price":42554.65}
+{"id":706,"make":"Hummer","model":"H3","color":"Teal","year":2010,"price":44425.99}
+{"id":710,"make":"Jeep","model":"Grand Cherokee","color":"Turquoise","year":2009,"price":87558.87}
+{"id":712,"make":"Mercedes-Benz","model":"M-Class","color":"Green","year":2006,"price":21104.19}
+{"id":713,"make":"Suzuki","model":"Daewoo Lacetti","color":"Teal","year":2005,"price":52033.49}
+{"id":714,"make":"Chevrolet","model":"Express 3500","color":"Turquoise","year":2008,"price":67964.96}
+{"id":715,"make":"Mitsubishi","model":"Lancer Evolution","color":"Puce","year":2002,"price":81096.37}
+{"id":717,"make":"Porsche","model":"Panamera","color":"Aquamarine","year":2013,"price":48719.76}
+{"id":719,"make":"Audi","model":"A6","color":"Green","year":2004,"price":38083.03}
+{"id":720,"make":"Mercedes-Benz","model":"S-Class","color":"Puce","year":2003,"price":81648.63}
+{"id":722,"make":"Mazda","model":"B-Series","color":"Purple","year":2006,"price":23044.52}
+{"id":723,"make":"Mazda","model":"Mazdaspeed 3","color":"Green","year":2012,"price":44280.12}
+{"id":724,"make":"Nissan","model":"Armada","color":"Teal","year":2008,"price":72693.15}
+{"id":725,"make":"Hyundai","model":"Tiburon","color":"Puce","year":2006,"price":43384.04}
+{"id":726,"make":"Suzuki","model":"Grand Vitara","color":"Violet","year":2002,"price":45438.97}
+{"id":727,"make":"Ford","model":"F-Series","color":"Mauv","year":2004,"price":78218.71}
+{"id":728,"make":"Dodge","model":"Challenger","color":"Indigo","year":2009,"price":48427.04}
+{"id":730,"make":"Mercedes-Benz","model":"SLK-Class","color":"Puce","year":2010,"price":69894.8}
+{"id":733,"make":"Bentley","model":"Azure","color":"Khaki","year":2007,"price":86402.64}
+{"id":734,"make":"Toyota","model":"Avalon","color":"Green","year":2002,"price":92468.47}
+{"id":735,"make":"Audi","model":"A6","color":"Purple","year":2002,"price":88232.05}
+{"id":737,"make":"Lexus","model":"IS F","color":"Teal","year":2010,"price":58127.39}
+{"id":738,"make":"Toyota","model":"Matrix","color":"Orange","year":2009,"price":8523.07}
+{"id":741,"make":"Infiniti","model":"M","color":"Green","year":2010,"price":99505.64}
+{"id":743,"make":"Toyota","model":"Matrix","color":"Mauv","year":2007,"price":21120.89}
+{"id":744,"make":"BMW","model":"Z4","color":"Purple","year":2012,"price":17664.92}
+{"id":745,"make":"Lexus","model":"ES","color":"Aquamarine","year":2008,"price":94757.08}
+{"id":746,"make":"Toyota","model":"Avalon","color":"Mauv","year":2005,"price":12839.88}
+{"id":747,"make":"GMC","model":"Yukon XL 1500","color":"Aquamarine","year":2004,"price":78504.48}
+{"id":750,"make":"Chevrolet","model":"Colorado","color":"Crimson","year":2008,"price":13688.9}
+{"id":754,"make":"Dodge","model":"Ram Van 3500","color":"Yellow","year":2002,"price":23233.43}
+{"id":755,"make":"Volvo","model":"S80","color":"Orange","year":2012,"price":49997.38}
+{"id":756,"make":"Kia","model":"Sedona","color":"Crimson","year":2004,"price":26637.33}
+{"id":758,"make":"Lamborghini","model":"Gallardo","color":"Purple","year":2005,"price":78645.64}
+{"id":762,"make":"Chevrolet","model":"Cavalier","color":"Turquoise","year":2002,"price":42684.61}
+{"id":766,"make":"Porsche","model":"Cayenne","color":"Aquamarine","year":2010,"price":57933.92}
+{"id":768,"make":"Mazda","model":"RX-8","color":"Aquamarine","year":2009,"price":97167.26}
+{"id":771,"make":"Subaru","model":"BRZ","color":"Puce","year":2013,"price":96583.25}
+{"id":773,"make":"Mitsubishi","model":"Outlander","color":"Puce","year":2007,"price":45140.65}
+{"id":774,"make":"Lexus","model":"GS","color":"Yellow","year":2013,"price":46223.39}
+{"id":775,"make":"Nissan","model":"Murano","color":"Indigo","year":2006,"price":7581.22}
+{"id":776,"make":"Subaru","model":"Impreza","color":"Mauv","year":2009,"price":13280.97}
+{"id":779,"make":"Jeep","model":"Liberty","color":"Indigo","year":2012,"price":47002.19}
+{"id":780,"make":"Suzuki","model":"Equator","color":"Aquamarine","year":2011,"price":90728.4}
+{"id":781,"make":"Kia","model":"Optima","color":"Puce","year":2002,"price":20567.67}
+{"id":783,"make":"Toyota","model":"Camry","color":"Aquamarine","year":2009,"price":74469.11}
+{"id":784,"make":"Buick","model":"Rainier","color":"Green","year":2006,"price":50782.35}
+{"id":786,"make":"Dodge","model":"Charger","color":"Yellow","year":2008,"price":71786.14}
+{"id":787,"make":"Infiniti","model":"QX","color":"Khaki","year":2012,"price":20428.57}
+{"id":789,"make":"Toyota","model":"4Runner","color":"Orange","year":2002,"price":25111.51}
+{"id":790,"make":"Chevrolet","model":"Monte Carlo","color":"Green","year":2005,"price":12008.5}
+{"id":793,"make":"Infiniti","model":"G","color":"Orange","year":2010,"price":61910.38}
+{"id":798,"make":"Mercedes-Benz","model":"CLK-Class","color":"Crimson","year":2002,"price":85660.4}
+{"id":799,"make":"Nissan","model":"Maxima","color":"Blue","year":2007,"price":61934.82}
+{"id":803,"make":"Audi","model":"TT","color":"Violet","year":2001,"price":42520.95}
+{"id":805,"make":"Chevrolet","model":"Suburban 1500","color":"Green","year":2012,"price":64958.47}
+{"id":806,"make":"Infiniti","model":"EX","color":"Crimson","year":2009,"price":32564.96}
+{"id":807,"make":"Ford","model":"Ranger","color":"Khaki","year":2008,"price":54343.98}
+{"id":808,"make":"Mercedes-Benz","model":"GL-Class","color":"Indigo","year":2011,"price":52619.02}
+{"id":810,"make":"Chevrolet","model":"Astro","color":"Khaki","year":2002,"price":67067.11}
+{"id":811,"make":"GMC","model":"Jimmy","color":"Pink","year":2001,"price":61966.95}
+{"id":812,"make":"Honda","model":"Pilot","color":"Crimson","year":2012,"price":50037.63}
+{"id":813,"make":"GMC","model":"Sonoma","color":"Orange","year":2002,"price":67317.29}
+{"id":816,"make":"Buick","model":"Regal","color":"Orange","year":2002,"price":58618.47}
+{"id":817,"make":"BMW","model":"330","color":"Teal","year":2005,"price":60079.62}
+{"id":818,"make":"Lexus","model":"GS","color":"Red","year":2007,"price":17569.59}
+{"id":819,"make":"Chevrolet","model":"Colorado","color":"Goldenrod","year":2011,"price":80337.5}
+{"id":823,"make":"Nissan","model":"Versa","color":"Blue","year":2011,"price":28964.43}
+{"id":824,"make":"Porsche","model":"Cayenne","color":"Red","year":2012,"price":40588.67}
+{"id":825,"make":"Volkswagen","model":"Eos","color":"Purple","year":2011,"price":62390.04}
+{"id":828,"make":"Dodge","model":"Ram 2500","color":"Indigo","year":2009,"price":40532.28}
+{"id":832,"make":"Ram","model":"C/V","color":"Crimson","year":2012,"price":35102.11}
+{"id":833,"make":"Chevrolet","model":"Silverado 2500","color":"Red","year":2010,"price":69852.03}
+{"id":835,"make":"Maybach","model":"62","color":"Violet","year":2008,"price":87652.66}
+{"id":837,"make":"Ferrari","model":"458 Italia","color":"Yellow","year":2010,"price":21984.68}
+{"id":838,"make":"Dodge","model":"Stratus","color":"Fuscia","year":2002,"price":37163.42}
+{"id":839,"make":"BMW","model":"7 Series","color":"Mauv","year":2009,"price":99502.62}
+{"id":840,"make":"Ford","model":"E150","color":"Violet","year":2004,"price":82622.22}
+{"id":843,"make":"Cadillac","model":"CTS-V","color":"Red","year":2006,"price":13481.41}
+{"id":844,"make":"Volvo","model":"V70","color":"Puce","year":2003,"price":37050.13}
+{"id":846,"make":"Ford","model":"Fusion","color":"Khaki","year":2011,"price":79300.56}
+{"id":848,"make":"Pontiac","model":"Vibe","color":"Maroon","year":2009,"price":65884.7}
+{"id":849,"make":"Toyota","model":"Sienna","color":"Goldenrod","year":2002,"price":95247.3}
+{"id":852,"make":"Saab","model":"9-5","color":"Blue","year":2001,"price":59919.2}
+{"id":853,"make":"Ford","model":"F250","color":"Blue","year":2010,"price":30657.45}
+{"id":854,"make":"Ford","model":"F250","color":"Indigo","year":2007,"price":20928.21}
+{"id":857,"make":"Ford","model":"Focus","color":"Red","year":2001,"price":18906.8}
+{"id":858,"make":"Ford","model":"E250","color":"Maroon","year":2010,"price":87529.39}
+{"id":859,"make":"Mercury","model":"Grand Marquis","color":"Fuscia","year":2005,"price":66100.78}
+{"id":860,"make":"McLaren","model":"MP4-12C","color":"Yellow","year":2012,"price":80518.96}
+{"id":861,"make":"Oldsmobile","model":"Silhouette","color":"Red","year":2003,"price":26781.93}
+{"id":862,"make":"Volkswagen","model":"CC","color":"Blue","year":2011,"price":85153.35}
+{"id":863,"make":"Volvo","model":"XC70","color":"Khaki","year":2007,"price":59631.06}
+{"id":864,"make":"Nissan","model":"Xterra","color":"Orange","year":2004,"price":70971.95}
+{"id":868,"make":"Land Rover","model":"LR3","color":"Mauv","year":2008,"price":29020.09}
+{"id":869,"make":"Volkswagen","model":"New Beetle","color":"Aquamarine","year":2007,"price":97747.57}
+{"id":870,"make":"Lexus","model":"LX","color":"Maroon","year":2007,"price":63842.94}
+{"id":872,"make":"Hyundai","model":"XG350","color":"Teal","year":2003,"price":70259.65}
+{"id":873,"make":"Chevrolet","model":"Suburban 1500","color":"Khaki","year":2011,"price":9477.43}
+{"id":876,"make":"Ford","model":"Expedition","color":"Aquamarine","year":2001,"price":64803.19}
+{"id":877,"make":"Infiniti","model":"G25","color":"Aquamarine","year":2012,"price":41978.2}
+{"id":878,"make":"Mercedes-Benz","model":"Sprinter 3500","color":"Puce","year":2012,"price":86411.96}
+{"id":879,"make":"GMC","model":"Sierra 2500","color":"Violet","year":2006,"price":5580.17}
+{"id":880,"make":"Toyota","model":"Prius v","color":"Violet","year":2012,"price":73742.42}
+{"id":882,"make":"Audi","model":"Allroad","color":"Yellow","year":2003,"price":49615.15}
+{"id":883,"make":"Subaru","model":"Impreza","color":"Pink","year":2011,"price":8498.41}
+{"id":884,"make":"Acura","model":"RDX","color":"Yellow","year":2007,"price":39347.41}
+{"id":885,"make":"Lexus","model":"ES","color":"Pink","year":2010,"price":44199.79}
+{"id":887,"make":"Mercedes-Benz","model":"SL-Class","color":"Red","year":2012,"price":34452.09}
+{"id":888,"make":"Subaru","model":"Impreza","color":"Aquamarine","year":2012,"price":25929.18}
+{"id":890,"make":"Infiniti","model":"FX","color":"Fuscia","year":2003,"price":32756.64}
+{"id":891,"make":"Chevrolet","model":"Sonic","color":"Indigo","year":2012,"price":69579.85}
+{"id":893,"make":"Porsche","model":"911","color":"Mauv","year":2003,"price":13712.61}
+{"id":894,"make":"BMW","model":"7 Series","color":"Teal","year":2002,"price":10602.0}
+{"id":895,"make":"Ford","model":"Fusion","color":"Aquamarine","year":2012,"price":47209.84}
+{"id":896,"make":"GMC","model":"Yukon","color":"Red","year":2013,"price":16618.2}
+{"id":897,"make":"Saturn","model":"Outlook","color":"Red","year":2010,"price":97787.05}
+{"id":898,"make":"Mercedes-Benz","model":"CL-Class","color":"Puce","year":2009,"price":37580.29}
+{"id":901,"make":"GMC","model":"Yukon","color":"Turquoise","year":2011,"price":40493.36}
+{"id":902,"make":"Mazda","model":"Protege5","color":"Yellow","year":2002,"price":6600.59}
+{"id":905,"make":"Land Rover","model":"LR2","color":"Blue","year":2011,"price":96183.04}
+{"id":907,"make":"Buick","model":"Rendezvous","color":"Purple","year":2003,"price":38811.69}
+{"id":909,"make":"Toyota","model":"Yaris","color":"Crimson","year":2007,"price":83678.09}
+{"id":910,"make":"Chevrolet","model":"Tahoe","color":"Teal","year":2001,"price":46411.14}
+{"id":911,"make":"Nissan","model":"Pathfinder","color":"Mauv","year":2005,"price":36348.99}
+{"id":912,"make":"Mitsubishi","model":"Eclipse","color":"Puce","year":2005,"price":31367.86}
+{"id":913,"make":"Pontiac","model":"Firebird","color":"Orange","year":2001,"price":11689.81}
+{"id":914,"make":"Ford","model":"E350","color":"Blue","year":2009,"price":26317.11}
+{"id":916,"make":"Land Rover","model":"Range Rover","color":"Indigo","year":2008,"price":19769.04}
+{"id":917,"make":"Kia","model":"Sportage","color":"Pink","year":2006,"price":98778.5}
+{"id":918,"make":"Buick","model":"Rainier","color":"Red","year":2006,"price":25335.14}
+{"id":920,"make":"Ferrari","model":"612 Scaglietti","color":"Red","year":2009,"price":83843.82}
+{"id":922,"make":"Kia","model":"Sedona","color":"Fuscia","year":2006,"price":90575.62}
+{"id":923,"make":"GMC","model":"Sierra 3500","color":"Mauv","year":2010,"price":14316.32}
+{"id":924,"make":"Mercury","model":"Sable","color":"Goldenrod","year":2003,"price":16890.22}
+{"id":925,"make":"Toyota","model":"RAV4","color":"Puce","year":2002,"price":12168.77}
+{"id":926,"make":"Smart","model":"Fortwo","color":"Indigo","year":2008,"price":64719.6}
+{"id":930,"make":"Rolls-Royce","model":"Phantom","color":"Red","year":2007,"price":54925.77}
+{"id":931,"make":"Lincoln","model":"Blackwood","color":"Red","year":2002,"price":44047.48}
+{"id":933,"make":"Lotus","model":"Elise","color":"Crimson","year":2010,"price":95170.0}
+{"id":934,"make":"BMW","model":"7 Series","color":"Puce","year":2006,"price":61315.87}
+{"id":935,"make":"Nissan","model":"NV1500","color":"Puce","year":2012,"price":83603.48}
+{"id":936,"make":"Ford","model":"E250","color":"Goldenrod","year":2006,"price":7882.22}
+{"id":937,"make":"Ford","model":"Explorer","color":"Pink","year":2011,"price":10179.97}
+{"id":938,"make":"Ford","model":"Freestar","color":"Yellow","year":2003,"price":20766.9}
+{"id":940,"make":"Mitsubishi","model":"Pajero","color":"Puce","year":2003,"price":44670.51}
+{"id":941,"make":"Ford","model":"F-350 Super Duty","color":"Purple","year":2006,"price":92845.28}
+{"id":945,"make":"Hyundai","model":"Accent","color":"Violet","year":2002,"price":27986.16}
+{"id":946,"make":"Mercedes-Benz","model":"SLK-Class","color":"Puce","year":2003,"price":98172.42}
+{"id":948,"make":"Buick","model":"Lucerne","color":"Puce","year":2011,"price":79852.81}
+{"id":949,"make":"Hyundai","model":"Accent","color":"Fuscia","year":2011,"price":81264.22}
+{"id":950,"make":"Buick","model":"Rendezvous","color":"Pink","year":2007,"price":41916.85}
+{"id":953,"make":"Ford","model":"Econoline E350","color":"Aquamarine","year":2001,"price":20788.87}
+{"id":954,"make":"BMW","model":"X5 M","color":"Puce","year":2012,"price":43318.17}
+{"id":955,"make":"Volkswagen","model":"rio","color":"Mauv","year":2001,"price":56852.32}
+{"id":956,"make":"Maserati","model":"Spyder","color":"Teal","year":2004,"price":63466.64}
+{"id":957,"make":"Chevrolet","model":"Tahoe","color":"Goldenrod","year":2006,"price":79259.54}
+{"id":961,"make":"BMW","model":"X3","color":"Yellow","year":2005,"price":13006.7}
+{"id":962,"make":"Porsche","model":"911","color":"Purple","year":2011,"price":60987.25}
+{"id":963,"make":"Nissan","model":"Versa","color":"Turquoise","year":2007,"price":50911.38}
+{"id":964,"make":"Volvo","model":"XC90","color":"Crimson","year":2011,"price":12247.49}
+{"id":965,"make":"Chevrolet","model":"Colorado","color":"Purple","year":2007,"price":13075.95}
+{"id":968,"make":"Mitsubishi","model":"Eclipse","color":"Pink","year":2005,"price":98630.35}
+{"id":969,"make":"Land Rover","model":"Range Rover","color":"Violet","year":2009,"price":70585.05}
+{"id":971,"make":"Mitsubishi","model":"Montero Sport","color":"Pink","year":2003,"price":86961.96}
+{"id":972,"make":"Rolls-Royce","model":"Phantom","color":"Violet","year":2010,"price":30804.2}
+{"id":975,"make":"Mercury","model":"Sable","color":"Indigo","year":2002,"price":6460.81}
+{"id":976,"make":"Land Rover","model":"LR2","color":"Red","year":2010,"price":75188.56}
+{"id":977,"make":"Chevrolet","model":"Camaro","color":"Pink","year":2002,"price":21085.81}
+{"id":978,"make":"Kia","model":"Rio","color":"Indigo","year":2006,"price":43059.32}
+{"id":980,"make":"Pontiac","model":"Firebird","color":"Green","year":2002,"price":27575.8}
+{"id":982,"make":"Nissan","model":"Frontier","color":"Green","year":2005,"price":55374.38}
+{"id":986,"make":"Subaru","model":"Impreza WRX","color":"Maroon","year":2011,"price":20506.93}
+{"id":989,"make":"Chevrolet","model":"Aveo","color":"Mauv","year":2006,"price":56011.19}
+{"id":991,"make":"Audi","model":"S5","color":"Indigo","year":2011,"price":61422.15}
+{"id":992,"make":"Cadillac","model":"STS","color":"Maroon","year":2011,"price":54520.97}
+{"id":993,"make":"Audi","model":"A6","color":"Khaki","year":2012,"price":50820.08}
+{"id":994,"make":"Audi","model":"Q7","color":"Turquoise","year":2007,"price":12315.68}
+{"id":995,"make":"Maserati","model":"Quattroporte","color":"Purple","year":2006,"price":8715.14}
+{"id":996,"make":"Ferrari","model":"599 GTB Fiorano","color":"Turquoise","year":2009,"price":47623.59}
+{"id":999,"make":"Toyota","model":"Matrix","color":"Pink","year":2008,"price":94239.0}
+{"id":1000,"make":"Chevrolet","model":"Silverado","color":"Puce","year":2006,"price":63299.65}
+{"id":1,"make":"Toyota","model":"Highlander","color":"Mauv","year":2008,"price":23736.62}
+{"id":2,"make":"Toyota","model":"Solara","color":"Fuscia","year":2002,"price":66403.47}
+{"id":3,"make":"Ford","model":"Expedition EL","color":"Pink","year":2010,"price":68973.04}
+{"id":5,"make":"Lexus","model":"SC","color":"Pink","year":2010,"price":20900.33}
+{"id":6,"make":"Acura","model":"MDX","color":"Blue","year":2005,"price":87249.54}
+{"id":7,"make":"Ford","model":"Econoline E250","color":"Pink","year":2002,"price":33679.71}
+{"id":8,"make":"Lincoln","model":"Navigator L","color":"Yellow","year":2009,"price":37768.38}
+{"id":10,"make":"Ford","model":"Mustang","color":"Blue","year":2011,"price":65528.11}
+{"id":11,"make":"Toyota","model":"RAV4","color":"Pink","year":2006,"price":36050.89}
+{"id":14,"make":"Volvo","model":"S60","color":"Maroon","year":2012,"price":98783.12}
+{"id":15,"make":"Mitsubishi","model":"Mirage","color":"Mauv","year":2001,"price":92560.44}
+{"id":20,"make":"Subaru","model":"Forester","color":"Turquoise","year":2010,"price":90576.85}
+{"id":21,"make":"Lexus","model":"GS","color":"Violet","year":2002,"price":90959.01}
+{"id":22,"make":"Land Rover","model":"Range Rover","color":"Green","year":2005,"price":33492.54}
+{"id":24,"make":"Audi","model":"Allroad","color":"Goldenrod","year":2001,"price":52583.0}
+{"id":27,"make":"Ford","model":"Ranger","color":"Maroon","year":2008,"price":25641.58}
+{"id":29,"make":"Saturn","model":"VUE","color":"Teal","year":2002,"price":71422.42}
+{"id":34,"make":"Chevrolet","model":"SSR","color":"Khaki","year":2003,"price":6861.85}
+{"id":35,"make":"Toyota","model":"Venza","color":"Fuscia","year":2009,"price":69925.27}
+{"id":37,"make":"Hummer","model":"H2","color":"Puce","year":2003,"price":43882.36}
+{"id":38,"make":"Infiniti","model":"QX","color":"Teal","year":2010,"price":74691.26}
+{"id":39,"make":"Maserati","model":"GranTurismo","color":"Fuscia","year":2011,"price":64608.82}
+{"id":41,"make":"Mitsubishi","model":"Endeavor","color":"Crimson","year":2005,"price":88526.65}
+{"id":42,"make":"Mercedes-Benz","model":"E-Class","color":"Violet","year":2001,"price":99129.26}
+{"id":44,"make":"Volkswagen","model":"Golf","color":"Red","year":2010,"price":89434.21}
+{"id":46,"make":"BMW","model":"X5 M","color":"Blue","year":2013,"price":14194.46}
+{"id":48,"make":"Hyundai","model":"Tiburon","color":"Blue","year":2009,"price":98896.61}
+{"id":50,"make":"Chevrolet","model":"Express 3500","color":"Indigo","year":2009,"price":34007.45}
+{"id":54,"make":"Ford","model":"E150","color":"Orange","year":2012,"price":24739.83}
+{"id":55,"make":"Smart","model":"Fortwo","color":"Yellow","year":2010,"price":31964.39}
+{"id":56,"make":"Ferrari","model":"California","color":"Goldenrod","year":2010,"price":56259.83}
+{"id":57,"make":"Chevrolet","model":"TrailBlazer","color":"Mauv","year":2004,"price":87497.23}
+{"id":58,"make":"Suzuki","model":"SX4","color":"Khaki","year":2007,"price":12202.32}
+{"id":59,"make":"Cadillac","model":"CTS","color":"Mauv","year":2011,"price":10281.25}
+{"id":60,"make":"Cadillac","model":"Escalade ESV","color":"Blue","year":2010,"price":71568.58}
+{"id":61,"make":"Mercedes-Benz","model":"SL-Class","color":"Blue","year":2008,"price":22999.95}
+{"id":62,"make":"Lexus","model":"LS","color":"Maroon","year":2006,"price":70192.44}
+{"id":63,"make":"Pontiac","model":"Daewoo Kalos","color":"Teal","year":2006,"price":29684.26}
+{"id":65,"make":"Porsche","model":"Panamera","color":"Aquamarine","year":2010,"price":7486.86}
+{"id":67,"make":"Mazda","model":"RX-8","color":"Maroon","year":2005,"price":95614.14}
+{"id":68,"make":"Toyota","model":"Prius Plug-in","color":"Purple","year":2012,"price":92507.06}
+{"id":71,"make":"Jeep","model":"Wrangler","color":"Violet","year":2001,"price":32151.98}
+{"id":73,"make":"Jeep","model":"Grand Cherokee","color":"Blue","year":2012,"price":90199.32}
+{"id":77,"make":"Buick","model":"LaCrosse","color":"Blue","year":2010,"price":93295.81}
+{"id":78,"make":"Nissan","model":"GT-R","color":"Violet","year":2013,"price":74700.05}
+{"id":79,"make":"BMW","model":"3 Series","color":"Aquamarine","year":2007,"price":74583.95}
+{"id":80,"make":"BMW","model":"745","color":"Turquoise","year":2004,"price":84013.53}
+{"id":82,"make":"Kia","model":"Sedona","color":"Maroon","year":2003,"price":13145.96}
+{"id":83,"make":"Mitsubishi","model":"Lancer","color":"Blue","year":2011,"price":19133.51}
+{"id":84,"make":"Toyota","model":"Land Cruiser","color":"Green","year":2010,"price":55450.54}
+{"id":85,"make":"Volkswagen","model":"Routan","color":"Aquamarine","year":2009,"price":43511.97}
+{"id":87,"make":"Chevrolet","model":"Silverado 2500","color":"Purple","year":2012,"price":74400.88}
+{"id":88,"make":"Ford","model":"Expedition","color":"Yellow","year":2009,"price":84361.9}
+{"id":90,"make":"Jeep","model":"Grand Cherokee","color":"Orange","year":2007,"price":47686.03}
+{"id":93,"make":"Chevrolet","model":"Corvette","color":"Green","year":2012,"price":28794.8}
+{"id":98,"make":"Nissan","model":"Quest","color":"Yellow","year":2004,"price":26792.5}
+{"id":99,"make":"Chevrolet","model":"Silverado 3500","color":"Turquoise","year":2008,"price":53421.99}
+{"id":100,"make":"Toyota","model":"Sequoia","color":"Turquoise","year":2010,"price":35504.68}
+{"id":101,"make":"Bentley","model":"Continental","color":"Fuscia","year":2005,"price":14564.21}
+{"id":103,"make":"Maserati","model":"Quattroporte","color":"Pink","year":2011,"price":70709.42}
+{"id":104,"make":"Porsche","model":"Boxster","color":"Red","year":2008,"price":87540.59}
+{"id":106,"make":"Chevrolet","model":"Avalanche 2500","color":"Yellow","year":2006,"price":35418.67}
+{"id":109,"make":"Saab","model":"9-7X","color":"Mauv","year":2005,"price":56902.39}
+{"id":112,"make":"GMC","model":"Sierra 3500HD","color":"Mauv","year":2006,"price":37317.31}
+{"id":113,"make":"Ford","model":"Crown Victoria","color":"Puce","year":2005,"price":84192.03}
+{"id":114,"make":"Dodge","model":"Durango","color":"Mauv","year":2001,"price":6513.16}
+{"id":115,"make":"Audi","model":"A5","color":"Turquoise","year":2010,"price":29206.41}
+{"id":116,"make":"Mercedes-Benz","model":"S-Class","color":"Red","year":2009,"price":90776.79}
+{"id":117,"make":"Lotus","model":"Esprit","color":"Green","year":2004,"price":16362.61}
+{"id":121,"make":"Saab","model":"9-5","color":"Red","year":2011,"price":78348.52}
+{"id":123,"make":"Chevrolet","model":"Malibu","color":"Green","year":2005,"price":66977.87}
+{"id":127,"make":"Toyota","model":"Sienna","color":"Fuscia","year":2009,"price":39798.17}
+{"id":129,"make":"Aston Martin","model":"V8 Vantage","color":"Green","year":2006,"price":42854.27}
+{"id":131,"make":"Volvo","model":"S40","color":"Teal","year":2003,"price":85454.46}
+{"id":132,"make":"Audi","model":"Q7","color":"Teal","year":2011,"price":33333.43}
+{"id":134,"make":"Dodge","model":"Durango","color":"Fuscia","year":2004,"price":67115.92}
+{"id":137,"make":"Buick","model":"Lucerne","color":"Indigo","year":2007,"price":94804.57}
+{"id":138,"make":"Cadillac","model":"DeVille","color":"Blue","year":2003,"price":61239.78}
+{"id":140,"make":"Dodge","model":"Dakota","color":"Pink","year":2005,"price":96945.89}
+{"id":141,"make":"Honda","model":"Fit","color":"Aquamarine","year":2011,"price":47582.12}
+{"id":142,"make":"Toyota","model":"Camry","color":"Red","year":2003,"price":70692.76}
+{"id":144,"make":"BMW","model":"X6","color":"Yellow","year":2013,"price":35471.17}
+{"id":146,"make":"Ford","model":"E250","color":"Pink","year":2009,"price":57926.05}
+{"id":153,"make":"Subaru","model":"Forester","color":"Teal","year":2008,"price":81298.69}
+{"id":156,"make":"Lincoln","model":"LS","color":"Yellow","year":2004,"price":7219.42}
+{"id":157,"make":"Bentley","model":"Continental GTC","color":"Goldenrod","year":2010,"price":52788.47}
+{"id":158,"make":"Aston Martin","model":"V12 Vantage","color":"Blue","year":2011,"price":56608.19}
+{"id":159,"make":"Lincoln","model":"Continental","color":"Green","year":2002,"price":8725.35}
+{"id":161,"make":"MINI","model":"Cooper Clubman","color":"Crimson","year":2012,"price":17738.41}
+{"id":162,"make":"Lincoln","model":"MKX","color":"Puce","year":2011,"price":17969.72}
+{"id":165,"make":"Ford","model":"F350","color":"Pink","year":2009,"price":25126.94}
+{"id":167,"make":"Ford","model":"F-350 Super Duty","color":"Puce","year":2006,"price":82842.61}
+{"id":168,"make":"Audi","model":"RS4","color":"Yellow","year":2008,"price":82221.47}
+{"id":169,"make":"Ford","model":"C-MAX Hybrid","color":"Puce","year":2013,"price":6698.72}
+{"id":170,"make":"Lincoln","model":"MKZ","color":"Green","year":2008,"price":84991.44}
+{"id":171,"make":"Audi","model":"S6","color":"Blue","year":2011,"price":22583.31}
+{"id":173,"make":"Cadillac","model":"Seville","color":"Yellow","year":2003,"price":46119.78}
+{"id":175,"make":"Land Rover","model":"Range Rover","color":"Fuscia","year":2008,"price":98751.62}
+{"id":176,"make":"Mazda","model":"Mazda6","color":"Turquoise","year":2004,"price":42698.36}
+{"id":179,"make":"Dodge","model":"Dakota Club","color":"Teal","year":2007,"price":90456.29}
+{"id":183,"make":"Jaguar","model":"X-Type","color":"Pink","year":2007,"price":39039.91}
+{"id":184,"make":"Ford","model":"E250","color":"Orange","year":2009,"price":15087.05}
+{"id":185,"make":"Acura","model":"RL","color":"Purple","year":2012,"price":47734.2}
+{"id":187,"make":"Lexus","model":"ES","color":"Indigo","year":2003,"price":61354.49}
+{"id":188,"make":"Honda","model":"Civic","color":"Yellow","year":2010,"price":86422.09}
+{"id":189,"make":"Saab","model":"9-3","color":"Green","year":2012,"price":9639.26}
+{"id":191,"make":"Aston Martin","model":"DB9","color":"Turquoise","year":2012,"price":55423.55}
+{"id":192,"make":"Kia","model":"Optima","color":"Khaki","year":2004,"price":59049.97}
+{"id":194,"make":"Dodge","model":"Grand Caravan","color":"Mauv","year":2005,"price":82001.35}
+{"id":196,"make":"Jaguar","model":"XK Series","color":"Maroon","year":2013,"price":57805.28}
+{"id":198,"make":"Chevrolet","model":"Silverado","color":"Red","year":2007,"price":77001.58}
+{"id":199,"make":"GMC","model":"Envoy XUV","color":"Yellow","year":2005,"price":39778.72}
+{"id":200,"make":"Mazda","model":"Mazda6","color":"Violet","year":2008,"price":85012.54}
+{"id":201,"make":"Scion","model":"tC","color":"Maroon","year":2012,"price":11670.86}
+{"id":202,"make":"Audi","model":"A4","color":"Green","year":2006,"price":82976.69}
+{"id":204,"make":"Porsche","model":"911","color":"Violet","year":2006,"price":10195.39}
+{"id":205,"make":"GMC","model":"Savana 3500","color":"Turquoise","year":2005,"price":18907.26}
+{"id":207,"make":"GMC","model":"Savana 2500","color":"Violet","year":2012,"price":6096.19}
+{"id":208,"make":"BMW","model":"X3","color":"Crimson","year":2012,"price":81875.73}
+{"id":212,"make":"Audi","model":"Q7","color":"Red","year":2010,"price":59565.76}
+{"id":213,"make":"Jeep","model":"Liberty","color":"Turquoise","year":2008,"price":40593.54}
+{"id":214,"make":"Buick","model":"LaCrosse","color":"Pink","year":2009,"price":32524.02}
+{"id":215,"make":"Chrysler","model":"Town & Country","color":"Pink","year":2006,"price":74633.12}
+{"id":219,"make":"BMW","model":"750","color":"Green","year":2006,"price":74629.36}
+{"id":221,"make":"Dodge","model":"Grand Caravan","color":"Indigo","year":2002,"price":86703.0}
+{"id":222,"make":"Dodge","model":"Dakota Club","color":"Aquamarine","year":2003,"price":95062.15}
+{"id":223,"make":"Mazda","model":"Mazdaspeed 3","color":"Orange","year":2010,"price":57883.74}
+{"id":225,"make":"Cadillac","model":"Escalade ESV","color":"Maroon","year":2010,"price":55587.61}
+{"id":226,"make":"Audi","model":"A3","color":"Khaki","year":2011,"price":97544.29}
+{"id":227,"make":"Land Rover","model":"Freelander","color":"Turquoise","year":2002,"price":59566.73}
+{"id":228,"make":"GMC","model":"Sierra 3500","color":"Puce","year":2003,"price":95310.6}
+{"id":230,"make":"Mercedes-Benz","model":"CL-Class","color":"Pink","year":2008,"price":18369.18}
+{"id":231,"make":"Subaru","model":"B9 Tribeca","color":"Khaki","year":2007,"price":64694.19}
+{"id":241,"make":"Lamborghini","model":"Murciélago","color":"Puce","year":2005,"price":92985.68}
+{"id":245,"make":"Dodge","model":"Caravan","color":"Puce","year":2008,"price":79627.31}
+{"id":247,"make":"Oldsmobile","model":"Bravada","color":"Fuscia","year":2002,"price":22195.47}
+{"id":248,"make":"Toyota","model":"Tundra","color":"Goldenrod","year":2008,"price":64392.74}
+{"id":250,"make":"Ford","model":"Focus ST","color":"Yellow","year":2013,"price":18896.55}
+{"id":251,"make":"BMW","model":"1 Series","color":"Indigo","year":2010,"price":23316.89}
+{"id":253,"make":"Ford","model":"Crown Victoria","color":"Indigo","year":2008,"price":52804.21}
+{"id":254,"make":"Lexus","model":"LX","color":"Turquoise","year":2009,"price":63987.21}
+{"id":255,"make":"Toyota","model":"Tundra","color":"Teal","year":2009,"price":98534.61}
+{"id":256,"make":"BMW","model":"M5","color":"Purple","year":2002,"price":29205.64}
+{"id":257,"make":"Kia","model":"Optima","color":"Aquamarine","year":2012,"price":81358.15}
+{"id":258,"make":"Lexus","model":"LS","color":"Orange","year":2009,"price":74653.03}
+{"id":259,"make":"Audi","model":"S4","color":"Maroon","year":2012,"price":25297.53}
+{"id":262,"make":"Scion","model":"xB","color":"Goldenrod","year":2012,"price":55778.37}
+{"id":263,"make":"Chevrolet","model":"Express 2500","color":"Puce","year":2007,"price":99892.59}
+{"id":264,"make":"Lamborghini","model":"Gallardo","color":"Puce","year":2005,"price":27074.24}
+{"id":266,"make":"Porsche","model":"Boxster","color":"Pink","year":2001,"price":40897.28}
+{"id":268,"make":"Chevrolet","model":"Metro","color":"Crimson","year":2001,"price":74147.7}
+{"id":269,"make":"Hyundai","model":"Santa Fe","color":"Turquoise","year":2008,"price":66370.13}
+{"id":271,"make":"BMW","model":"M3","color":"Indigo","year":2005,"price":47580.18}
+{"id":273,"make":"Toyota","model":"Venza","color":"Green","year":2012,"price":12640.92}
+{"id":278,"make":"Ford","model":"Escape","color":"Orange","year":2003,"price":42300.24}
+{"id":279,"make":"Kia","model":"Rondo","color":"Mauv","year":2009,"price":98421.77}
+{"id":283,"make":"Ford","model":"ZX2","color":"Puce","year":2001,"price":81209.57}
+{"id":285,"make":"Nissan","model":"GT-R","color":"Orange","year":2009,"price":33429.1}
+{"id":286,"make":"Toyota","model":"Prius","color":"Red","year":2002,"price":26495.26}
+{"id":287,"make":"Chevrolet","model":"Express 3500","color":"Teal","year":2010,"price":82550.76}
+{"id":289,"make":"Ford","model":"F350","color":"Yellow","year":2003,"price":47074.46}
+{"id":293,"make":"Chevrolet","model":"Silverado 3500HD","color":"Aquamarine","year":2006,"price":91912.35}
+{"id":294,"make":"BMW","model":"6 Series","color":"Aquamarine","year":2009,"price":97394.82}
+{"id":295,"make":"Jeep","model":"Grand Cherokee","color":"Maroon","year":2009,"price":65553.9}
+{"id":299,"make":"Mercury","model":"Mariner","color":"Goldenrod","year":2005,"price":8780.77}
+{"id":301,"make":"Chrysler","model":"Sebring","color":"Puce","year":2009,"price":82262.27}
+{"id":302,"make":"Hyundai","model":"Elantra","color":"Mauv","year":2010,"price":29756.5}
+{"id":303,"make":"Land Rover","model":"LR3","color":"Goldenrod","year":2008,"price":29427.14}
+{"id":304,"make":"Jaguar","model":"XJ Series","color":"Yellow","year":2004,"price":38600.22}
+{"id":307,"make":"Kia","model":"Sedona","color":"Green","year":2007,"price":62196.62}
+{"id":311,"make":"Oldsmobile","model":"Aurora","color":"Violet","year":2002,"price":53487.21}
+{"id":315,"make":"Isuzu","model":"i-290","color":"Maroon","year":2008,"price":82154.49}
+{"id":316,"make":"Mercedes-Benz","model":"SL-Class","color":"Maroon","year":2011,"price":20337.01}
+{"id":318,"make":"Volkswagen","model":"Touareg","color":"Orange","year":2011,"price":8533.68}
+{"id":322,"make":"Mercedes-Benz","model":"S-Class","color":"Teal","year":2004,"price":21696.71}
+{"id":324,"make":"GMC","model":"Sierra 3500","color":"Turquoise","year":2001,"price":52759.42}
+{"id":327,"make":"MINI","model":"Clubman","color":"Maroon","year":2010,"price":70428.2}
+{"id":328,"make":"Chevrolet","model":"HHR","color":"Maroon","year":2007,"price":72497.09}
+{"id":331,"make":"Dodge","model":"Dakota Club","color":"Crimson","year":2007,"price":13916.21}
+{"id":332,"make":"Ford","model":"Taurus","color":"Puce","year":2010,"price":20747.98}
+{"id":333,"make":"Toyota","model":"Land Cruiser","color":"Khaki","year":2009,"price":39068.14}
+{"id":335,"make":"Suzuki","model":"Daewoo Lacetti","color":"Orange","year":2004,"price":42783.27}
+{"id":339,"make":"Mitsubishi","model":"Lancer","color":"Fuscia","year":2007,"price":97776.89}
+{"id":341,"make":"Lamborghini","model":"Gallardo","color":"Turquoise","year":2007,"price":51333.72}
+{"id":342,"make":"Toyota","model":"Tacoma","color":"Blue","year":2003,"price":29863.77}
+{"id":343,"make":"Volkswagen","model":"CC","color":"Orange","year":2011,"price":9504.36}
+{"id":344,"make":"BMW","model":"545","color":"Mauv","year":2005,"price":51536.52}
+{"id":347,"make":"Toyota","model":"Prius","color":"Indigo","year":2012,"price":22459.16}
+{"id":348,"make":"Volkswagen","model":"Phaeton","color":"Red","year":2006,"price":21363.54}
+{"id":349,"make":"Scion","model":"xB","color":"Purple","year":2004,"price":41040.76}
+{"id":350,"make":"Chevrolet","model":"Cobalt","color":"Mauv","year":2010,"price":54959.68}
+{"id":352,"make":"Volkswagen","model":"Routan","color":"Yellow","year":2009,"price":14806.68}
+{"id":353,"make":"GMC","model":"Yukon","color":"Blue","year":2013,"price":70829.15}
+{"id":355,"make":"Jeep","model":"Wrangler","color":"Orange","year":2002,"price":34278.35}
+{"id":356,"make":"Toyota","model":"4Runner","color":"Yellow","year":2009,"price":23821.45}
+{"id":358,"make":"Mitsubishi","model":"Eclipse","color":"Red","year":2008,"price":86483.03}
+{"id":359,"make":"Volvo","model":"S40","color":"Mauv","year":2004,"price":71986.8}
+{"id":360,"make":"Chrysler","model":"Sebring","color":"Aquamarine","year":2005,"price":69164.66}
+{"id":362,"make":"Land Rover","model":"Freelander","color":"Teal","year":2004,"price":9851.44}
+{"id":366,"make":"Cadillac","model":"CTS-V","color":"Indigo","year":2006,"price":58574.66}
+{"id":369,"make":"Nissan","model":"Xterra","color":"Purple","year":2001,"price":94833.56}
+{"id":370,"make":"Saab","model":"9-5","color":"Aquamarine","year":2003,"price":28013.62}
+{"id":371,"make":"Jeep","model":"Grand Cherokee","color":"Puce","year":2011,"price":80921.33}
+{"id":373,"make":"Audi","model":"A8","color":"Indigo","year":2011,"price":88402.5}
+{"id":375,"make":"Audi","model":"A8","color":"Goldenrod","year":2005,"price":66679.79}
+{"id":376,"make":"Ford","model":"Crown Victoria","color":"Puce","year":2005,"price":82921.28}
+{"id":377,"make":"Saturn","model":"Outlook","color":"Green","year":2008,"price":46944.87}
+{"id":378,"make":"Ferrari","model":"599 GTB Fiorano","color":"Fuscia","year":2007,"price":55842.99}
+{"id":379,"make":"Ford","model":"Expedition","color":"Violet","year":2007,"price":70301.89}
+{"id":380,"make":"Ford","model":"GT500","color":"Red","year":2007,"price":90832.97}
+{"id":382,"make":"Lincoln","model":"Navigator L","color":"Blue","year":2011,"price":57438.33}
+{"id":383,"make":"BMW","model":"X6 M","color":"Green","year":2011,"price":58072.97}
+{"id":384,"make":"Buick","model":"Century","color":"Fuscia","year":2002,"price":82300.09}
+{"id":385,"make":"Toyota","model":"Sienna","color":"Fuscia","year":2004,"price":8112.94}
+{"id":386,"make":"Mitsubishi","model":"Galant","color":"Maroon","year":2007,"price":39998.33}
+{"id":388,"make":"Buick","model":"Rendezvous","color":"Red","year":2002,"price":80687.69}
+{"id":391,"make":"Nissan","model":"Armada","color":"Maroon","year":2012,"price":64294.75}
+{"id":396,"make":"Lamborghini","model":"Murciélago","color":"Puce","year":2010,"price":65122.74}
+{"id":398,"make":"Chrysler","model":"Town & Country","color":"Fuscia","year":2005,"price":73238.31}
+{"id":399,"make":"Chevrolet","model":"Camaro","color":"Orange","year":2011,"price":75327.15}
+{"id":401,"make":"Pontiac","model":"G6","color":"Indigo","year":2006,"price":25930.66}
+{"id":402,"make":"Lotus","model":"Elise","color":"Indigo","year":2007,"price":36632.59}
+{"id":403,"make":"Chrysler","model":"Crossfire","color":"Green","year":2008,"price":38718.34}
+{"id":404,"make":"GMC","model":"Yukon XL 2500","color":"Aquamarine","year":2008,"price":65850.4}
+{"id":405,"make":"Volkswagen","model":"Jetta","color":"Green","year":2001,"price":78199.8}
+{"id":406,"make":"Nissan","model":"Armada","color":"Teal","year":2007,"price":39297.77}
+{"id":408,"make":"Honda","model":"Accord","color":"Fuscia","year":2010,"price":12807.27}
+{"id":410,"make":"Daewoo","model":"Lanos","color":"Maroon","year":2002,"price":83106.04}
+{"id":411,"make":"Nissan","model":"Maxima","color":"Goldenrod","year":2005,"price":67349.69}
+{"id":412,"make":"Suzuki","model":"Grand Vitara","color":"Goldenrod","year":2010,"price":70858.5}
+{"id":413,"make":"Ram","model":"2500","color":"Indigo","year":2012,"price":84066.51}
+{"id":414,"make":"Ford","model":"Ranger","color":"Khaki","year":2007,"price":93029.15}
+{"id":415,"make":"Bentley","model":"Continental GTC","color":"Pink","year":2008,"price":64346.22}
+{"id":417,"make":"Audi","model":"S8","color":"Aquamarine","year":2003,"price":11515.81}
+{"id":420,"make":"Volvo","model":"V70","color":"Indigo","year":2005,"price":74165.99}
+{"id":421,"make":"Honda","model":"Civic","color":"Red","year":2010,"price":19624.75}
+{"id":422,"make":"Jeep","model":"Grand Cherokee","color":"Green","year":2011,"price":79852.87}
+{"id":423,"make":"Maserati","model":"GranTurismo","color":"Teal","year":2009,"price":42113.33}
+{"id":424,"make":"Ford","model":"E150","color":"Purple","year":2009,"price":85559.45}
+{"id":425,"make":"Audi","model":"A4","color":"Turquoise","year":2010,"price":53784.67}
+{"id":426,"make":"Volkswagen","model":"GTI","color":"Mauv","year":2003,"price":86030.55}
+{"id":428,"make":"Audi","model":"A6","color":"Orange","year":2011,"price":38178.0}
+{"id":429,"make":"Volkswagen","model":"Cabriolet","color":"Pink","year":2002,"price":26515.02}
+{"id":431,"make":"Buick","model":"Verano","color":"Maroon","year":2012,"price":89113.09}
+{"id":432,"make":"Toyota","model":"FJ Cruiser","color":"Mauv","year":2008,"price":95420.5}
+{"id":434,"make":"Honda","model":"Ridgeline","color":"Teal","year":2010,"price":13709.7}
+{"id":439,"make":"Chevrolet","model":"Express 2500","color":"Teal","year":2002,"price":13784.53}
+{"id":442,"make":"Mazda","model":"CX-7","color":"Puce","year":2011,"price":48767.29}
+{"id":443,"make":"Subaru","model":"Forester","color":"Teal","year":2003,"price":36028.97}
+{"id":444,"make":"Chevrolet","model":"Silverado 1500","color":"Purple","year":2003,"price":20536.23}
+{"id":445,"make":"Ford","model":"F250","color":"Red","year":2012,"price":20214.11}
+{"id":447,"make":"Honda","model":"Accord","color":"Teal","year":2001,"price":97415.29}
+{"id":448,"make":"Chevrolet","model":"Astro","color":"Maroon","year":2002,"price":9639.9}
+{"id":449,"make":"Nissan","model":"Armada","color":"Fuscia","year":2009,"price":20608.78}
+{"id":452,"make":"Subaru","model":"Impreza","color":"Red","year":2008,"price":55757.18}
+{"id":453,"make":"GMC","model":"Savana","color":"Orange","year":2006,"price":53155.0}
+{"id":456,"make":"Dodge","model":"Ram 2500","color":"Maroon","year":2004,"price":54835.27}
+{"id":457,"make":"Mitsubishi","model":"Lancer Evolution","color":"Maroon","year":2002,"price":58560.37}
+{"id":458,"make":"Ford","model":"Ranger","color":"Blue","year":2003,"price":69252.18}
+{"id":464,"make":"Toyota","model":"RAV4","color":"Yellow","year":2002,"price":86030.33}
+{"id":465,"make":"BMW","model":"Z3","color":"Red","year":2001,"price":56522.43}
+{"id":466,"make":"Kia","model":"Rondo","color":"Indigo","year":2008,"price":55495.82}
+{"id":467,"make":"Ford","model":"F-250 Super Duty","color":"Khaki","year":2006,"price":9233.17}
+{"id":468,"make":"Honda","model":"Civic","color":"Pink","year":2003,"price":9382.75}
+{"id":470,"make":"BMW","model":"7 Series","color":"Puce","year":2008,"price":21461.89}
+{"id":472,"make":"Ford","model":"Escort","color":"Yellow","year":2004,"price":8061.36}
+{"id":479,"make":"Chevrolet","model":"Express 3500","color":"Mauv","year":2001,"price":51030.7}
+{"id":482,"make":"Mazda","model":"B-Series","color":"Turquoise","year":2007,"price":73768.89}
+{"id":483,"make":"Lamborghini","model":"Diablo","color":"Goldenrod","year":2001,"price":75429.83}
+{"id":486,"make":"Hyundai","model":"Elantra","color":"Aquamarine","year":2008,"price":14910.17}
+{"id":487,"make":"Ford","model":"Excursion","color":"Aquamarine","year":2003,"price":37113.38}
+{"id":488,"make":"Mercedes-Benz","model":"G-Class","color":"Goldenrod","year":2003,"price":24527.18}
+{"id":490,"make":"GMC","model":"Sierra 1500","color":"Fuscia","year":2011,"price":24708.99}
+{"id":492,"make":"Chevrolet","model":"Impala","color":"Turquoise","year":2008,"price":40854.0}
+{"id":494,"make":"Ford","model":"F350","color":"Green","year":2004,"price":59993.86}
+{"id":495,"make":"Ford","model":"F350","color":"Green","year":2008,"price":81337.53}
+{"id":496,"make":"Nissan","model":"370Z","color":"Blue","year":2010,"price":52530.49}
+{"id":497,"make":"Lincoln","model":"Navigator","color":"Goldenrod","year":2003,"price":8312.4}
+{"id":502,"make":"Suzuki","model":"Esteem","color":"Yellow","year":2001,"price":51044.44}
+{"id":506,"make":"Toyota","model":"Tundra","color":"Purple","year":2004,"price":20111.97}
+{"id":509,"make":"Kia","model":"Optima","color":"Pink","year":2012,"price":14515.75}
+{"id":510,"make":"Subaru","model":"Outback","color":"Puce","year":2009,"price":10977.94}
+{"id":511,"make":"Chevrolet","model":"Corvette","color":"Yellow","year":2008,"price":99677.14}
+{"id":512,"make":"Mitsubishi","model":"Lancer Evolution","color":"Crimson","year":2011,"price":5028.24}
+{"id":513,"make":"Volkswagen","model":"Touareg","color":"Orange","year":2006,"price":72281.88}
+{"id":514,"make":"Honda","model":"Insight","color":"Indigo","year":2002,"price":46599.39}
+{"id":516,"make":"BMW","model":"7 Series","color":"Maroon","year":2011,"price":44633.64}
+{"id":517,"make":"BMW","model":"M5","color":"Green","year":2008,"price":33615.09}
+{"id":520,"make":"Honda","model":"Accord","color":"Indigo","year":2011,"price":78300.58}
+{"id":521,"make":"Dodge","model":"Caliber","color":"Green","year":2012,"price":52889.23}
+{"id":525,"make":"Toyota","model":"Sequoia","color":"Aquamarine","year":2002,"price":79092.98}
+{"id":527,"make":"Kia","model":"Spectra","color":"Puce","year":2005,"price":42254.37}
+{"id":528,"make":"Infiniti","model":"QX56","color":"Indigo","year":2007,"price":79692.48}
+{"id":529,"make":"Mercedes-Benz","model":"CL65 AMG","color":"Yellow","year":2009,"price":89146.0}
+{"id":530,"make":"Mitsubishi","model":"Pajero","color":"Fuscia","year":2002,"price":43095.15}
+{"id":532,"make":"Chrysler","model":"Town & Country","color":"Orange","year":2011,"price":77697.04}
+{"id":533,"make":"Honda","model":"Insight","color":"Indigo","year":2003,"price":9710.86}
+{"id":535,"make":"Chevrolet","model":"Cavalier","color":"Pink","year":2004,"price":44209.3}
+{"id":536,"make":"Lotus","model":"Exige","color":"Red","year":2005,"price":70409.04}
+{"id":537,"make":"Toyota","model":"Land Cruiser","color":"Crimson","year":2004,"price":53848.73}
+{"id":538,"make":"Toyota","model":"Prius","color":"Turquoise","year":2006,"price":83106.52}
+{"id":540,"make":"Mercedes-Benz","model":"S-Class","color":"Yellow","year":2011,"price":75056.84}
+{"id":542,"make":"Cadillac","model":"Escalade ESV","color":"Red","year":2005,"price":25016.62}
+{"id":548,"make":"Suzuki","model":"Vitara","color":"Blue","year":2003,"price":22935.72}
+{"id":549,"make":"Porsche","model":"Cayman","color":"Red","year":2009,"price":18527.63}
+{"id":551,"make":"Mazda","model":"MPV","color":"Indigo","year":2006,"price":44051.16}
+{"id":554,"make":"BMW","model":"M6","color":"Aquamarine","year":2008,"price":62888.71}
+{"id":557,"make":"Chevrolet","model":"Camaro","color":"Maroon","year":2011,"price":15493.74}
+{"id":558,"make":"Mercedes-Benz","model":"S-Class","color":"Mauv","year":2002,"price":68773.9}
+{"id":559,"make":"Kia","model":"Sportage","color":"Red","year":2011,"price":28348.86}
+{"id":561,"make":"Lexus","model":"LS","color":"Blue","year":2002,"price":94837.79}
+{"id":563,"make":"Maybach","model":"62","color":"Maroon","year":2003,"price":82989.27}
+{"id":566,"make":"Toyota","model":"Tundra","color":"Turquoise","year":2008,"price":79459.59}
+{"id":569,"make":"Chevrolet","model":"Corvette","color":"Pink","year":2012,"price":60214.8}
+{"id":573,"make":"Ford","model":"E150","color":"Green","year":2008,"price":11945.7}
+{"id":574,"make":"Jeep","model":"Grand Cherokee","color":"Fuscia","year":2012,"price":44338.78}
+{"id":575,"make":"MINI","model":"Cooper Countryman","color":"Khaki","year":2012,"price":11942.61}
+{"id":576,"make":"Volkswagen","model":"Golf","color":"Turquoise","year":2011,"price":48839.58}
+{"id":579,"make":"Subaru","model":"Outback","color":"Mauv","year":2009,"price":77535.57}
+{"id":580,"make":"Ford","model":"Focus","color":"Puce","year":2012,"price":87188.85}
+{"id":581,"make":"Nissan","model":"Titan","color":"Blue","year":2011,"price":26402.17}
+{"id":582,"make":"Toyota","model":"Matrix","color":"Aquamarine","year":2012,"price":42827.72}
+{"id":587,"make":"Pontiac","model":"Torrent","color":"Indigo","year":2008,"price":63373.55}
+{"id":588,"make":"Acura","model":"MDX","color":"Red","year":2011,"price":31196.46}
+{"id":590,"make":"Subaru","model":"Outback","color":"Orange","year":2001,"price":11594.89}
+{"id":593,"make":"Nissan","model":"Sentra","color":"Orange","year":2007,"price":70162.22}
+{"id":594,"make":"Subaru","model":"Impreza","color":"Blue","year":2002,"price":77991.14}
+{"id":595,"make":"Ford","model":"Focus","color":"Red","year":2012,"price":9354.62}
+{"id":598,"make":"Ford","model":"E-Series","color":"Crimson","year":2003,"price":8261.35}
+{"id":601,"make":"Buick","model":"Century","color":"Maroon","year":2005,"price":21074.31}
+{"id":602,"make":"Audi","model":"A4","color":"Aquamarine","year":2012,"price":97607.28}
+{"id":603,"make":"Toyota","model":"Camry Hybrid","color":"Yellow","year":2012,"price":42427.4}
+{"id":606,"make":"Hyundai","model":"Sonata","color":"Yellow","year":2009,"price":69969.8}
+{"id":607,"make":"Land Rover","model":"LR4","color":"Indigo","year":2011,"price":33597.15}
+{"id":609,"make":"Toyota","model":"RAV4","color":"Indigo","year":2003,"price":48973.2}
+{"id":611,"make":"Nissan","model":"350Z","color":"Turquoise","year":2007,"price":97667.88}
+{"id":612,"make":"Cadillac","model":"Catera","color":"Blue","year":2001,"price":50046.38}
+{"id":613,"make":"Chevrolet","model":"Corvette","color":"Maroon","year":2012,"price":69653.96}
+{"id":617,"make":"GMC","model":"Safari","color":"Crimson","year":2001,"price":41522.43}
+{"id":619,"make":"Volvo","model":"XC90","color":"Red","year":2009,"price":55857.41}
+{"id":621,"make":"Chrysler","model":"Sebring","color":"Maroon","year":2002,"price":86160.13}
+{"id":623,"make":"Maserati","model":"GranTurismo","color":"Indigo","year":2009,"price":59215.79}
+{"id":625,"make":"Ford","model":"Thunderbird","color":"Aquamarine","year":2005,"price":51854.3}
+{"id":628,"make":"GMC","model":"Envoy","color":"Pink","year":2004,"price":49081.09}
+{"id":632,"make":"Chrysler","model":"Town & Country","color":"Indigo","year":2003,"price":99555.94}
+{"id":633,"make":"Kia","model":"Rio","color":"Purple","year":2002,"price":94055.15}
+{"id":635,"make":"BMW","model":"5 Series","color":"Goldenrod","year":2010,"price":91978.16}
+{"id":636,"make":"Toyota","model":"Avalon","color":"Red","year":2010,"price":5005.16}
+{"id":640,"make":"Maybach","model":"57","color":"Fuscia","year":2012,"price":68163.33}
+{"id":645,"make":"Volvo","model":"XC70","color":"Purple","year":2012,"price":77593.97}
+{"id":646,"make":"Nissan","model":"Maxima","color":"Pink","year":2010,"price":86113.05}
+{"id":649,"make":"Suzuki","model":"Reno","color":"Puce","year":2006,"price":17283.38}
+{"id":652,"make":"Nissan","model":"Altima","color":"Mauv","year":2004,"price":78924.37}
+{"id":653,"make":"Chrysler","model":"300M","color":"Maroon","year":2003,"price":89075.19}
+{"id":654,"make":"Ford","model":"Ranger","color":"Crimson","year":2002,"price":36751.0}
+{"id":655,"make":"Ford","model":"Freestyle","color":"Goldenrod","year":2007,"price":63147.43}
+{"id":657,"make":"Nissan","model":"Sentra","color":"Fuscia","year":2004,"price":25187.24}
+{"id":658,"make":"Chevrolet","model":"Suburban 2500","color":"Violet","year":2011,"price":77148.51}
+{"id":660,"make":"Audi","model":"A8","color":"Orange","year":2012,"price":46966.8}
+{"id":662,"make":"Suzuki","model":"XL-7","color":"Maroon","year":2005,"price":78711.99}
+{"id":663,"make":"Maserati","model":"Coupe","color":"Purple","year":2005,"price":99140.57}
+{"id":665,"make":"Nissan","model":"JUKE","color":"Fuscia","year":2011,"price":84927.01}
+{"id":666,"make":"Land Rover","model":"Range Rover Evoque","color":"Maroon","year":2012,"price":72732.73}
+{"id":675,"make":"Buick","model":"Lucerne","color":"Crimson","year":2010,"price":80931.32}
+{"id":676,"make":"Kia","model":"Optima","color":"Purple","year":2009,"price":31105.26}
+{"id":678,"make":"Acura","model":"TL","color":"Goldenrod","year":2002,"price":63922.42}
+{"id":679,"make":"Audi","model":"A4","color":"Mauv","year":2008,"price":81419.93}
+{"id":680,"make":"Nissan","model":"Murano","color":"Orange","year":2012,"price":37064.56}
+{"id":685,"make":"Cadillac","model":"XLR","color":"Indigo","year":2007,"price":61307.95}
+{"id":686,"make":"Cadillac","model":"Escalade","color":"Red","year":2003,"price":14178.69}
+{"id":687,"make":"Mazda","model":"MX-5","color":"Violet","year":2001,"price":30330.88}
+{"id":688,"make":"Kia","model":"Rio","color":"Violet","year":2006,"price":29527.93}
+{"id":689,"make":"Dodge","model":"Magnum","color":"Violet","year":2006,"price":82570.25}
+{"id":695,"make":"Volvo","model":"XC90","color":"Crimson","year":2005,"price":19595.11}
+{"id":698,"make":"Jaguar","model":"XK","color":"Mauv","year":2011,"price":14675.36}
+{"id":702,"make":"Infiniti","model":"G","color":"Purple","year":2003,"price":90892.7}
+{"id":703,"make":"Mercury","model":"Grand Marquis","color":"Purple","year":2005,"price":28980.81}
+{"id":705,"make":"Chevrolet","model":"Avalanche","color":"Fuscia","year":2011,"price":42554.65}
+{"id":706,"make":"Hummer","model":"H3","color":"Teal","year":2010,"price":44425.99}
+{"id":710,"make":"Jeep","model":"Grand Cherokee","color":"Turquoise","year":2009,"price":87558.87}
+{"id":712,"make":"Mercedes-Benz","model":"M-Class","color":"Green","year":2006,"price":21104.19}
+{"id":713,"make":"Suzuki","model":"Daewoo Lacetti","color":"Teal","year":2005,"price":52033.49}
+{"id":714,"make":"Chevrolet","model":"Express 3500","color":"Turquoise","year":2008,"price":67964.96}
+{"id":715,"make":"Mitsubishi","model":"Lancer Evolution","color":"Puce","year":2002,"price":81096.37}
+{"id":717,"make":"Porsche","model":"Panamera","color":"Aquamarine","year":2013,"price":48719.76}
+{"id":719,"make":"Audi","model":"A6","color":"Green","year":2004,"price":38083.03}
+{"id":720,"make":"Mercedes-Benz","model":"S-Class","color":"Puce","year":2003,"price":81648.63}
+{"id":722,"make":"Mazda","model":"B-Series","color":"Purple","year":2006,"price":23044.52}
+{"id":723,"make":"Mazda","model":"Mazdaspeed 3","color":"Green","year":2012,"price":44280.12}
+{"id":724,"make":"Nissan","model":"Armada","color":"Teal","year":2008,"price":72693.15}
+{"id":725,"make":"Hyundai","model":"Tiburon","color":"Puce","year":2006,"price":43384.04}
+{"id":726,"make":"Suzuki","model":"Grand Vitara","color":"Violet","year":2002,"price":45438.97}
+{"id":727,"make":"Ford","model":"F-Series","color":"Mauv","year":2004,"price":78218.71}
+{"id":728,"make":"Dodge","model":"Challenger","color":"Indigo","year":2009,"price":48427.04}
+{"id":730,"make":"Mercedes-Benz","model":"SLK-Class","color":"Puce","year":2010,"price":69894.8}
+{"id":733,"make":"Bentley","model":"Azure","color":"Khaki","year":2007,"price":86402.64}
+{"id":734,"make":"Toyota","model":"Avalon","color":"Green","year":2002,"price":92468.47}
+{"id":735,"make":"Audi","model":"A6","color":"Purple","year":2002,"price":88232.05}
+{"id":737,"make":"Lexus","model":"IS F","color":"Teal","year":2010,"price":58127.39}
+{"id":738,"make":"Toyota","model":"Matrix","color":"Orange","year":2009,"price":8523.07}
+{"id":741,"make":"Infiniti","model":"M","color":"Green","year":2010,"price":99505.64}
+{"id":743,"make":"Toyota","model":"Matrix","color":"Mauv","year":2007,"price":21120.89}
+{"id":744,"make":"BMW","model":"Z4","color":"Purple","year":2012,"price":17664.92}
+{"id":745,"make":"Lexus","model":"ES","color":"Aquamarine","year":2008,"price":94757.08}
+{"id":746,"make":"Toyota","model":"Avalon","color":"Mauv","year":2005,"price":12839.88}
+{"id":747,"make":"GMC","model":"Yukon XL 1500","color":"Aquamarine","year":2004,"price":78504.48}
+{"id":750,"make":"Chevrolet","model":"Colorado","color":"Crimson","year":2008,"price":13688.9}
+{"id":754,"make":"Dodge","model":"Ram Van 3500","color":"Yellow","year":2002,"price":23233.43}
+{"id":755,"make":"Volvo","model":"S80","color":"Orange","year":2012,"price":49997.38}
+{"id":756,"make":"Kia","model":"Sedona","color":"Crimson","year":2004,"price":26637.33}
+{"id":758,"make":"Lamborghini","model":"Gallardo","color":"Purple","year":2005,"price":78645.64}
+{"id":762,"make":"Chevrolet","model":"Cavalier","color":"Turquoise","year":2002,"price":42684.61}
+{"id":766,"make":"Porsche","model":"Cayenne","color":"Aquamarine","year":2010,"price":57933.92}
+{"id":768,"make":"Mazda","model":"RX-8","color":"Aquamarine","year":2009,"price":97167.26}
+{"id":771,"make":"Subaru","model":"BRZ","color":"Puce","year":2013,"price":96583.25}
+{"id":773,"make":"Mitsubishi","model":"Outlander","color":"Puce","year":2007,"price":45140.65}
+{"id":774,"make":"Lexus","model":"GS","color":"Yellow","year":2013,"price":46223.39}
+{"id":775,"make":"Nissan","model":"Murano","color":"Indigo","year":2006,"price":7581.22}
+{"id":776,"make":"Subaru","model":"Impreza","color":"Mauv","year":2009,"price":13280.97}
+{"id":779,"make":"Jeep","model":"Liberty","color":"Indigo","year":2012,"price":47002.19}
+{"id":780,"make":"Suzuki","model":"Equator","color":"Aquamarine","year":2011,"price":90728.4}
+{"id":781,"make":"Kia","model":"Optima","color":"Puce","year":2002,"price":20567.67}
+{"id":783,"make":"Toyota","model":"Camry","color":"Aquamarine","year":2009,"price":74469.11}
+{"id":784,"make":"Buick","model":"Rainier","color":"Green","year":2006,"price":50782.35}
+{"id":786,"make":"Dodge","model":"Charger","color":"Yellow","year":2008,"price":71786.14}
+{"id":787,"make":"Infiniti","model":"QX","color":"Khaki","year":2012,"price":20428.57}
+{"id":789,"make":"Toyota","model":"4Runner","color":"Orange","year":2002,"price":25111.51}
+{"id":790,"make":"Chevrolet","model":"Monte Carlo","color":"Green","year":2005,"price":12008.5}
+{"id":793,"make":"Infiniti","model":"G","color":"Orange","year":2010,"price":61910.38}
+{"id":798,"make":"Mercedes-Benz","model":"CLK-Class","color":"Crimson","year":2002,"price":85660.4}
+{"id":799,"make":"Nissan","model":"Maxima","color":"Blue","year":2007,"price":61934.82}
+{"id":803,"make":"Audi","model":"TT","color":"Violet","year":2001,"price":42520.95}
+{"id":805,"make":"Chevrolet","model":"Suburban 1500","color":"Green","year":2012,"price":64958.47}
+{"id":806,"make":"Infiniti","model":"EX","color":"Crimson","year":2009,"price":32564.96}
+{"id":807,"make":"Ford","model":"Ranger","color":"Khaki","year":2008,"price":54343.98}
+{"id":808,"make":"Mercedes-Benz","model":"GL-Class","color":"Indigo","year":2011,"price":52619.02}
+{"id":810,"make":"Chevrolet","model":"Astro","color":"Khaki","year":2002,"price":67067.11}
+{"id":811,"make":"GMC","model":"Jimmy","color":"Pink","year":2001,"price":61966.95}
+{"id":812,"make":"Honda","model":"Pilot","color":"Crimson","year":2012,"price":50037.63}
+{"id":813,"make":"GMC","model":"Sonoma","color":"Orange","year":2002,"price":67317.29}
+{"id":816,"make":"Buick","model":"Regal","color":"Orange","year":2002,"price":58618.47}
+{"id":817,"make":"BMW","model":"330","color":"Teal","year":2005,"price":60079.62}
+{"id":818,"make":"Lexus","model":"GS","color":"Red","year":2007,"price":17569.59}
+{"id":819,"make":"Chevrolet","model":"Colorado","color":"Goldenrod","year":2011,"price":80337.5}
+{"id":823,"make":"Nissan","model":"Versa","color":"Blue","year":2011,"price":28964.43}
+{"id":824,"make":"Porsche","model":"Cayenne","color":"Red","year":2012,"price":40588.67}
+{"id":825,"make":"Volkswagen","model":"Eos","color":"Purple","year":2011,"price":62390.04}
+{"id":828,"make":"Dodge","model":"Ram 2500","color":"Indigo","year":2009,"price":40532.28}
+{"id":832,"make":"Ram","model":"C/V","color":"Crimson","year":2012,"price":35102.11}
+{"id":833,"make":"Chevrolet","model":"Silverado 2500","color":"Red","year":2010,"price":69852.03}
+{"id":835,"make":"Maybach","model":"62","color":"Violet","year":2008,"price":87652.66}
+{"id":837,"make":"Ferrari","model":"458 Italia","color":"Yellow","year":2010,"price":21984.68}
+{"id":838,"make":"Dodge","model":"Stratus","color":"Fuscia","year":2002,"price":37163.42}
+{"id":839,"make":"BMW","model":"7 Series","color":"Mauv","year":2009,"price":99502.62}
+{"id":840,"make":"Ford","model":"E150","color":"Violet","year":2004,"price":82622.22}
+{"id":843,"make":"Cadillac","model":"CTS-V","color":"Red","year":2006,"price":13481.41}
+{"id":844,"make":"Volvo","model":"V70","color":"Puce","year":2003,"price":37050.13}
+{"id":846,"make":"Ford","model":"Fusion","color":"Khaki","year":2011,"price":79300.56}
+{"id":848,"make":"Pontiac","model":"Vibe","color":"Maroon","year":2009,"price":65884.7}
+{"id":849,"make":"Toyota","model":"Sienna","color":"Goldenrod","year":2002,"price":95247.3}
+{"id":852,"make":"Saab","model":"9-5","color":"Blue","year":2001,"price":59919.2}
+{"id":853,"make":"Ford","model":"F250","color":"Blue","year":2010,"price":30657.45}
+{"id":854,"make":"Ford","model":"F250","color":"Indigo","year":2007,"price":20928.21}
+{"id":857,"make":"Ford","model":"Focus","color":"Red","year":2001,"price":18906.8}
+{"id":858,"make":"Ford","model":"E250","color":"Maroon","year":2010,"price":87529.39}
+{"id":859,"make":"Mercury","model":"Grand Marquis","color":"Fuscia","year":2005,"price":66100.78}
+{"id":860,"make":"McLaren","model":"MP4-12C","color":"Yellow","year":2012,"price":80518.96}
+{"id":861,"make":"Oldsmobile","model":"Silhouette","color":"Red","year":2003,"price":26781.93}
+{"id":862,"make":"Volkswagen","model":"CC","color":"Blue","year":2011,"price":85153.35}
+{"id":863,"make":"Volvo","model":"XC70","color":"Khaki","year":2007,"price":59631.06}
+{"id":864,"make":"Nissan","model":"Xterra","color":"Orange","year":2004,"price":70971.95}
+{"id":868,"make":"Land Rover","model":"LR3","color":"Mauv","year":2008,"price":29020.09}
+{"id":869,"make":"Volkswagen","model":"New Beetle","color":"Aquamarine","year":2007,"price":97747.57}
+{"id":870,"make":"Lexus","model":"LX","color":"Maroon","year":2007,"price":63842.94}
+{"id":872,"make":"Hyundai","model":"XG350","color":"Teal","year":2003,"price":70259.65}
+{"id":873,"make":"Chevrolet","model":"Suburban 1500","color":"Khaki","year":2011,"price":9477.43}
+{"id":876,"make":"Ford","model":"Expedition","color":"Aquamarine","year":2001,"price":64803.19}
+{"id":877,"make":"Infiniti","model":"G25","color":"Aquamarine","year":2012,"price":41978.2}
+{"id":878,"make":"Mercedes-Benz","model":"Sprinter 3500","color":"Puce","year":2012,"price":86411.96}
+{"id":879,"make":"GMC","model":"Sierra 2500","color":"Violet","year":2006,"price":5580.17}
+{"id":880,"make":"Toyota","model":"Prius v","color":"Violet","year":2012,"price":73742.42}
+{"id":882,"make":"Audi","model":"Allroad","color":"Yellow","year":2003,"price":49615.15}
+{"id":883,"make":"Subaru","model":"Impreza","color":"Pink","year":2011,"price":8498.41}
+{"id":884,"make":"Acura","model":"RDX","color":"Yellow","year":2007,"price":39347.41}
+{"id":885,"make":"Lexus","model":"ES","color":"Pink","year":2010,"price":44199.79}
+{"id":887,"make":"Mercedes-Benz","model":"SL-Class","color":"Red","year":2012,"price":34452.09}
+{"id":888,"make":"Subaru","model":"Impreza","color":"Aquamarine","year":2012,"price":25929.18}
+{"id":890,"make":"Infiniti","model":"FX","color":"Fuscia","year":2003,"price":32756.64}
+{"id":891,"make":"Chevrolet","model":"Sonic","color":"Indigo","year":2012,"price":69579.85}
+{"id":893,"make":"Porsche","model":"911","color":"Mauv","year":2003,"price":13712.61}
+{"id":894,"make":"BMW","model":"7 Series","color":"Teal","year":2002,"price":10602.0}
+{"id":895,"make":"Ford","model":"Fusion","color":"Aquamarine","year":2012,"price":47209.84}
+{"id":896,"make":"GMC","model":"Yukon","color":"Red","year":2013,"price":16618.2}
+{"id":897,"make":"Saturn","model":"Outlook","color":"Red","year":2010,"price":97787.05}
+{"id":898,"make":"Mercedes-Benz","model":"CL-Class","color":"Puce","year":2009,"price":37580.29}
+{"id":901,"make":"GMC","model":"Yukon","color":"Turquoise","year":2011,"price":40493.36}
+{"id":902,"make":"Mazda","model":"Protege5","color":"Yellow","year":2002,"price":6600.59}
+{"id":905,"make":"Land Rover","model":"LR2","color":"Blue","year":2011,"price":96183.04}
+{"id":907,"make":"Buick","model":"Rendezvous","color":"Purple","year":2003,"price":38811.69}
+{"id":909,"make":"Toyota","model":"Yaris","color":"Crimson","year":2007,"price":83678.09}
+{"id":910,"make":"Chevrolet","model":"Tahoe","color":"Teal","year":2001,"price":46411.14}
+{"id":911,"make":"Nissan","model":"Pathfinder","color":"Mauv","year":2005,"price":36348.99}
+{"id":912,"make":"Mitsubishi","model":"Eclipse","color":"Puce","year":2005,"price":31367.86}
+{"id":913,"make":"Pontiac","model":"Firebird","color":"Orange","year":2001,"price":11689.81}
+{"id":914,"make":"Ford","model":"E350","color":"Blue","year":2009,"price":26317.11}
+{"id":916,"make":"Land Rover","model":"Range Rover","color":"Indigo","year":2008,"price":19769.04}
+{"id":917,"make":"Kia","model":"Sportage","color":"Pink","year":2006,"price":98778.5}
+{"id":918,"make":"Buick","model":"Rainier","color":"Red","year":2006,"price":25335.14}
+{"id":920,"make":"Ferrari","model":"612 Scaglietti","color":"Red","year":2009,"price":83843.82}
+{"id":922,"make":"Kia","model":"Sedona","color":"Fuscia","year":2006,"price":90575.62}
+{"id":923,"make":"GMC","model":"Sierra 3500","color":"Mauv","year":2010,"price":14316.32}
+{"id":924,"make":"Mercury","model":"Sable","color":"Goldenrod","year":2003,"price":16890.22}
+{"id":925,"make":"Toyota","model":"RAV4","color":"Puce","year":2002,"price":12168.77}
+{"id":926,"make":"Smart","model":"Fortwo","color":"Indigo","year":2008,"price":64719.6}
+{"id":930,"make":"Rolls-Royce","model":"Phantom","color":"Red","year":2007,"price":54925.77}
+{"id":931,"make":"Lincoln","model":"Blackwood","color":"Red","year":2002,"price":44047.48}
+{"id":933,"make":"Lotus","model":"Elise","color":"Crimson","year":2010,"price":95170.0}
+{"id":934,"make":"BMW","model":"7 Series","color":"Puce","year":2006,"price":61315.87}
+{"id":935,"make":"Nissan","model":"NV1500","color":"Puce","year":2012,"price":83603.48}
+{"id":936,"make":"Ford","model":"E250","color":"Goldenrod","year":2006,"price":7882.22}
+{"id":937,"make":"Ford","model":"Explorer","color":"Pink","year":2011,"price":10179.97}
+{"id":938,"make":"Ford","model":"Freestar","color":"Yellow","year":2003,"price":20766.9}
+{"id":940,"make":"Mitsubishi","model":"Pajero","color":"Puce","year":2003,"price":44670.51}
+{"id":941,"make":"Ford","model":"F-350 Super Duty","color":"Purple","year":2006,"price":92845.28}
+{"id":945,"make":"Hyundai","model":"Accent","color":"Violet","year":2002,"price":27986.16}
+{"id":946,"make":"Mercedes-Benz","model":"SLK-Class","color":"Puce","year":2003,"price":98172.42}
+{"id":948,"make":"Buick","model":"Lucerne","color":"Puce","year":2011,"price":79852.81}
+{"id":949,"make":"Hyundai","model":"Accent","color":"Fuscia","year":2011,"price":81264.22}
+{"id":950,"make":"Buick","model":"Rendezvous","color":"Pink","year":2007,"price":41916.85}
+{"id":953,"make":"Ford","model":"Econoline E350","color":"Aquamarine","year":2001,"price":20788.87}
+{"id":954,"make":"BMW","model":"X5 M","color":"Puce","year":2012,"price":43318.17}
+{"id":955,"make":"Volkswagen","model":"rio","color":"Mauv","year":2001,"price":56852.32}
+{"id":956,"make":"Maserati","model":"Spyder","color":"Teal","year":2004,"price":63466.64}
+{"id":957,"make":"Chevrolet","model":"Tahoe","color":"Goldenrod","year":2006,"price":79259.54}
+{"id":961,"make":"BMW","model":"X3","color":"Yellow","year":2005,"price":13006.7}
+{"id":962,"make":"Porsche","model":"911","color":"Purple","year":2011,"price":60987.25}
+{"id":963,"make":"Nissan","model":"Versa","color":"Turquoise","year":2007,"price":50911.38}
+{"id":964,"make":"Volvo","model":"XC90","color":"Crimson","year":2011,"price":12247.49}
+{"id":965,"make":"Chevrolet","model":"Colorado","color":"Purple","year":2007,"price":13075.95}
+{"id":968,"make":"Mitsubishi","model":"Eclipse","color":"Pink","year":2005,"price":98630.35}
+{"id":969,"make":"Land Rover","model":"Range Rover","color":"Violet","year":2009,"price":70585.05}
+{"id":971,"make":"Mitsubishi","model":"Montero Sport","color":"Pink","year":2003,"price":86961.96}
+{"id":972,"make":"Rolls-Royce","model":"Phantom","color":"Violet","year":2010,"price":30804.2}
+{"id":975,"make":"Mercury","model":"Sable","color":"Indigo","year":2002,"price":6460.81}
+{"id":976,"make":"Land Rover","model":"LR2","color":"Red","year":2010,"price":75188.56}
+{"id":977,"make":"Chevrolet","model":"Camaro","color":"Pink","year":2002,"price":21085.81}
+{"id":978,"make":"Kia","model":"Rio","color":"Indigo","year":2006,"price":43059.32}
+{"id":980,"make":"Pontiac","model":"Firebird","color":"Green","year":2002,"price":27575.8}
+{"id":982,"make":"Nissan","model":"Frontier","color":"Green","year":2005,"price":55374.38}
+{"id":986,"make":"Subaru","model":"Impreza WRX","color":"Maroon","year":2011,"price":20506.93}
+{"id":989,"make":"Chevrolet","model":"Aveo","color":"Mauv","year":2006,"price":56011.19}
+{"id":991,"make":"Audi","model":"S5","color":"Indigo","year":2011,"price":61422.15}
+{"id":992,"make":"Cadillac","model":"STS","color":"Maroon","year":2011,"price":54520.97}
+{"id":993,"make":"Audi","model":"A6","color":"Khaki","year":2012,"price":50820.08}
+{"id":994,"make":"Audi","model":"Q7","color":"Turquoise","year":2007,"price":12315.68}
+{"id":995,"make":"Maserati","model":"Quattroporte","color":"Purple","year":2006,"price":8715.14}
+{"id":996,"make":"Ferrari","model":"599 GTB Fiorano","color":"Turquoise","year":2009,"price":47623.59}
+{"id":999,"make":"Toyota","model":"Matrix","color":"Pink","year":2008,"price":94239.0}
+{"id":1000,"make":"Chevrolet","model":"Silverado","color":"Puce","year":2006,"price":63299.65}

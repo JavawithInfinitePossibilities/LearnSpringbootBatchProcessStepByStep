@@ -14,6 +14,7 @@ import org.springframework.batch.core.Job;
 import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.JobBuilderFactory;
 import org.springframework.batch.core.configuration.annotation.StepBuilderFactory;
+import org.springframework.batch.core.launch.support.RunIdIncrementer;
 import org.springframework.batch.integration.async.AsyncItemProcessor;
 import org.springframework.batch.integration.async.AsyncItemWriter;
 import org.springframework.batch.item.ItemProcessor;
@@ -46,15 +47,13 @@ public class AsyncItemProcessorItemWriterApplicationJobConfiguration {
 	@Autowired
 	private DataSource dataSource;
 
-	
-
 	@Bean
 	public JdbcPagingItemReader<Customer> pagingItemReader() {
 		JdbcPagingItemReader<Customer> reader = new JdbcPagingItemReader<>();
 		reader.setDataSource(this.dataSource);
 		reader.setFetchSize(10);
 		reader.setRowMapper((ResultSet resultSet, int i) -> {
-			return new Customer(resultSet.getLong("id"), resultSet.getString("firstName"), 
+			return new Customer(resultSet.getLong("id"), resultSet.getString("firstName"),
 					resultSet.getString("lastName"), resultSet.getDate("birthdate"));
 		});
 		MySqlPagingQueryProvider queryProvider = new MySqlPagingQueryProvider();
@@ -85,7 +84,7 @@ public class AsyncItemProcessorItemWriterApplicationJobConfiguration {
 		itemWriter.afterPropertiesSet();
 		return itemWriter;
 	}
-	
+
 	@Bean
 	public AsyncItemWriter asyncItemWriter() throws Exception {
 		AsyncItemWriter<Customer> asyncItemWriter = new AsyncItemWriter<>();
@@ -93,17 +92,17 @@ public class AsyncItemProcessorItemWriterApplicationJobConfiguration {
 		asyncItemWriter.afterPropertiesSet();
 		return asyncItemWriter;
 	}
-	
+
 	@Bean
 	public ItemProcessor<Customer, Customer> itemProcesser() {
 		ItemProcessor<Customer, Customer> processor = (Customer item) -> {
 			Thread.sleep(new Random().nextInt(10));
-			return new Customer(item.getId(), item.getFirstName().toUpperCase(), 
-					item.getLastName().toUpperCase(), item.getBirthdate());
+			return new Customer(item.getId(), item.getFirstName().toUpperCase(), item.getLastName().toUpperCase(),
+					item.getBirthdate());
 		};
 		return processor;
 	}
-	
+
 	@Bean
 	public AsyncItemProcessor asyncItemProcessor() throws Exception {
 		AsyncItemProcessor<Customer, Customer> asyncItemProcessor = new AsyncItemProcessor();
@@ -112,24 +111,23 @@ public class AsyncItemProcessorItemWriterApplicationJobConfiguration {
 		asyncItemProcessor.afterPropertiesSet();
 		return asyncItemProcessor;
 	}
-	
+
 	@Bean
 	public Step step1() throws Exception {
-		return stepBuilderFactory
-				.get("asyncItemProcessorItemWriterApplication1Start")
-				.<Customer, Customer>chunk(10)
+		return stepBuilderFactory.get("asyncItemProcessorItemWriterApplication1Start").<Customer, Customer>chunk(10)
 				.reader(pagingItemReader())
 				/*.<Customer, Customer>processor(itemProcesser())*/
 				.<Customer, Customer>processor(asyncItemProcessor())
 				/*.writer(customerJDBCItemWriter())*/
 				.writer(asyncItemWriter())
-				.taskExecutor(new SimpleAsyncTaskExecutor())
+				/*.taskExecutor(new SimpleAsyncTaskExecutor())*/
 				.build();
 	}
 
 	@Bean
 	public Job listenerJob() throws Exception {
-		return jobBuilderFactory.get("AsyncItemProcessorItemWriterApplicationJobConfiguration").start(step1()).build();
+		return jobBuilderFactory.get("AsyncItemProcessorItemWriterApplicationJobConfiguration")
+				.incrementer(new RunIdIncrementer()).start(step1()).build();
 	}
 
 }

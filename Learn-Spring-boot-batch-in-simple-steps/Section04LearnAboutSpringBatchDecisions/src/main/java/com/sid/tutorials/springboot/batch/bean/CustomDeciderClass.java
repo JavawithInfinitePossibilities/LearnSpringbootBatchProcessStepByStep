@@ -14,21 +14,20 @@ import org.springframework.stereotype.Component;
  *
  */
 @Component
-public class CustomDeciderClass {
-	int nextInt = (int) (Math.random()*10);
+public class CustomDeciderClass implements JobExecutionDecider {
+	int nextInt = (int) (Math.random() * 10);
 
-	public JobExecutionDecider customDecider() {
-		return (JobExecution jobExecution, StepExecution stepExecution) -> {
-			nextInt++;
-			System.out.println("Count value : " + nextInt);
-			if (nextInt % 2 == 0) {
-				System.out.println("EVEN");
-				return new FlowExecutionStatus("EVEN");
-				/*return FlowExecutionStatus.COMPLETED;*/
-			} else {
-				System.out.println("ODD");
-				return new FlowExecutionStatus("ODD");
-			}
-		};
+	@Override
+	public FlowExecutionStatus decide(JobExecution jobExecution, StepExecution stepExecution) {
+		nextInt++;
+		System.out.println("Count value : " + nextInt);
+		if (nextInt % 2 == 0) {
+			System.out.println("EVEN");
+			return new FlowExecutionStatus("EVEN");
+			/*return FlowExecutionStatus.COMPLETED;*/
+		} else {
+			System.out.println("ODD");
+			return new FlowExecutionStatus("ODD");
+		}
 	}
 }

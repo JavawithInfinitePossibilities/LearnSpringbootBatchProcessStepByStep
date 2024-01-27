@@ -7,6 +7,7 @@ import java.io.File;
 import java.sql.ResultSet;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -19,6 +20,7 @@ import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
 import org.springframework.batch.core.configuration.annotation.JobBuilderFactory;
 import org.springframework.batch.core.configuration.annotation.StepBuilderFactory;
+import org.springframework.batch.core.configuration.annotation.StepScope;
 import org.springframework.batch.item.ItemProcessor;
 import org.springframework.batch.item.ItemWriter;
 import org.springframework.batch.item.database.JdbcCursorItemReader;
@@ -32,16 +34,17 @@ import org.springframework.batch.item.support.CompositeItemWriter;
 import org.springframework.batch.item.validator.ValidatingItemProcessor;
 import org.springframework.batch.item.validator.ValidationException;
 import org.springframework.batch.item.xml.StaxEventItemWriter;
+import org.springframework.batch.item.xml.builder.StaxEventItemWriterBuilder;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.FileSystemResource;
+import org.springframework.core.io.Resource;
 import org.springframework.oxm.xstream.XStreamMarshaller;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.sid.tutorials.springboot.batch.module.db.Customer;
-import com.sid.tutorials.springboot.batch.module.dto.CustomerRowMapper;
 import com.sid.tutorials.springboot.batch.process.writer.ClassifierItemWriter;
 
 /**
@@ -63,18 +66,18 @@ public class DBInputAppJobConfiguration {
 
 	/**
 	 * This is the section of Item reader.
+	 * 
 	 * @return
 	 */
-	
+
 	@Bean
 	public JdbcCursorItemReader<Customer> customItemReader() {
 		JdbcCursorItemReader<Customer> reader = new JdbcCursorItemReader<>();
 		reader.setSql("select id, firstName, lastName, birthdate from customer order by lastName, firstName");
 		reader.setDataSource(this.dataSource);
-		reader.setRowMapper(new CustomerRowMapper());
 		reader.setRowMapper((ResultSet resultSet, int i) -> {
-			return new Customer(resultSet.getLong("id"), resultSet.getString("firstName"), resultSet.getString(
-					"lastName"), resultSet.getDate("birthdate"));
+			return new Customer(resultSet.getLong("id"), resultSet.getString("firstName"),
+					resultSet.getString("lastName"), resultSet.getDate("birthdate"));
 		});
 		return reader;
 	}
@@ -85,8 +88,8 @@ public class DBInputAppJobConfiguration {
 		reader.setDataSource(this.dataSource);
 		reader.setFetchSize(100);
 		reader.setRowMapper((ResultSet resultSet, int i) -> {
-			return new Customer(resultSet.getLong("id"), resultSet.getString("firstName"), resultSet.getString(
-					"lastName"), resultSet.getDate("birthdate"));
+			return new Customer(resultSet.getLong("id"), resultSet.getString("firstName"),
+					resultSet.getString("lastName"), resultSet.getDate("birthdate"));
 		});
 
 		MySqlPagingQueryProvider queryProvider = new MySqlPagingQueryProvider();
@@ -101,12 +104,13 @@ public class DBInputAppJobConfiguration {
 
 	/**
 	 * This is the section of writer.
+	 * 
 	 * @return
 	 */
-	
+
 	@Bean
 	public ItemWriter<Customer> customItemWriter() {
-		return (customers) -> {
+		return (List<? extends Customer> customers) -> {
 			for (Customer currentItem : customers) {
 				System.out.println("Current Item : " + currentItem);
 			}
@@ -114,12 +118,13 @@ public class DBInputAppJobConfiguration {
 	}
 
 	@Bean
+	@StepScope
 	public StaxEventItemWriter<Customer> customerXMLItemWriter() throws Exception {
 		XStreamMarshaller marshaller = new XStreamMarshaller();
-		Map<String, Class> aliases = new HashMap<>();
-		aliases.put("customer", Customer.class);
-		marshaller.setAliases(aliases);
+		marshaller.setAliases(Collections.singletonMap("customer", Customer.class));
 		StaxEventItemWriter<Customer> itemWriter = new StaxEventItemWriter<>();
+		Resource exportFileResource = new FileSystemResource(
+				File.createTempFile("customerOutput", ".xml").getAbsolutePath());
 		itemWriter.setRootTagName("customers");
 		itemWriter.setMarshaller(marshaller);
 		String customerOutputPath = File.createTempFile("customerOutput", ".xml").getAbsolutePath();
@@ -130,6 +135,7 @@ public class DBInputAppJobConfiguration {
 	}
 
 	@Bean
+	@StepScope
 	public FlatFileItemWriter<Customer> customerJSONItemWriter() throws Exception {
 		FlatFileItemWriter<Customer> itemWriter = new FlatFileItemWriter<>();
 		ObjectMapper objectMapper = new ObjectMapper();
@@ -148,6 +154,7 @@ public class DBInputAppJobConfiguration {
 	}
 
 	@Bean
+	@StepScope
 	public CompositeItemWriter<Customer> compositeItemWriter() throws Exception {
 		List<ItemWriter<? super Customer>> itemWriters = new ArrayList<ItemWriter<? super Customer>>();
 		itemWriters.add(customerXMLItemWriter());
@@ -159,22 +166,25 @@ public class DBInputAppJobConfiguration {
 	}
 
 	@Bean
-	public ClassifierCompositeItemWriter<Customer> classifierCompositeItemWriter() throws Exception{
-		ClassifierCompositeItemWriter<Customer> classifierCompositeItemWriter=new ClassifierCompositeItemWriter<Customer>();
-		classifierCompositeItemWriter.setClassifier(new ClassifierItemWriter(customerXMLItemWriter(), customerJSONItemWriter()));
+	@StepScope
+	public ClassifierCompositeItemWriter<Customer> classifierCompositeItemWriter() throws Exception {
+		ClassifierCompositeItemWriter<Customer> classifierCompositeItemWriter = new ClassifierCompositeItemWriter<Customer>();
+		classifierCompositeItemWriter
+				.setClassifier(new ClassifierItemWriter(customerXMLItemWriter(), customerJSONItemWriter()));
 		return classifierCompositeItemWriter;
 	}
-	
+
 	/**
 	 * This is the section of Item processor.
+	 * 
 	 * @return
 	 */
-	
+
 	@Bean
 	public ItemProcessor<Customer, Customer> itemProcesser() {
 		ItemProcessor<Customer, Customer> processor = (Customer item) -> {
-			return new Customer(item.getId(), item.getFirstName().toUpperCase(), item.getLastName().toUpperCase(), item
-					.getBirthDate());
+			return new Customer(item.getId(), item.getFirstName().toUpperCase(), item.getLastName().toUpperCase(),
+					item.getBirthDate());
 		};
 		return processor;
 	}
@@ -193,14 +203,15 @@ public class DBInputAppJobConfiguration {
 
 	@Bean
 	public ValidatingItemProcessor<Customer> validationItemProcessor() {
-		ValidatingItemProcessor<Customer> customerValidatingItemProcessor = new ValidatingItemProcessor<>((
-				Customer value) -> {
-			if (value.getFirstName().startsWith("A")) {
-				throw new ValidationException("First names that begin with A are invalid: " + value);
-			}
-		});
+		ValidatingItemProcessor<Customer> customerValidatingItemProcessor = new ValidatingItemProcessor<>(
+				(Customer value) -> {
+					if (value.getFirstName().startsWith("A")) {
+						throw new ValidationException("First names that begin with A are invalid: " + value);
+					}
+				});
 		/**
-		 * This property will set the flow even there is an exception. The batches or the Steps will not fail in this case
+		 * This property will set the flow even there is an exception. The batches or
+		 * the Steps will not fail in this case
 		 */
 		customerValidatingItemProcessor.setFilter(true);
 		return customerValidatingItemProcessor;
@@ -217,10 +228,11 @@ public class DBInputAppJobConfiguration {
 
 	/**
 	 * This is the Steps.
+	 * 
 	 * @return
 	 * @throws Exception
 	 */
-	
+
 	@Bean
 	public Step step1() throws Exception {
 		int value = random.nextInt(10);
@@ -230,19 +242,18 @@ public class DBInputAppJobConfiguration {
 				/*.<Customer, Customer>processor(itemProcesser())*/
 				/*.<Customer, Customer>processor(filterItemProcesser())*/
 				/*.<Customer, Customer>processor(validationItemProcessor())*/
-				.<Customer, Customer>processor(compositeItemProcesser())
+				/*.<Customer, Customer>processor(compositeItemProcesser())*/
 				/*.writer(customItemWriter())*/
-				/*.writer(customerXMLItemWriter())
-				.writer(customerJSONItemWriter())*/
+				/*.writer(customerXMLItemWriter())*/
+				/*.writer(customerJSONItemWriter())*/
 				/*.writer(compositeItemWriter())*/
-				.writer(classifierCompositeItemWriter())
-				.stream(customerXMLItemWriter())
-				.stream(customerJSONItemWriter())
-				.build();
+				.writer(classifierCompositeItemWriter()).stream(customerXMLItemWriter())
+				.stream(customerJSONItemWriter()).build();
 	}
 
 	/**
 	 * This is the JOB section
+	 * 
 	 * @return
 	 * @throws Exception
 	 */

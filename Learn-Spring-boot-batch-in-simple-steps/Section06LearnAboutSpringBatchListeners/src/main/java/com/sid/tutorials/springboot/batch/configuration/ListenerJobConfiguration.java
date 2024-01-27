@@ -11,6 +11,7 @@ import org.springframework.batch.core.Step;
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
 import org.springframework.batch.core.configuration.annotation.JobBuilderFactory;
 import org.springframework.batch.core.configuration.annotation.StepBuilderFactory;
+import org.springframework.batch.core.launch.support.RunIdIncrementer;
 import org.springframework.batch.item.ItemReader;
 import org.springframework.batch.item.ItemWriter;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -60,9 +61,7 @@ public class ListenerJobConfiguration {
 	public ItemWriter<String> writer() {
 		System.out.println("WRITER");
 		return ((List<? extends String> items) -> {
-			for (String item : items) {
-				System.out.println("Writer is writting the items : " + item);
-			}
+			items.stream().forEach(item->System.out.println("Writer is writting the items : " + item));
 		});
 	}
 
@@ -81,7 +80,8 @@ public class ListenerJobConfiguration {
 	@Bean
 	public Job listenerJob() {
 		System.out.println("JOB");
-		return jobBuilderFactory.get("ListenerJobConfiguration").start(step1()).listener(customJobListener).build();
+		return jobBuilderFactory.get("ListenerJobConfiguration").incrementer(new RunIdIncrementer())
+				.start(step1()).listener(customJobListener).build();
 	}
 
 }

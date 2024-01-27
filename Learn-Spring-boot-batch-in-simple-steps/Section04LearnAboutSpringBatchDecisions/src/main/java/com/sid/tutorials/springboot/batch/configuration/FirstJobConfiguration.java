@@ -13,6 +13,7 @@ import org.springframework.batch.core.configuration.annotation.JobBuilderFactory
 import org.springframework.batch.core.configuration.annotation.StepBuilderFactory;
 import org.springframework.batch.core.job.flow.FlowExecutionStatus;
 import org.springframework.batch.core.job.flow.JobExecutionDecider;
+import org.springframework.batch.core.launch.support.RunIdIncrementer;
 import org.springframework.batch.core.scope.context.ChunkContext;
 import org.springframework.batch.repeat.RepeatStatus;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -82,15 +83,15 @@ public class FirstJobConfiguration {
 
 	@Bean
 	public Job firstFlowJob() {
-		return jobBuilderFactory.get("EighthDeciderSpringBatchProject")
+		return jobBuilderFactory.get("EighthDeciderSpringBatchProject").incrementer(new RunIdIncrementer())
 				.start(step1())
-				/*.next(customDeciderClass.customDecider())*/
-				.next(customDeciderClass.customDecider()).on("EVEN").to(step2())
-				.next(customDeciderClass.customDecider()).on("ODD").to(step3())
-				.from(step2()).on("*").to(customDeciderClass.customDecider())
-				.from(step3()).on("*").to(customDeciderClass.customDecider())
-				/*.from(customDeciderClass.customDecider()).on("EVEN").to(step2())
-				.from(customDeciderClass.customDecider()).on("ODD").to(step3())*/
+				.next(customDeciderClass)
+				.from(customDeciderClass).on("EVEN").to(step2())
+				.from(customDeciderClass).on("ODD").to(step3())
+				.from(step2()).on("*").to(customDeciderClass)
+				.from(step3()).on("*").to(customDeciderClass)
+				.from(customDeciderClass).on("EVEN").to(step2())
+				.from(customDeciderClass).on("ODD").to(step3())
 				.end()
 				.build();
 	}

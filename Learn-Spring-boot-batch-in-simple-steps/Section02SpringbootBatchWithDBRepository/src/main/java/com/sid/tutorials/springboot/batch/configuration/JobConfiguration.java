@@ -9,6 +9,7 @@ import org.springframework.batch.core.StepContribution;
 import org.springframework.batch.core.configuration.annotation.EnableBatchProcessing;
 import org.springframework.batch.core.configuration.annotation.JobBuilderFactory;
 import org.springframework.batch.core.configuration.annotation.StepBuilderFactory;
+import org.springframework.batch.core.launch.support.RunIdIncrementer;
 import org.springframework.batch.core.scope.context.ChunkContext;
 import org.springframework.batch.repeat.RepeatStatus;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -58,7 +59,7 @@ public class JobConfiguration {
 		}).build();
 	}
 
-	/*
+	
 	@Bean
 	public Job job() {
 		return jobBuilderFactory.get("SecondSpringBatchProject")
@@ -67,7 +68,7 @@ public class JobConfiguration {
 				.next(step3())
 				.build();
 	}
-	*/
+	
 
 	/*
 	@Bean
@@ -77,8 +78,8 @@ public class JobConfiguration {
 				.from(step2()).on("COMPLETED").to(step3())
 				.from(step3()).end()
 				.build();
-	}
-	*/
+	}*/
+	
 
 	/*
 	@Bean
@@ -91,10 +92,14 @@ public class JobConfiguration {
 	}
 	*/
 
-	@Bean
+	/*@Bean
 	public Job job() {
-		return jobBuilderFactory.get("FifthSpringBatchProject").start(step1()).on("COMPLETED").to(step2()).from(step2())
-				.on("COMPLETED").stopAndRestart(step3()).from(step3()).end().build();
-	}
+		return jobBuilderFactory.get("FifthSpringBatchProject")
+				.incrementer(new RunIdIncrementer())
+				.start(step1()).on("COMPLETED").to(step2())
+				.from(step2()).on("COMPLETED").stopAndRestart(step3())
+				.from(step3()).end()
+				.build();
+	}*/
 
 }

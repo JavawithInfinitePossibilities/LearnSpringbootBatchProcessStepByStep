@@ -3,21 +3,18 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.4.2</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-
 	<groupId>com.sid.tutorials.springboot.batch</groupId>
 	<artifactId>Learn-Spring-boot-batch-in-simple-steps</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>Learn-Spring-boot-batch-in-simple-steps</name>
 	<description>Learn-Spring-boot-batch-in-simple-steps</description>
-
 	<build>
 		<resources>
 			<resource>
@@ -38,14 +35,12 @@
 			</plugins>
 		</pluginManagement>
 	</build>
-
 	<properties>
 		<springframework.version>4.3.6.RELEASE</springframework.version>
 		<junit.version>4.13</junit.version>
 		<javax.annotation-api.version>1.3.2</javax.annotation-api.version>
 		<mysql-connector-java.version>8.0.21</mysql-connector-java.version>
 	</properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
@@ -59,8 +54,16 @@
 				</exclusion>
 			</exclusions>
 		</dependency>
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>commons-io</groupId>
+			<artifactId>commons-io</artifactId>
+			<version>2.4</version>
+		</dependency>
 	</dependencies>
-
 	<modules>
 		<module>Section01Welcome</module>
 		<module>Section02SpringbootBatchWithDBRepository</module>
@@ -68,6 +71,7 @@
 		<module>Section04LearnAboutSpringBatchDecisions</module>
 		<module>Section05LearnAboutSpringBatchNestedJobs</module>
 		<module>Section06LearnAboutSpringBatchListeners</module>
+		<module>Section06LearnAboutSpringBatchSkipListeners</module>
 		<module>Section07LearnAboutSpringBatchJobParameters</module>
 		<module>Section08IntroductionToReaderWriter</module>
 		<module>Section09LearnHowtoReadFromaDatabase</module>
@@ -89,5 +93,37 @@
 		<module>
 			Section25LearnHowToScheduleaJobUsingSpringSchedule
 		</module>
+		<module>Division-01-Introduction</module>
+		<module>Division-02-Setting-Up-environment</module>
+		<module>Division-03-Introduction-To-Spring-Batch</module>
+		<module>
+			Division-03-Introduction-To-Spring-Batch-MySql-DB
+		</module>
+		<module>
+			Division-03-Introduction-To-Spring-Batch-Job-Executionar-listener
+		</module>
+		<module>
+			Division-03-Introduction-To-Spring-Batch-Step-Executionar-Listener
+		</module>
+		<module>Division-05-Chunk-Oriented-Step</module>
+		<module>
+			Division-06-Job-Handling-with-REST-API-And-Spring-Schedular
+		</module>
+		<module>
+			Division-06-Job-Handling-with-REST-API-And-Spring-Schedular-Async
+		</module>
+		<module>
+			Division-06-Job-Handling-with-REST-API-And-Spring-Schedular-Scheduler
+		</module>
+		<module>Division-07-Working-With-Item-Reader</module>
+		<module>Division-07-Working-With-Item-Reader-JSON</module>
+		<module>Division-07-Working-With-Item-Reader-JDBC</module>
+		<module>
+			Division-07-Working-With-Item-Reader-JDBC-Multiple-Datasource
+		</module>
+		<module>Division-08-Working-With-item-Writer</module>
+		<module>Division-08-Working-With-item-Writer-JSON</module>
+		<module>Division-08-Working-With-item-Writer-JDBC</module>
+		<module>Division-09-Fault-Tolerance-With-Spring-Batch</module>
 	</modules>
 </project>

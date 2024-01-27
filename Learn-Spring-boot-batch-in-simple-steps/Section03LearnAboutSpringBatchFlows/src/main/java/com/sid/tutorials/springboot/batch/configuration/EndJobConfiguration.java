@@ -21,8 +21,7 @@ import org.springframework.context.annotation.Configuration;
  * @author Lenovo
  *
  */
-//@Configuration
-//@EnableBatchProcessing
+@Configuration
 public class EndJobConfiguration {
 
 	@Autowired

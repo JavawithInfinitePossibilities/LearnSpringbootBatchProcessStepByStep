@@ -10,6 +10,7 @@ import org.springframework.batch.core.configuration.annotation.EnableBatchProces
 import org.springframework.batch.core.configuration.annotation.JobBuilderFactory;
 import org.springframework.batch.core.configuration.annotation.StepBuilderFactory;
 import org.springframework.batch.core.launch.JobLauncher;
+import org.springframework.batch.core.launch.support.RunIdIncrementer;
 import org.springframework.batch.core.repository.JobRepository;
 import org.springframework.batch.core.scope.context.ChunkContext;
 import org.springframework.batch.core.step.builder.JobStepBuilder;
@@ -62,7 +63,7 @@ public class ParentJobConfiguration {
 				.repository(jobRepository)
 				.transactionManager(platformTransactionManager)
 				.build();
-		return jobBuilderFactory.get("parentJob")
+		return jobBuilderFactory.get("parentJob").incrementer(new RunIdIncrementer())
 				.start(step1Parent())
 				.next(childJobStep)
 				.build();
