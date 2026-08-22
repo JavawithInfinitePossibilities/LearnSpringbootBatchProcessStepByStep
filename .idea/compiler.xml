@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Section25LearnHowToScheduleaJobUsingSpringSchedule" />
+        <module name="Section04LearnAboutSpringBatchDecisions" />
+        <module name="Section09LearnHowtoReadFromaDatabase" />
+        <module name="Section23LearnHowToStopaJob" />
+        <module name="Section01Welcome" />
+        <module name="Division-05-Chunk-Oriented-Step" />
+        <module name="Section24LearnHowToStopaJobFromCommend" />
+        <module name="Section11LearnHowtoReadFromXML" />
+        <module name="Section02SpringbootBatchWithDBRepository" />
+        <module name="Section16LearnHowToHandleRetry" />
+        <module name="Division-01-Introduction" />
+        <module name="Division-06-Job-Handling-with-REST-API-And-Spring-Schedular-Async" />
+        <module name="Division-07-Working-With-Item-Reader-JSON" />
+        <module name="Division-08-Working-With-item-Writer-JSON" />
+        <module name="Section19LearnHowToHandleErrorsListeners" />
+        <module name="Section17LearnHowToHandleErrorsRetry" />
+        <module name="Division-06-Job-Handling-with-REST-API-And-Spring-Schedular-Scheduler" />
+        <module name="Section22LearnAboutLocalPartitioning" />
+        <module name="Section18LearnHowToHandleErrorsSkip" />
+        <module name="Division-07-Working-With-Item-Reader" />
+        <module name="Division-03-Introduction-To-Spring-Batch-Job-Executionar-listener" />
+        <module name="Division-08-Working-With-item-Writer" />
+        <module name="Section20LearnAboutMultiThreadedStepAsyncItemProcessor" />
+        <module name="Division-03-Introduction-To-Spring-Batch" />
+        <module name="Section21LearnAboutAsyncItemProcessor" />
+        <module name="Section15LearnAboutItemStreamInterface" />
+        <module name="Section03LearnAboutSpringBatchFlows" />
+        <module name="Division-02-Setting-Up-environment" />
+        <module name="Division-06-Job-Handling-with-REST-API-And-Spring-Schedular" />
+        <module name="Section05LearnAboutSpringBatchNestedJobs" />
+        <module name="Section08IntroductionToReaderWriter" />
+        <module name="Division-07-Working-With-Item-Reader-JDBC-Multiple-Datasource" />
+        <module name="Division-03-Introduction-To-Spring-Batch-MySql-DB" />
+        <module name="Section12LearnHowtoReadFromMultipleSources" />
+        <module name="Division-08-Working-With-item-Writer-JDBC" />
+        <module name="Division-09-Fault-Tolerance-With-Spring-Batch" />
+        <module name="Section06LearnAboutSpringBatchListeners" />
+        <module name="Section07LearnAboutSpringBatchJobParameters" />
+        <module name="Section10LearnHowtoReadFlatFiles" />
+        <module name="Division-03-Introduction-To-Spring-Batch-Step-Executionar-Listener" />
+        <module name="Division-07-Working-With-Item-Reader-JDBC" />
+        <module name="Section06LearnAboutSpringBatchSkipListeners" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Division-01-Introduction" options="-parameters" />
+      <module name="Division-02-Setting-Up-environment" options="-parameters" />
+      <module name="Division-03-Introduction-To-Spring-Batch" options="-parameters" />
+      <module name="Division-03-Introduction-To-Spring-Batch-Job-Executionar-listener" options="-parameters" />
+      <module name="Division-03-Introduction-To-Spring-Batch-MySql-DB" options="-parameters" />
+      <module name="Division-03-Introduction-To-Spring-Batch-Step-Executionar-Listener" options="-parameters" />
+      <module name="Division-05-Chunk-Oriented-Step" options="-parameters" />
+      <module name="Division-06-Job-Handling-with-REST-API-And-Spring-Schedular" options="-parameters" />
+      <module name="Division-06-Job-Handling-with-REST-API-And-Spring-Schedular-Async" options="-parameters" />
+      <module name="Division-06-Job-Handling-with-REST-API-And-Spring-Schedular-Scheduler" options="-parameters" />
+      <module name="Division-07-Working-With-Item-Reader" options="-parameters" />
+      <module name="Division-07-Working-With-Item-Reader-JDBC" options="-parameters" />
+      <module name="Division-07-Working-With-Item-Reader-JDBC-Multiple-Datasource" options="-parameters" />
+      <module name="Division-07-Working-With-Item-Reader-JSON" options="-parameters" />
+      <module name="Division-08-Working-With-item-Writer" options="-parameters" />
+      <module name="Division-08-Working-With-item-Writer-JDBC" options="-parameters" />
+      <module name="Division-08-Working-With-item-Writer-JSON" options="-parameters" />
+      <module name="Division-09-Fault-Tolerance-With-Spring-Batch" options="-parameters" />
+      <module name="Section01Welcome" options="-parameters" />
+      <module name="Section02SpringbootBatchWithDBRepository" options="-parameters" />
+      <module name="Section03LearnAboutSpringBatchFlows" options="-parameters" />
+      <module name="Section04LearnAboutSpringBatchDecisions" options="-parameters" />
+      <module name="Section05LearnAboutSpringBatchNestedJobs" options="-parameters" />
+      <module name="Section06LearnAboutSpringBatchListeners" options="-parameters" />
+      <module name="Section06LearnAboutSpringBatchSkipListeners" options="-parameters" />
+      <module name="Section07LearnAboutSpringBatchJobParameters" options="-parameters" />
+      <module name="Section08IntroductionToReaderWriter" options="-parameters" />
+      <module name="Section09LearnHowtoReadFromaDatabase" options="-parameters" />
+      <module name="Section10LearnHowtoReadFlatFiles" options="-parameters" />
+      <module name="Section11LearnHowtoReadFromXML" options="-parameters" />
+      <module name="Section12LearnHowtoReadFromMultipleSources" options="-parameters" />
+      <module name="Section15LearnAboutItemStreamInterface" options="-parameters" />
+      <module name="Section16LearnHowToHandleRetry" options="-parameters" />
+      <module name="Section17LearnHowToHandleErrorsRetry" options="-parameters" />
+      <module name="Section18LearnHowToHandleErrorsSkip" options="-parameters" />
+      <module name="Section19LearnHowToHandleErrorsListeners" options="-parameters" />
+      <module name="Section20LearnAboutMultiThreadedStepAsyncItemProcessor" options="-parameters" />
+      <module name="Section21LearnAboutAsyncItemProcessor" options="-parameters" />
+      <module name="Section22LearnAboutLocalPartitioning" options="-parameters" />
+      <module name="Section23LearnHowToStopaJob" options="-parameters" />
+      <module name="Section24LearnHowToStopaJobFromCommend" options="-parameters" />
+      <module name="Section25LearnHowToScheduleaJobUsingSpringSchedule" options="-parameters" />
+    </option>
+  </component>
+</project>
