@@ -112,14 +112,18 @@ public class LocalPartitioningApplicationJobConfiguration {
 
 	@Bean
 	public Step slaveStep() {
-		return stepBuilderFactory.get("slaveStep").<Customer, Customer>chunk(1000).reader(pagingItemReader(null, null))
-				.processor(itemProcesser()).writer(customerJDBCItemWriter()).build();
+		return stepBuilderFactory.get("slaveStep").<Customer, Customer>chunk(1000)
+				.reader(pagingItemReader(null, null))
+				.processor(itemProcesser())
+				.writer(customerJDBCItemWriter()).build();
 	}
 
 	@Bean
 	public Step step1() throws Exception {
 		return stepBuilderFactory.get("LocalPartitioningApplication1Start")
-				.partitioner(slaveStep().getName(), partitioner()).step(slaveStep()).gridSize(4)
+				.partitioner(slaveStep().getName(), partitioner())
+				.step(slaveStep())
+				.gridSize(4)
 				.taskExecutor(new SimpleAsyncTaskExecutor()).build();
 	}
 
